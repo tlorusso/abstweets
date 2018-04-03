@@ -1,0 +1,12 @@
+name: abstweets
+title: abstweets
+username:
+account: statistikzh
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 313908
+bundleId: 1298394
+url: https://statistikzh.shinyapps.io/abstweets/
+when: 1522697129.57548
+asMultiple: FALSE
+asStatic: FALSE
