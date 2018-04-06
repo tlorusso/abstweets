@@ -26,8 +26,7 @@ data_rt <- readRDS("retweets.rds")
 activity <- readRDS("activity.rds")
 
 # Define UI for application 
-ui <- navbarPage("AbsTweets",
-                theme = shinytheme("journal"),
+ui <- fluidPage(theme = shinytheme("journal"),
                 tags$head(includeScript("js/google-analytics.js")),
                 tags$header(list(tags$style("img {display:inline-block;background-repeat:no-repeat;position:relative;left:10px;z-index:3;}"),
                                  tags$a(href="http://www.politan.ch", tags$img(src="logo_bw.png", height="70%"), target="_blank")),
@@ -45,39 +44,44 @@ ui <- navbarPage("AbsTweets",
                                    fjs.parentNode.insertBefore(js,fjs);
                                    }
                                    }(document, 'script', 'twitter-wjs');")),
-                 tabPanel("Plot", sidebarLayout(
-                  sidebarPanel(
-                     h4("Tweets"),
-                   #   selectizeInput('e7', label= 'Choose District',choices = districts, 
-                   #                  multiple = TRUE, selected = "Total Canton of Zurich", options= list(maxItems = 13)),
-                   #   hr(),
-                   includeMarkdown("about.Rmd")),
-                   mainPanel(h4("Tweets"),
-                             dygraphOutput("tweetplot")))),
-                 tabPanel("User", titlePanel("Retweets & Aktivität"),
-                          # Create a new Row in the UI for selectInputs
-                          # fluidRow(
-                          #   column(4,
-                          #          selectInput("districtinput4",
-                          #                      "District:",
-                          #                      c("All",
-                          #                        unique(as.character(swr_data$GEBIET_NAME))))),
-                          #   column(4,
-                          #          selectInput("yearinput",
-                          #                      "Year:",
-                          #                      c("All",
-                          #                        unique(as.character(swr_data$INDIKATOR_JAHR)))))),
-                          # Create a new row for the table.
-                          fluidRow(
-                            h4("Tweets"),
-                            DT::dataTableOutput("act")),
-                          h4("Retweets pro User"),
-                          fluidRow(
-                            DT::dataTableOutput("rt"))
-                 ),
-                 tabPanel(p(icon("Info"), "Infos & Datendownload")
-                          # ,includeMarkdown("about.Rmd")
-                          )
+                titlePanel("  Twitter-Monitor "),
+                mainPanel(
+                tabsetPanel(
+                         tabPanel("Plot", sidebarLayout(
+                          sidebarPanel(
+                             h4("Am Puls des Abstimmungskampfes auf Twitter"),
+                           #   selectizeInput('e7', label= 'Choose District',choices = districts, 
+                           #                  multiple = TRUE, selected = "Total Canton of Zurich", options= list(maxItems = 13)),
+                           #   hr(),
+                           includeMarkdown("about.Rmd")),
+                           mainPanel(h4("Tweets"),
+                                     dygraphOutput("tweetplot")))),
+                           tabPanel("User", titlePanel("Retweets & Aktivität"),
+                                    # Create a new Row in the UI for selectInputs
+                                    # fluidRow(
+                                    #   column(4,
+                                    #          selectInput("districtinput4",
+                                    #                      "District:",
+                                    #                      c("All",
+                                    #                        unique(as.character(swr_data$GEBIET_NAME))))),
+                                    #   column(4,
+                                    #          selectInput("yearinput",
+                                    #                      "Year:",
+                                    #                      c("All",
+                                    #                        unique(as.character(swr_data$INDIKATOR_JAHR)))))),
+                                    # Create a new row for the table.
+                                    fluidRow(
+                                      h4("Tweets"),
+                                      DT::dataTableOutput("act")),
+                                    h4("Retweets pro User"),
+                                    fluidRow(
+                                      DT::dataTableOutput("rt"))
+                           ),
+                           tabPanel(p(icon("Info"), "Infos & Datendownload")
+                                    # ,includeMarkdown("about.Rmd")
+                                    )
+                )
+                )
 )
 
 # Define server logic required to draw plot

@@ -3,8 +3,6 @@ title: "about"
 output: html_document
 ---
 
-**Am Puls des Abstimmungskampfes auf Twitter**
-
 Diese App zeigt die Anzahl Tweets mit den häufigsten Hashtags zu den eidgenössischen Vorlagen des anstehenden Abstimmungssonntags.
 
 **Vollgeldinitiative:**<br> #vollgeld, #vollgeldja, #vollgeldnein
