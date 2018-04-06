@@ -13,8 +13,13 @@ library(DT)
 library(tidyverse)
 library(politantheme)
 library(shinythemes)
+library(timetk)
 
-vg_gsg <- readRDS("vg_gsg.rds")
+vg_gsg <- readRDS("vg_gsg.rds") %>% 
+              spread(vorlage,anzahl) %>% 
+              filter(!is.na(dmy)) %>% 
+               #extended timeseries 
+              tk_xts(date_var=dmy)
 
 data_rt <- readRDS("retweets.rds")
 
@@ -48,7 +53,7 @@ ui <- navbarPage("AbsTweets",
                    #   hr(),
                    includeMarkdown("about.Rmd")),
                    mainPanel(h4("Tweets"),
-                             plotOutput("tweetplot")))),
+                             dygraphOutput("tweetplot")))),
                  tabPanel("User", titlePanel("Retweets & Aktivität"),
                           # Create a new Row in the UI for selectInputs
                           # fluidRow(
@@ -78,16 +83,27 @@ ui <- navbarPage("AbsTweets",
 # Define server logic required to draw plot
 server <- function(input, output) {
    
+  #ggplot2 version
   # print(str(swr_data))
   # plot
   
-  output$tweetplot <- renderPlot({
-    
-   vg_gsg %>% 
-      ggplot(aes(dmy,anzahl,color=vorlage,group=vorlage))+
-      geom_line()+
-      politantheme::theme_politan()+
-      labs(caption="politan.ch")
+  # output$tweetplot <- renderPlot({
+  #   
+  #  vg_gsg %>% 
+  #     ggplot(aes(dmy,anzahl,color=vorlage,group=vorlage))+
+  #     geom_line()+
+  #     politantheme::theme_politan()+
+  #     labs(caption="politan.ch")
+  #   
+  # })
+  
+# dygraphs-plot
+output$tweetplot <- renderDygraph({
+  
+  dygraph(vg_gsg) %>%
+    dySeries("vg", label = "Vollgeld",color = "black") %>%
+    dySeries("vl", label = "Geldspielgesetz",color = "grey") %>% 
+    dyOptions(drawPoints = TRUE, pointSize = 2)
     
   })
   
