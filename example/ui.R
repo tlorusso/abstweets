@@ -3,6 +3,7 @@ library(politantheme)
 library(shiny)
 library(shinythemes)
 library(rhandsontable)
+library(dygraphs)
 
 
 shinyUI(fluidPage(theme = shinytheme("journal"),
