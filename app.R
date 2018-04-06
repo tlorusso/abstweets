@@ -14,6 +14,7 @@ library(tidyverse)
 library(politantheme)
 library(shinythemes)
 library(timetk)
+library(dygraphs)
 
 vg_gsg <- readRDS("vg_gsg.rds") %>% 
               spread(vorlage,anzahl) %>% 
