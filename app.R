@@ -22,7 +22,24 @@ activity <- readRDS("activity.rds")
 
 # Define UI for application 
 ui <- navbarPage("AbsTweets",
-                theme = shinytheme("united"),
+                theme = shinytheme("journal"),
+                tags$head(includeScript("js/google-analytics.js")),
+                tags$header(list(tags$style("img {display:inline-block;background-repeat:no-repeat;position:relative;left:10px;z-index:3;}"),
+                                 tags$a(href="http://www.politan.ch", tags$img(src="logo_bw.png", height="70%"), target="_blank")),
+                            tags$style("header {background-color: #333333;padding-top:10px;border-bottom:1px solid #474747;height:50px}")),
+                
+                tags$script(HTML("var header = $('.navbar > .container');
+                                   header.append('<div style=\"float:right\"><a href=\"https://twitter.com/share\" class=\"twitter-follow-button\" aling=\"middle\" data-url=\"www.politan.ch:3838/vorumfragen\" data-text=\"Visit www.politan.ch:3838/vorumfragen\" data-size=\"large\">Tweet</a></div>');
+                                   console.log(header)")),
+                tags$script(HTML("!function(d,s,id){
+                                   var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';
+                                   if(!d.getElementById(id)){
+                                   js=d.createElement(s);
+                                   js.id=id;
+                                   js.src=p+'://platform.twitter.com/widgets.js';
+                                   fjs.parentNode.insertBefore(js,fjs);
+                                   }
+                                   }(document, 'script', 'twitter-wjs');")),
                  tabPanel("Plot", sidebarLayout(
                   sidebarPanel(
                      h4("Tweets"),
@@ -58,7 +75,7 @@ ui <- navbarPage("AbsTweets",
                           )
 )
 
-# Define server logic required to draw a histogram
+# Define server logic required to draw plot
 server <- function(input, output) {
    
   # print(str(swr_data))
