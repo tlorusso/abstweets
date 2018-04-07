@@ -1,0 +1,7 @@
+---
+title: "about"
+output: html_document
+---
+
+- [ ] for an empty checkbox
+- [x] for a checked checkbox
