@@ -108,7 +108,11 @@ output$tweetplot <- renderDygraph({
   dygraph(vg_gsg) %>%
     dySeries("vg", label = "Vollgeld",color = "black") %>%
     dySeries("vl", label = "Geldspielgesetz",color = "grey") %>% 
-    dyOptions(drawPoints = TRUE, pointSize = 2)
+    dyOptions(drawPoints = TRUE, pointSize = 2) %>% 
+    dyCSS("politan.css") %>% 
+    dyAxis("x", label = "politan.ch")
+  #für event-linien
+  #%>% dyEvent("1950-6-30", "Korea", labelLoc = "bottom") %>%
     
   })
   

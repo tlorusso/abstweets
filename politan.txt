@@ -1,0 +1,4 @@
+.dygraph-label.dygraph-xlabel {
+  font-size: 11px;
+background-image: url('../www/logo_bw.png');
+}
