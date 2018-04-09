@@ -82,7 +82,8 @@ ui <- fluidPage(theme = shinytheme("journal"),
                            tabPanel(p(icon("Info"), "Infos & Datendownload")
                                     # ,includeMarkdown("about.Rmd")
                                     )
-                )
+                ),a("Follow @politan_ch", href="http://twitter.com/politan_ch", class="twitter-follow-button", target="_blank"),
+                tags$head(tags$script(src="http://platform.twitter.com/widgets.js", type="text/javascript"))
                 )
 )
 
