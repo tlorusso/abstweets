@@ -125,6 +125,7 @@ vg_gsg %>%
   e_line(vg,name="Vollgeld") %>% 
   e_line(vl,name="Geldspielgesetz") %>% 
   e_tooltip(trigger = "axis") %>% 
+ e_toolbox(feature = "saveAsImage") %>% 
   e_title("", "politan.ch", sublink = "http://politan.ch/")
   
   })
