@@ -25,5 +25,8 @@ dygraph(data) %>%
   dySeries("vg", label = "Vollgeld",color = "black") %>%
   dySeries("vl", label = "Geldspielgesetz",color = "grey") %>% 
   dyOptions(drawPoints = TRUE, pointSize = 2)
+
+
+
   
 

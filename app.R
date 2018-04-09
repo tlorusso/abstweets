@@ -7,20 +7,21 @@
 #    http://shiny.rstudio.com/
 #
 
-library(shiny)
+# library(timetk)
+# library(dygraphs)
 library(pacman)
-library(DT)
-library(tidyverse)
 library(politantheme)
-library(shinythemes)
-library(timetk)
-library(dygraphs)
+
+pacman::p_load(tidyverse,echarts4r,shinythemes,DT,shiny)
 
 vg_gsg <- readRDS("vg_gsg.rds") %>% 
-              spread(vorlage,anzahl) %>% 
-              filter(!is.na(dmy)) %>% 
-               #extended timeseries 
-              tk_xts(date_var=dmy)
+              spread(vorlage,anzahl)
+
+# %>% 
+#               filter(!is.na(dmy)) 
+# %>% für dygraphs
+#                #extended timeseries 
+#               tk_xts(date_var=dmy)
 
 data_rt <- readRDS("retweets.rds")
 
@@ -56,7 +57,7 @@ ui <- fluidPage(theme = shinytheme("journal"),
                            #   hr(),
                            includeMarkdown("about.Rmd")),
                            mainPanel(h4("Tweets"),
-                                     dygraphOutput("tweetplot")))),
+                                     echarts4rOutput("tweetplot")))),
                            tabPanel("User", titlePanel("Retweets & Aktivität"),
                                     # Create a new Row in the UI for selectInputs
                                     # fluidRow(
@@ -102,20 +103,32 @@ server <- function(input, output) {
   #   
   # })
   
-# dygraphs-plot
-output$tweetplot <- renderDygraph({
+# # dygraphs-plot
+# output$tweetplot <- renderDygraph({
+#   
+#   dygraph(vg_gsg) %>%
+#     dySeries("vg", label = "Vollgeld",color = "black") %>%
+#     dySeries("vl", label = "Geldspielgesetz",color = "grey") %>% 
+#     dyOptions(drawPoints = TRUE, pointSize = 2) %>% 
+#     dyCSS("politan.css") %>% 
+#     dyAxis("x", label = "politan.ch")
+#   #für event-linien
+#   #%>% dyEvent("1950-6-30", "Korea", labelLoc = "bottom") %>%
+#     
+#   })
   
-  dygraph(vg_gsg) %>%
-    dySeries("vg", label = "Vollgeld",color = "black") %>%
-    dySeries("vl", label = "Geldspielgesetz",color = "grey") %>% 
-    dyOptions(drawPoints = TRUE, pointSize = 2) %>% 
-    dyCSS("politan.css") %>% 
-    dyAxis("x", label = "politan.ch")
-  #für event-linien
-  #%>% dyEvent("1950-6-30", "Korea", labelLoc = "bottom") %>%
-    
+  
+output$tweetplot <-  renderEcharts4r({
+
+vg_gsg %>% 
+  e_charts(dmy) %>% 
+  e_line(vg,name="Vollgeld") %>% 
+  e_line(vl,name="Geldspielgesetz") %>% 
+  e_tooltip(trigger = "axis") %>% 
+  e_title("", "politan.ch", sublink = "http://politan.ch/")
+  
   })
-  
+
   
   output$act = renderDT(
     activity %>% 
