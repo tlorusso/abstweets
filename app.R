@@ -10,12 +10,11 @@
 # library(timetk)
 # library(dygraphs)
 library(pacman)
-library(politantheme)
+# library(politantheme)
 
 pacman::p_load(tidyverse,echarts4r,shinythemes,DT,shiny)
 
-vg_gsg <- readRDS("vg_gsg.rds") %>% 
-              spread(vorlage,anzahl)
+vg_gsg <- readRDS("vg_gsg.rds") 
 
 # %>% 
 #               filter(!is.na(dmy)) 
@@ -124,7 +123,8 @@ output$tweetplot <-  renderEcharts4r({
 vg_gsg %>% 
   e_charts(dmy) %>% 
   e_line(vg,name="Vollgeld") %>% 
-  e_line(vl,name="Geldspielgesetz") %>% 
+  e_line(gsg,name="Geldspielgesetz") %>% 
+  e_line(nb,name="#NoBillag") %>% 
   e_tooltip(trigger = "axis") %>% 
  e_toolbox(feature = "saveAsImage") %>% 
   e_title("", "politan.ch", sublink = "http://politan.ch/")

@@ -1,4 +1,6 @@
 setwd("~/abstweets")
+library(tidyverse)
+library(lubridate)
 
 vg_gsg <- readRDS("vg_gsg.rds") %>% tidyr::spread(vorlage,anzahl)
 
@@ -6,6 +8,7 @@ data_rt <- readRDS("retweets.rds")
 
 activity <- readRDS("activity.rds")
 
+vg_gsg <-vg_gsg %>% mutate(countdown=as.Date("2018-06-10")-dmy)
 
 sesh %>% 
   echart(Country) %>% 
