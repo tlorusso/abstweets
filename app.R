@@ -126,8 +126,9 @@ vg_gsg %>%
   e_line(gsg,name="Geldspielgesetz") %>% 
   e_line(nb,name="#NoBillag") %>% 
   e_tooltip(trigger = "axis") %>% 
-    e_toolbox(feature = "saveAsImage",title="Bild speichern", textPosition='top') %>% 
-    e_toolbox(feature = "dataView",title="Data", lang="") %>% 
+  e_toolbox(right="3%") %>% 
+  e_toolbox_feature(feature = "saveAsImage",title="Bild speichern") %>% 
+  e_toolbox_feature(feature = "dataView",title="Daten", lang="") %>% 
   e_title("", "politan.ch", sublink = "http://politan.ch/")
   
   })
