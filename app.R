@@ -22,9 +22,9 @@ vg_gsg <- readRDS("vg_gsg.rds")
 #                #extended timeseries 
 #               tk_xts(date_var=dmy)
 
-data_rt <- readRDS("retweets.rds")
+data_rt <- readRDS("retweets_vg.rds")
 
-activity <- readRDS("activity.rds")
+activity <- readRDS("activity_vg.rds")
 
 # Define UI for application 
 ui <- fluidPage(theme = shinytheme("journal"),
