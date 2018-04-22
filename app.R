@@ -22,9 +22,15 @@ vg_gsg <- readRDS("vg_gsg.rds")
 #                #extended timeseries 
 #               tk_xts(date_var=dmy)
 
-data_rt <- readRDS("retweets_vg.rds")
+rt_gsg <- readRDS("retweets_gsg.rds")
 
-activity <- readRDS("activity_vg.rds")
+activity_gsg <- readRDS("activity_gsg.rds")
+
+
+rt_vg <- readRDS("retweets_vg.rds")
+
+activity_vg <- readRDS("activity_vg.rds")
+
 
 # Define UI for application 
 ui <- fluidPage(theme = shinytheme("journal"),
@@ -57,27 +63,26 @@ ui <- fluidPage(theme = shinytheme("journal"),
                            includeMarkdown("about.Rmd")),
                            mainPanel(h4("Tweets"),
                                      echarts4rOutput("tweetplot")))),
-                           tabPanel("User", titlePanel("Retweets & Aktivität"),
-                                    # Create a new Row in the UI for selectInputs
-                                    # fluidRow(
-                                    #   column(4,
-                                    #          selectInput("districtinput4",
-                                    #                      "District:",
-                                    #                      c("All",
-                                    #                        unique(as.character(swr_data$GEBIET_NAME))))),
-                                    #   column(4,
-                                    #          selectInput("yearinput",
-                                    #                      "Year:",
-                                    #                      c("All",
-                                    #                        unique(as.character(swr_data$INDIKATOR_JAHR)))))),
-                                    # Create a new row for the table.
+                  #Tab - Panel zu Geldspielgesetz       
+                           tabPanel("Geldspielgesetz", titlePanel("Retweets & Aktivität"),
                                     fluidRow(
                                       h4("Tweets"),
-                                      DT::dataTableOutput("act")),
+                                      DT::dataTableOutput("actgsg")),
                                     h4("Retweets pro User"),
                                     fluidRow(
-                                      DT::dataTableOutput("rt"))
+                                      DT::dataTableOutput("rtgsg"))
                            ),
+                  
+                  tabPanel("Vollgeldinitiative", titlePanel("Retweets & Aktivität"),
+                           fluidRow(
+                             h4("Tweets"),
+                             DT::dataTableOutput("actvg")),
+                           h4("Retweets pro User"),
+                           fluidRow(
+                             DT::dataTableOutput("rtvg"))
+                          ),
+                  
+                  #Tab-panel datendownload etc.
                            tabPanel(p(icon("Info"), "Infos & Datendownload")
                                     # ,includeMarkdown("about.Rmd")
                                     )
@@ -133,9 +138,10 @@ vg_gsg %>%
   
   })
 
+#tabellen für gsg
   
-  output$act = renderDT(
-    activity %>% 
+  output$actgsg = renderDT(
+    activity_gsg %>% 
       mutate(screen_name=paste0("<a href='twitter.com/",screen_name,"' target='_blank'>",
                          screen_name,"</a>")) %>% 
       arrange(desc(n)),
@@ -143,13 +149,32 @@ vg_gsg %>%
     escape = FALSE)
 
 
-  output$rt = renderDT(
-    data_rt %>% 
+  output$rtgsg = renderDT(
+    rt_gsg %>% 
       mutate(rt_user=paste0("<a href='twitter.com/",rt_user,"' target='_blank'>",
                                 rt_user,"</a>")) %>% 
       arrange(desc(n)),
     options = list(lengthChange = FALSE),
    escape = FALSE)
+  
+  #tabellen für vgi
+  
+  output$actvg = renderDT(
+    activity_vg %>% 
+      mutate(screen_name=paste0("<a href='twitter.com/",screen_name,"' target='_blank'>",
+                                screen_name,"</a>")) %>% 
+      arrange(desc(n)),
+    options = list(lengthChange = FALSE),
+    escape = FALSE)
+  
+  
+  output$rtvg = renderDT(
+    rt_vg %>% 
+      mutate(rt_user=paste0("<a href='twitter.com/",rt_user,"' target='_blank'>",
+                            rt_user,"</a>")) %>% 
+      arrange(desc(n)),
+    options = list(lengthChange = FALSE),
+    escape = FALSE)
   
   
 }

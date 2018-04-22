@@ -1,252 +1,585 @@
-"","screen_name","text","link","date","year","week","dmy","rt_user","hashtags","cld2","cld3"
-"1","@RueeggThurgau","RT @CamilleLotheZH: Die SVP Zürich sagt mit 128 zu 90 Stimmen Nein zum Geldspielgesetz! Die Delegierten folgen damit den Argumenten der Jungen SVP und @NatalieRickli! Danke! #GSG #NEIN","http://twitter.com/RueeggThurgau/status/987050215269158912",2018-04-19 21:28:00,2018,16,2018-04-19,"RT @CamilleLotheZH:","c(""#gsg "", ""#nein"")","de","de"
-"2","@Maha_Jina","@meierelias @rogerfederer @rado @ATPWorldTour @Internet_Zensur Es gibt Pokerspieler, die mit solchen Turnieren ihren Lebensunterhalt verdienen können. Die #Netzsperre #GSG würde dadurch neue Sozialbezüger generieren, die ihr Geld vom Steuerzahler erhalten würden - aber sicher nicht von inländischen Casinos.","http://twitter.com/Maha_Jina/status/987052942313377795",2018-04-19 21:38:00,2018,16,2018-04-19,NA,"c(""#netzsperre "", ""#gsg "")","de","de"
-"3","@Maha_Jina","@geldspiel_ja Hanebüchener Unsinn. Spielsucht ist nicht ausländisch verursacht, das ist rassistisches Gedankengut. Mit Konzessionen für ausländische Casinos wären auch Geldwäsche und Betrug kein Thema. Es geht beim #GSG nur um Monopolismus, und öffnet als Präzendenzfall die Büchse der Pandora!","http://twitter.com/Maha_Jina/status/987064343463415808",2018-04-19 22:24:00,2018,16,2018-04-19,NA,"#gsg ","de","de"
-"4","@roman_hae","RT @digiges_ch: Abstimmung am 10. Juni 2018:
+"","screen_name","text","link","date","year","week","dmy","rt_user","hashtags"
+"1","@vollgeld_nein","RT @LeroyBaechtold: Das Vollgeld treibt unsere KMU-Wirtschaft in den Ruin.
+#VollgeldNein #abst18 #CHvote #vollgeld @Jungfreisinnige https://t.co/jZXRHsVl9l","http://twitter.com/vollgeld_nein/status/987054158552424450",2018-04-19 21:43:00,2018,16,2018-04-19,"RT @LeroyBaechtold:","c(""#vollgeldnein "", ""#abst18 "", ""#chvote "", ""#vollgeld "")"
+"2","@NerdyGerdyMan","RT @Seven4wakeup: Pispers in Höchstform <f0><U+009F><U+0098><U+0083><f0><U+009F><U+0091><U+008D>
+#Banken, #Geldschöpfung und #Schulden, einfach erklärt. Viel Vergnügen!
+#abst18 #CHvote #Vollgeld #Vollgeldinitiative #VGI https://t.co/9BpoiPukbg","http://twitter.com/NerdyGerdyMan/status/987055586545192961",2018-04-19 21:49:00,2018,16,2018-04-19,"RT @Seven4wakeup:","c(""#banken, "", ""#geldschöpfung "", ""#schulden, "", ""#abst18 "", ""#chvote "", ""#vollgeld "", ""#vollgeldinitiative "", ""#vgi "")"
+"3","@KommandoMensch","RT @Seven4wakeup: Pispers in Höchstform <f0><U+009F><U+0098><U+0083><f0><U+009F><U+0091><U+008D>
+#Banken, #Geldschöpfung und #Schulden, einfach erklärt. Viel Vergnügen!
+#abst18 #CHvote #Vollgeld #Vollgeldinitiative #VGI https://t.co/9BpoiPukbg","http://twitter.com/KommandoMensch/status/987056264424448000",2018-04-19 21:52:00,2018,16,2018-04-19,"RT @Seven4wakeup:","c(""#banken, "", ""#geldschöpfung "", ""#schulden, "", ""#abst18 "", ""#chvote "", ""#vollgeld "", ""#vollgeldinitiative "", ""#vgi "")"
+"4","@Besserwissender","RT @Seven4wakeup: Pispers in Höchstform <f0><U+009F><U+0098><U+0083><f0><U+009F><U+0091><U+008D>
+#Banken, #Geldschöpfung und #Schulden, einfach erklärt. Viel Vergnügen!
+#abst18 #CHvote #Vollgeld #Vollgeldinitiative #VGI https://t.co/9BpoiPukbg","http://twitter.com/Besserwissender/status/987056475888607232",2018-04-19 21:52:00,2018,16,2018-04-19,"RT @Seven4wakeup:","c(""#banken, "", ""#geldschöpfung "", ""#schulden, "", ""#abst18 "", ""#chvote "", ""#vollgeld "", ""#vollgeldinitiative "", ""#vgi "")"
+"5","@chpolit","Alles voll Geld #vollgeldinitiative","http://twitter.com/chpolit/status/987056926251986944",2018-04-19 21:54:00,2018,16,2018-04-19,NA,"#vollgeldinitiative"
+"6","@X_crossss","RT @LeroyBaechtold: Das Vollgeld treibt unsere KMU-Wirtschaft in den Ruin.
+#VollgeldNein #abst18 #CHvote #vollgeld @Jungfreisinnige https://t.co/jZXRHsVl9l","http://twitter.com/X_crossss/status/987060946379116549",2018-04-19 22:10:00,2018,16,2018-04-19,"RT @LeroyBaechtold:","c(""#vollgeldnein "", ""#abst18 "", ""#chvote "", ""#vollgeld "")"
+"7","@stocki363","RT @Seven4wakeup: Pispers in Höchstform <f0><U+009F><U+0098><U+0083><f0><U+009F><U+0091><U+008D>
+#Banken, #Geldschöpfung und #Schulden, einfach erklärt. Viel Vergnügen!
+#abst18 #CHvote #Vollgeld #Vollgeldinitiative #VGI https://t.co/9BpoiPukbg","http://twitter.com/stocki363/status/987063218945261568",2018-04-19 22:19:00,2018,16,2018-04-19,"RT @Seven4wakeup:","c(""#banken, "", ""#geldschöpfung "", ""#schulden, "", ""#abst18 "", ""#chvote "", ""#vollgeld "", ""#vollgeldinitiative "", ""#vgi "")"
+"8","@Tobias_Hendry","RT @Tobias_Hendry: @ReneTruninger @welt Was sagt den der #IWF zur #Vollgeldinitiative? 
+https://t.co/1M2BztUN9s
 
-Um der Allgemeinheit zu dienen und den Spielerschutz zu gewährleisten,  benötigt die Schweiz ein liberales #Geldspielgesetz ohne #Netzsperren!
+#abst18 #CHvote #vollgeld #vgi https://t.co/zessQja7j5","http://twitter.com/Tobias_Hendry/status/987081537454837760",2018-04-19 23:32:00,2018,16,2018-04-19,"RT @Tobias_Hendry:","c(""#iwf "", ""#vollgeldinitiative? "", ""#abst18 "", ""#chvote "", ""#vollgeld "", ""#vgi "")"
+"9","@wahlch15","RT @Seven4wakeup: Pispers in Höchstform <f0><U+009F><U+0098><U+0083><f0><U+009F><U+0091><U+008D>
+#Banken, #Geldschöpfung und #Schulden, einfach erklärt. Viel Vergnügen!
+#abst18 #CHvote #Vollgeld #Vollgeldinitiative #VGI https://t.co/9BpoiPukbg","http://twitter.com/wahlch15/status/987085384059416577",2018-04-19 23:47:00,2018,16,2018-04-19,"RT @Seven4wakeup:","c(""#banken, "", ""#geldschöpfung "", ""#schulden, "", ""#abst18 "", ""#chvote "", ""#vollgeld "", ""#vollgeldinitiative "", ""#vgi "")"
+"10","@Baeumel","RT @Seven4wakeup: Pispers in Höchstform <f0><U+009F><U+0098><U+0083><f0><U+009F><U+0091><U+008D>
+#Banken, #Geldschöpfung und #Schulden, einfach erklärt. Viel Vergnügen!
+#abst18 #CHvote #Vollgeld #Vollgeldinitiative #VGI https://t.co/9BpoiPukbg","http://twitter.com/Baeumel/status/987173839623868418",2018-04-20 05:39:00,2018,16,2018-04-20,"RT @Seven4wakeup:","c(""#banken, "", ""#geldschöpfung "", ""#schulden, "", ""#abst18 "", ""#chvote "", ""#vollgeld "", ""#vollgeldinitiative "", ""#vgi "")"
+"11","@OpenThePrimary","RT @CFAinstitute: Switzerland may vote to switch from a fractional reserve banking system to a full money reserve system, @theintuitinvest writes in his primer on the #Vollgeld Initiative, via @enterprising https://t.co/37cpg6PkyF","http://twitter.com/OpenThePrimary/status/987191080214040576",2018-04-20 06:47:00,2018,16,2018-04-20,"RT @CFAinstitute:","#vollgeld "
+"12","@sunrisegroup779","RT @SPschwyz: SP Kanton Schwyz beschliesst JA-Parole zur #Vollgeld-Initiative! #abst18 #CHvote @Vollgeldreform https://t.co/8J6123Chda","http://twitter.com/sunrisegroup779/status/987194616368783361",2018-04-20 07:01:00,2018,16,2018-04-20,"RT @SPschwyz:","c(""#vollgeld-initiative! "", ""#abst18 "", ""#chvote "")"
+"13","@AlbertoPetruzze","RT @LeroyBaechtold: Das Vollgeld treibt unsere KMU-Wirtschaft in den Ruin.
+#VollgeldNein #abst18 #CHvote #vollgeld @Jungfreisinnige https://t.co/jZXRHsVl9l","http://twitter.com/AlbertoPetruzze/status/987203672429006848",2018-04-20 07:37:00,2018,16,2018-04-20,"RT @LeroyBaechtold:","c(""#vollgeldnein "", ""#abst18 "", ""#chvote "", ""#vollgeld "")"
+"14","@Max_Schubiger","RT @DemocracyNet_: Unsere zweite ABSTIMM-BAR! Diesmal über die Vollgeldinitiative. 8. Mai 2018, 18:30 Uhr,
+Karl der Grosse, Kirchgasse 14, 8001 Zürich. @Karl_Zuerich 
+https://t.co/zSoenbEm7X… https://t.co/yVPpysqG7o","http://twitter.com/Max_Schubiger/status/987208843238215680",2018-04-20 07:58:00,2018,16,2018-04-20,"RT @DemocracyNet_:","character(0)"
+"15","@Seven4wakeup","""Die Zinsen werden in einem Vollgeldsystem steigen"", brüllte der Lobbyist und merkte nicht, dass wir in einem Negativzins-Umfeld gefangen sind.
 
-https://t.co/jCZ5gTfc3Z #GeldspielgesetzNEIN","http://twitter.com/roman_hae/status/987064446001598464",2018-04-19 22:24:00,2018,16,2018-04-19,"RT @digiges_ch:","c(""#geldspielgesetz "", ""#netzsperren!"", ""#geldspielgesetznein"")","de","de"
-"5","@BaSchaffner","RT @MBaerlocher: Dass @beatflach seine Krallen ausfahren wird, bezweifelt niemand. Die #Geldspielgesetz-Gegner in der SVP sind trotzdem irritiert, dass sie übergangen wurden.
-https://t.co/iuWfBQtSaR @nau_live","http://twitter.com/BaSchaffner/status/987071971447005184",2018-04-19 22:54:00,2018,16,2018-04-19,"RT @MBaerlocher:","#geldspielgesetz-gegner ","de","de"
-"6","@wahlch15","RT @bernstark: Die bernischen Delegierten fassen die Ja-Parole zum Geldspielgesetz mit 192 Ja und 22 Nein bei 3 Enthaltungen @BernerZeitung @derbund @nau_live","http://twitter.com/wahlch15/status/987076919974875136",2018-04-19 23:14:00,2018,16,2018-04-19,"RT @bernstark:","character(0)","de","de"
-"7","@cedi_ch","RT @NatalieRickli: #SVP #Zürich sagt mit 128:90 Stimmen Nein zu #Internetzensur #Casinomonopol und #Geldspielgesetz… https://t.co/o75Ae8fSKd","http://twitter.com/cedi_ch/status/987078113367642112",2018-04-19 23:18:00,2018,16,2018-04-19,"RT @NatalieRickli:","c(""#svp "", ""#zürich "", ""#internetzensur "", ""#casinomonopol "", ""#geldspielgesetz… "")","de","de"
-"8","@RolfMll35367465","RT @bernstark: Die bernischen Delegierten fassen die Ja-Parole zum Geldspielgesetz mit 192 Ja und 22 Nein bei 3 Enthaltungen @BernerZeitung @derbund @nau_live","http://twitter.com/RolfMll35367465/status/987078176991039488",2018-04-19 23:19:00,2018,16,2018-04-19,"RT @bernstark:","character(0)","de","de"
-"9","@Tobias_Hendry","RT @LeroyBaechtold: Da Telegram gewisse Infrastruktur an Google Cloud und Amazon ausgelagert hat, wurden diese ebenfalls von Netzsperren gegen Telegram getroffen.
-Zeigt was in der Schweiz passieren könnte, wenn Facebook Glückspiel einführen würde bei einem Ja zum GSG! #GSGnein https://t.co/rkxYZlkQ8F","http://twitter.com/Tobias_Hendry/status/987080175396372480",2018-04-19 23:27:00,2018,16,2018-04-19,"RT @LeroyBaechtold:","#gsgnein ","de","de"
-"10","@Tobias_Hendry","RT @andrisilbi_: Der Irrsinn des #Geldspielgesetzes ist, dass man wenige (terrestrische) ausländische Anbieter gegen viele internationale Online-Anbieter mit Netzsperren schützt und ihnen ein Monopol auf das Internetangebot gibt… #GSGnein (Quelle: Jahresbericht ESBK) https://t.co/fQp2DxOsBy","http://twitter.com/Tobias_Hendry/status/987080220502122497",2018-04-19 23:27:00,2018,16,2018-04-19,"RT @andrisilbi_:","c(""#geldspielgesetzes "", ""#gsgnein "")","de","de"
-"11","@rove_we","RT @LeroyBaechtold: Da Telegram gewisse Infrastruktur an Google Cloud und Amazon ausgelagert hat, wurden diese ebenfalls von Netzsperren gegen Telegram getroffen.
-Zeigt was in der Schweiz passieren könnte, wenn Facebook Glückspiel einführen würde bei einem Ja zum GSG! #GSGnein https://t.co/rkxYZlkQ8F","http://twitter.com/rove_we/status/987080764872372225",2018-04-19 23:29:00,2018,16,2018-04-19,"RT @LeroyBaechtold:","#gsgnein ","de","de"
-"12","@Anuril","RT @LeroyBaechtold: Da Telegram gewisse Infrastruktur an Google Cloud und Amazon ausgelagert hat, wurden diese ebenfalls von Netzsperren gegen Telegram getroffen.
-Zeigt was in der Schweiz passieren könnte, wenn Facebook Glückspiel einführen würde bei einem Ja zum GSG! #GSGnein https://t.co/rkxYZlkQ8F","http://twitter.com/Anuril/status/987089875517063169",2018-04-20 00:05:00,2018,16,2018-04-20,"RT @LeroyBaechtold:","#gsgnein ","de","de"
-"13","@schweiz","Wer ist hier der Spielverderber?: Damit Lotterien und Casinos weiterhin eine Milliarde für wohltätige Zwecke ausschütten können, braucht es das neue Geldspielgesetz. Sagen die Befürworter. Die Gegner sprechen von «Irreführung» des Stimmvolks. https://t.co/8566W5oQ79 https://t.co/iKoYYnfoV4","http://twitter.com/schweiz/status/987095124755660800",2018-04-20 00:26:00,2018,16,2018-04-20,NA,"character(0)","de","de"
-"14","@dlavonne","RIP, Erin Popovich. #gsg","http://twitter.com/dlavonne/status/987097492671094784",2018-04-20 00:35:00,2018,16,2018-04-20,NA,"#gsg","hr","it"
-"15","@Wicht10","@schweiz Die wohltätigkeit geht wenn überhaupt von den lotterienaus, nicht von den Casinos #GSG #netzsperren","http://twitter.com/Wicht10/status/987102273565351936",2018-04-20 00:54:00,2018,16,2018-04-20,NA,"c(""#gsg "", ""#netzsperren"")","de","de"
-"16","@reinhard_mz","RT @OhneNetzsperren: Was man mit staatlichen #Netzsperren so alles anrichten kann. Russland wollte eigentlich nur den Dienst ""Telegram"" sperren, hat aber wegen der Nebenwirkungen ein ziemliches Chaos bei Unbeteiligten angerichtet!
+@FDP_Liberalen @SVPch @BDPSchweiz @vollgeld_nein @CVP_PDC 
 
-Darum NEIN zum #Geldspielgesetz am 10 Juni! 
+#Vollgeldinitiative #Vollgeld #abst18 #CHvote #VGI #stopfakemoney https://t.co/gcaV7WUngX","http://twitter.com/Seven4wakeup/status/987224073091670017",2018-04-20 08:58:00,2018,16,2018-04-20,NA,"c(""#vollgeldinitiative "", ""#vollgeld "", ""#abst18 "", ""#chvote "", ""#vgi "", ""#stopfakemoney "")"
+"16","@stocki363","RT @Seven4wakeup: ""Die Zinsen werden in einem Vollgeldsystem steigen"", brüllte der Lobbyist und merkte nicht, dass wir in einem Negativzins-Umfeld gefangen sind.
 
-https://t.co/CdPhCAP7K9","http://twitter.com/reinhard_mz/status/987110304344616961",2018-04-20 01:26:00,2018,16,2018-04-20,"RT @OhneNetzsperren:","c(""#netzsperren "", ""#geldspielgesetz "")","de","de"
-"17","@jake6moreno","Let’s go spurs!! Do it for Pop!!! #GSG @spurs","http://twitter.com/jake6moreno/status/987142986139078657",2018-04-20 03:36:00,2018,16,2018-04-20,NA,"#gsg ","en","fr"
-"18","@azSolothurn","Ist mit dem neuen Geldspielgesetz die Freiheit des Internets in Gefahr? https://t.co/NtLuwIO0HW","http://twitter.com/azSolothurn/status/987164472207814657",2018-04-20 05:02:00,2018,16,2018-04-20,NA,"character(0)","de","de"
-"19","@azGrenchen","Ist mit dem neuen Geldspielgesetz die Freiheit des Internets in Gefahr? https://t.co/M7IiOgAnZn","http://twitter.com/azGrenchen/status/987164472421728256",2018-04-20 05:02:00,2018,16,2018-04-20,NA,"character(0)","de","de"
-"20","@azBaden","Ist mit dem neuen Geldspielgesetz die Freiheit des Internets in Gefahr? https://t.co/EO9td5kddO https://t.co/3wqeq8TYQQ","http://twitter.com/azBaden/status/987164476813094917",2018-04-20 05:02:00,2018,16,2018-04-20,NA,"character(0)","de","de"
-"21","@azLimmattaler","Ist mit dem neuen Geldspielgesetz die Freiheit des Internets in Gefahr? https://t.co/mZJo9PcfWB https://t.co/MkSlPurHRC","http://twitter.com/azLimmattaler/status/987164485428199424",2018-04-20 05:02:00,2018,16,2018-04-20,NA,"character(0)","de","de"
-"22","@AargauerZeitung","Ist mit dem neuen Geldspielgesetz die Freiheit des Internets in Gefahr? https://t.co/Kof66EoN7P https://t.co/5eA0wVSo0x","http://twitter.com/AargauerZeitung/status/987164486803996673",2018-04-20 05:02:00,2018,16,2018-04-20,NA,"character(0)","de","de"
-"23","@bzBaselland","Ist mit dem neuen Geldspielgesetz die Freiheit des Internets in Gefahr? https://t.co/N414C8ogM2 https://t.co/AuJuan0Lwd","http://twitter.com/bzBaselland/status/987164496031444993",2018-04-20 05:02:00,2018,16,2018-04-20,NA,"character(0)","de","de"
-"24","@bzBasel","Ist mit dem neuen Geldspielgesetz die Freiheit des Internets in Gefahr? https://t.co/i7xkqhboeA https://t.co/05lGUKZJ4d","http://twitter.com/bzBasel/status/987164496199233536",2018-04-20 05:02:00,2018,16,2018-04-20,NA,"character(0)","de","de"
-"25","@andrisilbi_","„Welche Signale werden ins Land gesendet, wenn der Staat zur Durchsetzung eines Gesetzes offenkundig auf ein weitgehend nutzloses Mittel setzt?“ 
+@FDP_Liberalen @SVPch @BDPSchweiz @vollgeld_nein @CVP_PDC 
 
-Ein Grund mehr für ein Nein zum #Geldspielgesetz #GSGnein https://t.co/Wx3c5LMULE","http://twitter.com/andrisilbi_/status/987174338561564672",2018-04-20 05:41:00,2018,16,2018-04-20,NA,"c(""#geldspielgesetz "", ""#gsgnein "")","de","de"
-"26","@CPRSchmid","Sobald sich die Erkenntnis durchgesetzt hat, dass die #Netzsperre ein untaugliches Mittel ist, werden die #GSG-Befürworter vermutlich behaupten, dass es auch darum gehe, ""ein Zeichen zu setzen"" - damit lässt sich nämlich auch die unsinnigste #Regulierung rechtfertigen. https://t.co/LppJKX5rxj","http://twitter.com/CPRSchmid/status/987185050407067649",2018-04-20 06:23:00,2018,16,2018-04-20,NA,"c(""#netzsperre "", ""#gsg-befürworter "", ""#regulierung "")","de","de"
-"27","@SimuFricker","RT @andrisilbi_: „Welche Signale werden ins Land gesendet, wenn der Staat zur Durchsetzung eines Gesetzes offenkundig auf ein weitgehend nutzloses Mittel setzt?“ 
+#Vollgeldinitiative #Vollgeld #abst18 #CHvote #VGI #stopfakemoney https://t.co/gcaV7WUngX","http://twitter.com/stocki363/status/987224428537958400",2018-04-20 09:00:00,2018,16,2018-04-20,"RT @Seven4wakeup:","c(""#vollgeldinitiative "", ""#vollgeld "", ""#abst18 "", ""#chvote "", ""#vgi "", ""#stopfakemoney "")"
+"17","@Tobias_Hendry","RT @Seven4wakeup: ""Die Zinsen werden in einem Vollgeldsystem steigen"", brüllte der Lobbyist und merkte nicht, dass wir in einem Negativzins-Umfeld gefangen sind.
 
-Ein Grund mehr für ein Nein zum #Geldspielgesetz #GSGnein https://t.co/Wx3c5LMULE","http://twitter.com/SimuFricker/status/987188512435908608",2018-04-20 06:37:00,2018,16,2018-04-20,"RT @andrisilbi_:","c(""#geldspielgesetz "", ""#gsgnein "")","de","de"
-"28","@media8school","RT @digiges_ch: Abstimmung am 10. Juni 2018:
+@FDP_Liberalen @SVPch @BDPSchweiz @vollgeld_nein @CVP_PDC 
 
-Um der Allgemeinheit zu dienen und den Spielerschutz zu gewährleisten,  benötigt die Schweiz ein liberales #Geldspielgesetz ohne #Netzsperren!
+#Vollgeldinitiative #Vollgeld #abst18 #CHvote #VGI #stopfakemoney https://t.co/gcaV7WUngX","http://twitter.com/Tobias_Hendry/status/987227582524518400",2018-04-20 09:12:00,2018,16,2018-04-20,"RT @Seven4wakeup:","c(""#vollgeldinitiative "", ""#vollgeld "", ""#abst18 "", ""#chvote "", ""#vgi "", ""#stopfakemoney "")"
+"18","@swissinfo_de","Was würde sich ändern, wenn die Schweizer Stimmbürger am 10. Juni Ja sagen würden zur Vollgeldinitiative? Ein paar zentrale Punkte kurz erklärt. #Vollgeld #abst18
+https://t.co/QiMQtC4RKq","http://twitter.com/swissinfo_de/status/987232865413984256",2018-04-20 09:33:00,2018,16,2018-04-20,NA,"c(""#vollgeld "", ""#abst18"")"
+"19","@SwissBankingSBA","#Vollgeld auf den Punkt gebracht. https://t.co/XitEdp0KrU","http://twitter.com/SwissBankingSBA/status/987235024570388486",2018-04-20 09:42:00,2018,16,2018-04-20,NA,"#vollgeld "
+"20","@Alexander_Solms","RT @SwissBankingSBA: #Vollgeld auf den Punkt gebracht. https://t.co/XitEdp0KrU","http://twitter.com/Alexander_Solms/status/987235026189324290",2018-04-20 09:42:00,2018,16,2018-04-20,"RT @SwissBankingSBA:","#vollgeld "
+"21","@wahlch15","RT @swissinfo_de: Was würde sich ändern, wenn die Schweizer Stimmbürger am 10. Juni Ja sagen würden zur Vollgeldinitiative? Ein paar zentrale Punkte kurz erklärt. #Vollgeld #abst18
+https://t.co/QiMQtC4RKq","http://twitter.com/wahlch15/status/987236022764400640",2018-04-20 09:46:00,2018,16,2018-04-20,"RT @swissinfo_de:","c(""#vollgeld "", ""#abst18"")"
+"22","@NeueWegeSchweiz","@Seven4wakeup @FDP_Liberalen @SVPch @BDPSchweiz @vollgeld_nein @CVP_PDC <f0><U+009F><U+0098><U+0082> Um bei so vielen Politiker die Hirnis zu waschen, müsste es vermutlich heissen DIE Loobyisten. Auch die @spschweiz ist da voll mit drin. <f0><U+009F><U+0098><U+0082> 
+#VollLobyisten #VollMitDrin gegen #Vollgeld","http://twitter.com/NeueWegeSchweiz/status/987236142193004544",2018-04-20 09:46:00,2018,16,2018-04-20,NA,"c(""#volllobyisten "", ""#vollmitdrin "", ""#vollgeld"")"
+"23","@NeueWegeSchweiz","RT @Seven4wakeup: ""Die Zinsen werden in einem Vollgeldsystem steigen"", brüllte der Lobbyist und merkte nicht, dass wir in einem Negativzins-Umfeld gefangen sind.
 
-https://t.co/jCZ5gTfc3Z #GeldspielgesetzNEIN","http://twitter.com/media8school/status/987191330592952321",2018-04-20 06:48:00,2018,16,2018-04-20,"RT @digiges_ch:","c(""#geldspielgesetz "", ""#netzsperren!"", ""#geldspielgesetznein"")","de","de"
-"29","@romanf_ch","@spschweiz #Netzsperren sind die Basis für #Zensur. #Geldspielgesetz NEIN","http://twitter.com/romanf_ch/status/987192828278267904",2018-04-20 06:54:00,2018,16,2018-04-20,NA,"c(""#netzsperren "", ""#zensur. "", ""#geldspielgesetz "")","de","de"
-"30","@Angelika_Ruider","Die Portabilitäts-Verordnung der EU gab auf 1.4.18 Geo-Blocking für kostenpflichtige Angebote (genutzt im EU-Raum) den Schuh. Derweil eisgenöss. Parlamentarier so: ""Lasst uns #Netzsperren einführen!"" <f0><U+009F><U+0098><U+00B4><f0><U+009F><U+0099><U+0088>#vorwärts nicht rückwärts! #GSG #Geldspielgesetz NEIN","http://twitter.com/Angelika_Ruider/status/987194329084104705",2018-04-20 07:00:00,2018,16,2018-04-20,NA,"c(""#netzsperren "", ""#vorwärts "", ""#gsg "", ""#geldspielgesetz "")","de","de"
-"31","@andrisilbi_","Das Interview mit BR Sommaruga in der Luzerner Zeitung zeigt eindrücklich auf, wie wenig man von einer klugen Regulierung im Internet versteht. Lieber riegelt man das Netz ab und verschliesst die Augen vor den Herausforderungen. Ein Grund mehr, Nein zum #Geldspielgesetz zu sagen.","http://twitter.com/andrisilbi_/status/987197103809101826",2018-04-20 07:11:00,2018,16,2018-04-20,NA,"#geldspielgesetz ","de","de"
-"32","@MarcelSigner","RT @andrisilbi_: Das Interview mit BR Sommaruga in der Luzerner Zeitung zeigt eindrücklich auf, wie wenig man von einer klugen Regulierung im Internet versteht. Lieber riegelt man das Netz ab und verschliesst die Augen vor den Herausforderungen. Ein Grund mehr, Nein zum #Geldspielgesetz zu sagen.","http://twitter.com/MarcelSigner/status/987197201351872512",2018-04-20 07:12:00,2018,16,2018-04-20,"RT @andrisilbi_:","#geldspielgesetz ","de","de"
-"33","@morvjn","RT @andrisilbi_: Das Interview mit BR Sommaruga in der Luzerner Zeitung zeigt eindrücklich auf, wie wenig man von einer klugen Regulierung im Internet versteht. Lieber riegelt man das Netz ab und verschliesst die Augen vor den Herausforderungen. Ein Grund mehr, Nein zum #Geldspielgesetz zu sagen.","http://twitter.com/morvjn/status/987197264669143040",2018-04-20 07:12:00,2018,16,2018-04-20,"RT @andrisilbi_:","#geldspielgesetz ","de","de"
-"34","@NicolasJutzet","RT @andrisilbi_: Das Interview mit BR Sommaruga in der Luzerner Zeitung zeigt eindrücklich auf, wie wenig man von einer klugen Regulierung im Internet versteht. Lieber riegelt man das Netz ab und verschliesst die Augen vor den Herausforderungen. Ein Grund mehr, Nein zum #Geldspielgesetz zu sagen.","http://twitter.com/NicolasJutzet/status/987197357644279808",2018-04-20 07:12:00,2018,16,2018-04-20,"RT @andrisilbi_:","#geldspielgesetz ","de","de"
-"35","@wahlch15","RT @AargauerZeitung: Ist mit dem neuen Geldspielgesetz die Freiheit des Internets in Gefahr? https://t.co/Kof66EoN7P https://t.co/5eA0wVSo0x","http://twitter.com/wahlch15/status/987199404095438849",2018-04-20 07:20:00,2018,16,2018-04-20,"RT @AargauerZeitung:","character(0)","de","de"
-"36","@wahlch15","RT @schweiz: Wer ist hier der Spielverderber?: Damit Lotterien und Casinos weiterhin eine Milliarde für wohltätige Zwecke ausschütten können, braucht es das neue Geldspielgesetz. Sagen die Befürworter. Die Gegner sprechen von «Irreführung» des Stimmvolks. https://t.co/8566W5oQ79 https://t.co/iKoYYnfoV4","http://twitter.com/wahlch15/status/987199725416976384",2018-04-20 07:22:00,2018,16,2018-04-20,"RT @schweiz:","character(0)","de","de"
-"37","@Anuril","RT @andrisilbi_: Das Interview mit BR Sommaruga in der Luzerner Zeitung zeigt eindrücklich auf, wie wenig man von einer klugen Regulierung im Internet versteht. Lieber riegelt man das Netz ab und verschliesst die Augen vor den Herausforderungen. Ein Grund mehr, Nein zum #Geldspielgesetz zu sagen.","http://twitter.com/Anuril/status/987202940258652160",2018-04-20 07:34:00,2018,16,2018-04-20,"RT @andrisilbi_:","#geldspielgesetz ","de","de"
-"38","@Anuril","RT @andrisilbi_: „Welche Signale werden ins Land gesendet, wenn der Staat zur Durchsetzung eines Gesetzes offenkundig auf ein weitgehend nutzloses Mittel setzt?“ 
+@FDP_Liberalen @SVPch @BDPSchweiz @vollgeld_nein @CVP_PDC 
 
-Ein Grund mehr für ein Nein zum #Geldspielgesetz #GSGnein https://t.co/Wx3c5LMULE","http://twitter.com/Anuril/status/987203532834131968",2018-04-20 07:37:00,2018,16,2018-04-20,"RT @andrisilbi_:","c(""#geldspielgesetz "", ""#gsgnein "")","de","de"
-"39","@Wulf_Bloody","RT @LeroyBaechtold: Da Telegram gewisse Infrastruktur an Google Cloud und Amazon ausgelagert hat, wurden diese ebenfalls von Netzsperren gegen Telegram getroffen.
-Zeigt was in der Schweiz passieren könnte, wenn Facebook Glückspiel einführen würde bei einem Ja zum GSG! #GSGnein https://t.co/rkxYZlkQ8F","http://twitter.com/Wulf_Bloody/status/987204115418710016",2018-04-20 07:39:00,2018,16,2018-04-20,"RT @LeroyBaechtold:","#gsgnein ","de","de"
-"40","@rump_sven","RT @andrisilbi_: Das Interview mit BR Sommaruga in der Luzerner Zeitung zeigt eindrücklich auf, wie wenig man von einer klugen Regulierung im Internet versteht. Lieber riegelt man das Netz ab und verschliesst die Augen vor den Herausforderungen. Ein Grund mehr, Nein zum #Geldspielgesetz zu sagen.","http://twitter.com/rump_sven/status/987210008327786497",2018-04-20 08:03:00,2018,16,2018-04-20,"RT @andrisilbi_:","#geldspielgesetz ","de","de"
-"41","@ji7ro","RT @dhuerlimann: Die @NZZ lehnt das Geldspielgesetz ab, weil die Netzsperren einen schweren Eingriff in die Funktionsweise des Internets bedeuten. -- https://t.co/5aMTkf7FQy https://t.co/s4jnKKAEXg","http://twitter.com/ji7ro/status/987210853236789248",2018-04-20 08:06:00,2018,16,2018-04-20,"RT @dhuerlimann:","character(0)","de","de"
-"42","@alainbuetler","Wie stimmt man eigentlich als ehem. @JUSOAargau Präsidentin und mittlerweile Blackjack-Dealerin im Casino Baden beim Geldspielgesetz ab? @GujerMia @FabianHaegler #gsg #abst18","http://twitter.com/alainbuetler/status/987211165460770818",2018-04-20 08:07:00,2018,16,2018-04-20,NA,"c(""#gsg "", ""#abst18"")","de","de"
-"43","@X_crossss","RT @andrisilbi_: Das Interview mit BR Sommaruga in der Luzerner Zeitung zeigt eindrücklich auf, wie wenig man von einer klugen Regulierung im Internet versteht. Lieber riegelt man das Netz ab und verschliesst die Augen vor den Herausforderungen. Ein Grund mehr, Nein zum #Geldspielgesetz zu sagen.","http://twitter.com/X_crossss/status/987212320517558272",2018-04-20 08:12:00,2018,16,2018-04-20,"RT @andrisilbi_:","#geldspielgesetz ","de","de"
-"44","@verathom","RT @andrisilbi_: Das Interview mit BR Sommaruga in der Luzerner Zeitung zeigt eindrücklich auf, wie wenig man von einer klugen Regulierung im Internet versteht. Lieber riegelt man das Netz ab und verschliesst die Augen vor den Herausforderungen. Ein Grund mehr, Nein zum #Geldspielgesetz zu sagen.","http://twitter.com/verathom/status/987213528074457088",2018-04-20 08:17:00,2018,16,2018-04-20,"RT @andrisilbi_:","#geldspielgesetz ","de","de"
-"45","@Marcel_Dobler","RT @andrisilbi_: Das Interview mit BR Sommaruga in der Luzerner Zeitung zeigt eindrücklich auf, wie wenig man von einer klugen Regulierung im Internet versteht. Lieber riegelt man das Netz ab und verschliesst die Augen vor den Herausforderungen. Ein Grund mehr, Nein zum #Geldspielgesetz zu sagen.","http://twitter.com/Marcel_Dobler/status/987217972971352064",2018-04-20 08:34:00,2018,16,2018-04-20,"RT @andrisilbi_:","#geldspielgesetz ","de","de"
-"46","@_yetioli","RT @andrisilbi_: Das Interview mit BR Sommaruga in der Luzerner Zeitung zeigt eindrücklich auf, wie wenig man von einer klugen Regulierung im Internet versteht. Lieber riegelt man das Netz ab und verschliesst die Augen vor den Herausforderungen. Ein Grund mehr, Nein zum #Geldspielgesetz zu sagen.","http://twitter.com/_yetioli/status/987219548549066752",2018-04-20 08:40:00,2018,16,2018-04-20,"RT @andrisilbi_:","#geldspielgesetz ","de","de"
-"47","@jfblliberal","Die @FDP_BL fasst mit wenigen Gegenstimmen die Nein-Parole zum #GSG. Ein Erfolg für den #jungfreisinn! #GSGNein","http://twitter.com/jfblliberal/status/987224478009778177",2018-04-20 09:00:00,2018,16,2018-04-20,NA,"c(""#gsg. "", ""#jungfreisinn! "", ""#gsgnein"")","de","de"
-"48","@TJFAdrian","Heute darf ich am #JFBL18 die @jfblliberal vertreten. Eine ideale Gelegenheit den Freisinn und #GSGnein schmackhaft zu machen.","http://twitter.com/TJFAdrian/status/987225146497949698",2018-04-20 09:03:00,2018,16,2018-04-20,NA,"c(""#jfbl18 "", ""#gsgnein "")","de","de"
-"49","@jfblliberal","RT @TJFAdrian: Heute darf ich am #JFBL18 die @jfblliberal vertreten. Eine ideale Gelegenheit den Freisinn und #GSGnein schmackhaft zu machen.","http://twitter.com/jfblliberal/status/987225231419936768",2018-04-20 09:03:00,2018,16,2018-04-20,"RT @TJFAdrian:","c(""#jfbl18 "", ""#gsgnein "")","de","de"
-"50","@GuidoBalmerEJPD","«Gejubelt würde in Malta und Gibraltar»: Bundesrätin #Sommaruga zu den Folgen einer Ablehnung des Geldspielgesetzes. Im Interview mit @MajaBriner und Roger Braun von den Regionalmedien der @nzz (@tagblatt_ch @LuzernerZeitung etc.).
+#Vollgeldinitiative #Vollgeld #abst18 #CHvote #VGI #stopfakemoney https://t.co/gcaV7WUngX","http://twitter.com/NeueWegeSchweiz/status/987237894640340993",2018-04-20 09:53:00,2018,16,2018-04-20,"RT @Seven4wakeup:","c(""#vollgeldinitiative "", ""#vollgeld "", ""#abst18 "", ""#chvote "", ""#vgi "", ""#stopfakemoney "")"
+"24","@stocki363","RT @NeueWegeSchweiz: @Seven4wakeup @FDP_Liberalen @SVPch @BDPSchweiz @vollgeld_nein @CVP_PDC <f0><U+009F><U+0098><U+0082> Um bei so vielen Politiker die Hirnis zu waschen, müsste es vermutlich heissen DIE Loobyisten. Auch die @spschweiz ist da voll mit drin. <f0><U+009F><U+0098><U+0082> 
+#VollLobyisten #VollMitDrin gegen #Vollgeld","http://twitter.com/stocki363/status/987237934440091648",2018-04-20 09:54:00,2018,16,2018-04-20,"RT @NeueWegeSchweiz:","c(""#volllobyisten "", ""#vollmitdrin "", ""#vollgeld"")"
+"25","@cdenzler","RT @Seven4wakeup: ""Die Zinsen werden in einem Vollgeldsystem steigen"", brüllte der Lobbyist und merkte nicht, dass wir in einem Negativzins-Umfeld gefangen sind.
 
-Auch via https://t.co/MYaRQqTiZj
+@FDP_Liberalen @SVPch @BDPSchweiz @vollgeld_nein @CVP_PDC 
 
-#GSGja #Vot18 https://t.co/XAR2oIaArH","http://twitter.com/GuidoBalmerEJPD/status/987228694090534912",2018-04-20 09:17:00,2018,16,2018-04-20,NA,"c(""#sommaruga "", ""#gsgja "", ""#vot18 "")","de","de"
-"51","@TA_Politik","Bei einem Nein zum Geldspielgesetz wird der gemeinnützige Rubel nicht mehr rollen oder zumindest nicht mehr im heutigen Umfang. Das wäre verheerend für viele Sportvereine, kulturelle und soziale Institutionen. Aber stimmt das auch?https://t.co/e0jDfuvC62","http://twitter.com/TA_Politik/status/987229379502604288",2018-04-20 09:20:00,2018,16,2018-04-20,NA,"character(0)","de","de"
-"52","@tagesanzeiger","RT @TA_Politik: Bei einem Nein zum Geldspielgesetz wird der gemeinnützige Rubel nicht mehr rollen oder zumindest nicht mehr im heutigen Umfang. Das wäre verheerend für viele Sportvereine, kulturelle und soziale Institutionen. Aber stimmt das auch?https://t.co/e0jDfuvC62","http://twitter.com/tagesanzeiger/status/987229786060804097",2018-04-20 09:21:00,2018,16,2018-04-20,"RT @TA_Politik:","character(0)","de","de"
-"53","@meierelias","@AargauerZeitung Um auf eure Frage zu antworten: Ja, ist sie! #GSGNein","http://twitter.com/meierelias/status/987230212629942272",2018-04-20 09:23:00,2018,16,2018-04-20,NA,"#gsgnein","de","de"
-"54","@cwasi","RT @sosicles: Gut gebrüllt, Löwe! @Marcel_Dobler erklärt in der @Handelszeitung , wieso das #Geldspielgesetz abzulehnen ist. #netzsperren https://t.co/4iXYspGmm2","http://twitter.com/cwasi/status/987230596224217088",2018-04-20 09:24:00,2018,16,2018-04-20,"RT @sosicles:","c(""#geldspielgesetz "", ""#netzsperren "")","de","de"
-"55","@NicolasJutzet","<f0><U+009F><U+0085><U+0083><f0><U+009F><U+0084><U+00B7><f0><U+009F><U+0084><U+00B0><f0><U+009F><U+0085><U+0083>'<f0><U+009F><U+0085><U+0082> <f0><U+009F><U+0085><U+0083><f0><U+009F><U+0084><U+00B7><f0><U+009F><U+0084><U+00B4> <f0><U+009F><U+0084><U+00BF><f0><U+009F><U+0084><U+00BE><f0><U+009F><U+0084><U+00B8><f0><U+009F><U+0084><U+00BD><f0><U+009F><U+0085><U+0083>
+#Vollgeldinitiative #Vollgeld #abst18 #CHvote #VGI #stopfakemoney https://t.co/gcaV7WUngX","http://twitter.com/cdenzler/status/987238334815711232",2018-04-20 09:55:00,2018,16,2018-04-20,"RT @Seven4wakeup:","c(""#vollgeldinitiative "", ""#vollgeld "", ""#abst18 "", ""#chvote "", ""#vgi "", ""#stopfakemoney "")"
+"26","@Hofnaerrin","RT @swissinfo_de: Was würde sich ändern, wenn die Schweizer Stimmbürger am 10. Juni Ja sagen würden zur Vollgeldinitiative? Ein paar zentrale Punkte kurz erklärt. #Vollgeld #abst18
+https://t.co/QiMQtC4RKq","http://twitter.com/Hofnaerrin/status/987239030889828352",2018-04-20 09:58:00,2018,16,2018-04-20,"RT @swissinfo_de:","c(""#vollgeld "", ""#abst18"")"
+"27","@SwissCommunity","#Vollgeld – ein anspruchsvolles Volksbegehren. Zum Artikel in der #SchweizerRevue: https://t.co/CSBCZyunMc
 
-« Welche Signale werden ins Land gesendet, wenn der Staat zur Durchsetzung eines Gesetzes offenkundig auf ein weitgehend nutzloses Mittel setzt? » 
+Diskussion auf SwissCommunity .org: https://t.co/d0vtvMeu6K
+#5teSchweiz https://t.co/ytodOY6IHq","http://twitter.com/SwissCommunity/status/987242213276028928",2018-04-20 10:11:00,2018,16,2018-04-20,NA,"c(""#vollgeld "", ""#schweizerrevue: "", ""#5teschweiz "")"
+"28","@fabiocanetg","@defactoexpert Zu Ihrem zweiten Einwand: Stimmt, Vollgeld kann als Kredit in Umlauf kommen. Würde #Vollgeld aber so *geschaffen*, wie im Artikel beschrieben, wäre es schuldfrei. Es könnte darauf von der #SNB an die Banken verliehen werden, würde dadurch aber nicht zu Schuldgeld.","http://twitter.com/fabiocanetg/status/987242934243418112",2018-04-20 10:13:00,2018,16,2018-04-20,NA,"c(""#vollgeld "", ""#snb "")"
+"29","@fabiocanetg","RT @swissinfo_de: Was würde sich ändern, wenn die Schweizer Stimmbürger am 10. Juni Ja sagen würden zur Vollgeldinitiative? Ein paar zentrale Punkte kurz erklärt. #Vollgeld #abst18
+https://t.co/QiMQtC4RKq","http://twitter.com/fabiocanetg/status/987244307173298177",2018-04-20 10:19:00,2018,16,2018-04-20,"RT @swissinfo_de:","c(""#vollgeld "", ""#abst18"")"
+"30","@SFI_CH","Learn more about the #vollgeldinitiative and the consequences for economy and monetary policy. Read our latest SFI Public Discussion Note. 
+French: https://t.co/WeMMYB4QEZ  / German: https://t.co/ENFDxIWk8A 
+Italian: https://t.co/uuWGI2Vx1A  / English: https://t.co/SqCMXBIpxG","http://twitter.com/SFI_CH/status/987249628293750784",2018-04-20 10:40:00,2018,16,2018-04-20,NA,"#vollgeldinitiative "
+"31","@AlbertoPetruzze","RT @SwissBankingSBA: #Vollgeld auf den Punkt gebracht. https://t.co/XitEdp0KrU","http://twitter.com/AlbertoPetruzze/status/987254208784105472",2018-04-20 10:58:00,2018,16,2018-04-20,"RT @SwissBankingSBA:","#vollgeld "
+"32","@gunnzchai","@BTS_SkyTrain #bts #SkyTrain #VGI https://t.co/ghQHVBXsMa","http://twitter.com/gunnzchai/status/987258485845852160",2018-04-20 11:15:00,2018,16,2018-04-20,NA,"c(""#bts "", ""#skytrain "", ""#vgi "")"
+"33","@bosshardstefan","Rechtschreibung scheint auch auf der Website des Bundes https://t.co/ekUjg4pfOx eine Frage des Zufalls zu sein.
+https://t.co/0JsvW04730 @BR_Sprecher <f0><U+009F><U+0099><U+0088> https://t.co/aB5cAEW3Nn","http://twitter.com/bosshardstefan/status/987259131584278528",2018-04-20 11:18:00,2018,16,2018-04-20,NA,"character(0)"
+"34","@democracyupdate","RT @swissinfo_de: Was würde sich ändern, wenn die Schweizer Stimmbürger am 10. Juni Ja sagen würden zur Vollgeldinitiative? Ein paar zentrale Punkte kurz erklärt. #Vollgeld #abst18
+https://t.co/QiMQtC4RKq","http://twitter.com/democracyupdate/status/987264204070629387",2018-04-20 11:38:00,2018,16,2018-04-20,"RT @swissinfo_de:","c(""#vollgeld "", ""#abst18"")"
+"35","@soserde","RT @Seven4wakeup: ""Die Zinsen werden in einem Vollgeldsystem steigen"", brüllte der Lobbyist und merkte nicht, dass wir in einem Negativzins-Umfeld gefangen sind.
 
-https://t.co/ORie0ovwg4","http://twitter.com/NicolasJutzet/status/987231305216774144",2018-04-20 09:27:00,2018,16,2018-04-20,NA,"character(0)","de","de"
-"56","@DickMo","Hier. Geldspielgesetz erklärt in drei Minuten. Brought to you by @heleneob_ - https://t.co/cfcLxDH4jK via @watson_news","http://twitter.com/DickMo/status/987234692561821696",2018-04-20 09:41:00,2018,16,2018-04-20,NA,"character(0)","en","de"
-"57","@heleneob_","Du spielst Poker im Netz? Dann solltest du dir das Geldspielgesetz genauer anschauen ... - https://t.co/DgqdedzZQa via @watson_news","http://twitter.com/heleneob_/status/987235285804244993",2018-04-20 09:43:00,2018,16,2018-04-20,NA,"character(0)","de","de"
-"58","@watson_news","Bye bye Pokerstars: Das ändert sich bei einem Ja zum Geldspielgesetz. https://t.co/vQOXZYnR7Y","http://twitter.com/watson_news/status/987236290344181761",2018-04-20 09:47:00,2018,16,2018-04-20,NA,"character(0)","de","de"
-"59","@wahlch15","RT @watson_news: Bye bye Pokerstars: Das ändert sich bei einem Ja zum Geldspielgesetz. https://t.co/vQOXZYnR7Y","http://twitter.com/wahlch15/status/987236622466015232",2018-04-20 09:48:00,2018,16,2018-04-20,"RT @watson_news:","character(0)","de","de"
-"60","@morvjn","RT @sosicles: Gut gebrüllt, Löwe! @Marcel_Dobler erklärt in der @Handelszeitung , wieso das #Geldspielgesetz abzulehnen ist. #netzsperren https://t.co/4iXYspGmm2","http://twitter.com/morvjn/status/987242016064098305",2018-04-20 10:10:00,2018,16,2018-04-20,"RT @sosicles:","c(""#geldspielgesetz "", ""#netzsperren "")","de","de"
-"61","@KilianBrogli","RT @digiges_ch: Jetzt Crowdfunding unterstützen:
+@FDP_Liberalen @SVPch @BDPSchweiz @vollgeld_nein @CVP_PDC 
 
-Gemeinsam verhindern wir das #Geldspielgesetz und #Netzsperren!
+#Vollgeldinitiative #Vollgeld #abst18 #CHvote #VGI #stopfakemoney https://t.co/gcaV7WUngX","http://twitter.com/soserde/status/987264535806562304",2018-04-20 11:39:00,2018,16,2018-04-20,"RT @Seven4wakeup:","c(""#vollgeldinitiative "", ""#vollgeld "", ""#abst18 "", ""#chvote "", ""#vgi "", ""#stopfakemoney "")"
+"36","@SwissBankingSBA","RT @SFI_CH: Learn more about the #vollgeldinitiative and the consequences for economy and monetary policy. Read our latest SFI Public Discussion Note. 
+French: https://t.co/WeMMYB4QEZ  / German: https://t.co/ENFDxIWk8A 
+Italian: https://t.co/uuWGI2Vx1A  / English: https://t.co/SqCMXBIpxG","http://twitter.com/SwissBankingSBA/status/987264865994670080",2018-04-20 11:41:00,2018,16,2018-04-20,"RT @SFI_CH:","#vollgeldinitiative "
+"37","@Alexander_Solms","RT @SFI_CH: Learn more about the #vollgeldinitiative and the consequences for economy and monetary policy. Read our latest SFI Public Discussion Note. 
+French: https://t.co/WeMMYB4QEZ  / German: https://t.co/ENFDxIWk8A 
+Italian: https://t.co/uuWGI2Vx1A  / English: https://t.co/SqCMXBIpxG","http://twitter.com/Alexander_Solms/status/987264867580116992",2018-04-20 11:41:00,2018,16,2018-04-20,"RT @SFI_CH:","#vollgeldinitiative "
+"38","@fabiocanetg","Alles #Vollgeld? Mein Beitrag ab heute auch auf @defactoexpert - @Vollgeldreform @vollgeld_nein @SwissBankingSBA @IPWunibern @anneepolitique @RuediNoser @PirminBischof @MoeLindgren @AlainS1991 @LauraCurau @SarahButikofer @Mark_Balsiger @LukasGolder @jonasprojer #abst18 https://t.co/Ot26W5i2p2","http://twitter.com/fabiocanetg/status/987266226668949504",2018-04-20 11:46:00,2018,16,2018-04-20,NA,"c(""#vollgeld? "", ""#abst18 "")"
+"39","@Lukas_Stiefel","Ein #Vollgeld-Hochrisikoexperiment mit dem Schweizer Finanzsystem?Spannend fürs Ausland, potentiell sehr teuer für uns.
 
-https://t.co/xDo4QaLAzP
-#GeldspielgesetzNein /@gsg_nein https://t.co/mTogryvimL","http://twitter.com/KilianBrogli/status/987247803905789952",2018-04-20 10:33:00,2018,16,2018-04-20,"RT @digiges_ch:","c(""#geldspielgesetz "", ""#netzsperren!"", ""#geldspielgesetznein "")","de","de"
-"62","@tuechel1","RT @andrisilbi_: Das Interview mit BR Sommaruga in der Luzerner Zeitung zeigt eindrücklich auf, wie wenig man von einer klugen Regulierung im Internet versteht. Lieber riegelt man das Netz ab und verschliesst die Augen vor den Herausforderungen. Ein Grund mehr, Nein zum #Geldspielgesetz zu sagen.","http://twitter.com/tuechel1/status/987248088728395777",2018-04-20 10:34:00,2018,16,2018-04-20,"RT @andrisilbi_:","#geldspielgesetz ","de","de"
-"63","@JanosAmmann","RT @jGruene_jVertEs: Die #Casinolobby hat sich beim #Geldspielgesetz auf ganzer Linie durchgesetz. Hilf mit #Netzsperren zu verhindern: https://t.co/hYjdW9CmuL #GeldspielgesetzNEIN @gsg_nein https://t.co/zabDs3b8s5","http://twitter.com/JanosAmmann/status/987249051891585024",2018-04-20 10:38:00,2018,16,2018-04-20,"RT @jGruene_jVertEs:","c(""#casinolobby "", ""#geldspielgesetz "", ""#netzsperren "", ""#geldspielgesetznein "")","de","de"
-"64","@NZahn42","RT @digiges_ch: Jetzt Crowdfunding unterstützen:
+""Dann kämen externe Beobachter in den Genuss einer Gratislektion, denn allfällige Kosten würden vorwiegend in der Schweiz anfallen.""
 
-Gemeinsam verhindern wir das #Geldspielgesetz und #Netzsperren!
+https://t.co/f7JiTG8nv3","http://twitter.com/Lukas_Stiefel/status/987268598656880640",2018-04-20 11:55:00,2018,16,2018-04-20,NA,"#vollgeld-hochrisikoexperiment "
+"40","@Tobias_Hendry","RT @WernerFuchs_CH: @srfnews @AlainS1991 Wenn schon mehr als 50% am aktuellen System zweifeln? Vollgeld ist eine gute Sache für den Bürger. Es wird wohl mehrheitlich geschwiegen - was Neues wird ja fast zu 100% abgelehnt und Banken traut eh kaum noch einer. #Vollgeld warum nicht?","http://twitter.com/Tobias_Hendry/status/987269742430998528",2018-04-20 12:00:00,2018,16,2018-04-20,"RT @WernerFuchs_CH:","#vollgeld "
+"41","@Tobias_Hendry","RT @Vollgeldreform: Die Grünen des Kantons Tessin unterstützen die Vollgeld-Initiative! https://t.co/AhyW6o6Z1Y
+#Vollgeld #abst18","http://twitter.com/Tobias_Hendry/status/987271190971600896",2018-04-20 12:06:00,2018,16,2018-04-20,"RT @Vollgeldreform:","c(""#vollgeld "", ""#abst18"")"
+"42","@AlainS1991","#Vollgeld - Gut gemeint ist das Gegenteil von gut. https://t.co/QbRPrc5Oyw","http://twitter.com/AlainS1991/status/987271994201780224",2018-04-20 12:09:00,2018,16,2018-04-20,NA,"#vollgeld "
+"43","@jungerfreisinn","RT @AlainS1991: #Vollgeld - Gut gemeint ist das Gegenteil von gut. https://t.co/QbRPrc5Oyw","http://twitter.com/jungerfreisinn/status/987273197648310272",2018-04-20 12:14:00,2018,16,2018-04-20,"RT @AlainS1991:","#vollgeld "
+"44","@Seven4wakeup","Wir können die ""Stabilität"" der Banken ziemlich einfach testen:
 
-https://t.co/xDo4QaLAzP
-#GeldspielgesetzNein /@gsg_nein https://t.co/mTogryvimL","http://twitter.com/NZahn42/status/987250719538360320",2018-04-20 10:44:00,2018,16,2018-04-20,"RT @digiges_ch:","c(""#geldspielgesetz "", ""#netzsperren!"", ""#geldspielgesetznein "")","de","de"
-"65","@jcandinas","RT @sosicles: Gut gebrüllt, Löwe! @Marcel_Dobler erklärt in der @Handelszeitung , wieso das #Geldspielgesetz abzulehnen ist. #netzsperren https://t.co/4iXYspGmm2","http://twitter.com/jcandinas/status/987257705558618113",2018-04-20 11:12:00,2018,16,2018-04-20,"RT @sosicles:","c(""#geldspielgesetz "", ""#netzsperren "")","de","de"
-"66","@playworldonline","Geldspielgesetz: <U+0084>Bei einem Nein hätten wir gar nichts<U+0093> https://t.co/Qg59I5syRX","http://twitter.com/playworldonline/status/987259084251410433",2018-04-20 11:18:00,2018,16,2018-04-20,NA,"character(0)","de","de"
-"67","@OliverOchsner","RT @jfsolothurn: Der Kampf gegen #protektionismus, #netzsperren und das #CasinoKartellGesetz beginnt auch im Kanton Solothurn - wir sagen Nein zu digitaler Abschottung, Nein zu Protektionismus und Nein zum #Geldspielgesetz ! https://t.co/CvBPLpGGpM","http://twitter.com/OliverOchsner/status/987259162567507970",2018-04-20 11:18:00,2018,16,2018-04-20,"RT @jfsolothurn:","c(""#protektionismus, "", ""#netzsperren "", ""#casinokartellgesetz "", ""#geldspielgesetz "")","de","de"
-"68","@JoelSauser3","@andrisilbi_ Kann mir jemand erklären was das Geldspielgesetz mit Zalando und Netflix zu tun hat?","http://twitter.com/JoelSauser3/status/987259461881552897",2018-04-20 11:19:00,2018,16,2018-04-20,NA,"character(0)","de","de"
-"69","@meliracine","RT @jfsolothurn: Der Kampf gegen #protektionismus, #netzsperren und das #CasinoKartellGesetz beginnt auch im Kanton Solothurn - wir sagen Nein zu digitaler Abschottung, Nein zu Protektionismus und Nein zum #Geldspielgesetz ! https://t.co/CvBPLpGGpM","http://twitter.com/meliracine/status/987259479191322624",2018-04-20 11:19:00,2018,16,2018-04-20,"RT @jfsolothurn:","c(""#protektionismus, "", ""#netzsperren "", ""#casinokartellgesetz "", ""#geldspielgesetz "")","de","de"
-"70","@DeniedDarkling","RT @ppsde: Die Werbemöglichkeiten der #CasinoLobby sind sehr gross und dynamisch während wir auf die Kraft der Einzelnen für gezielte Aktionen gegen das #Geldspielgesetz setzen.
+Spazier auf deine Bank und heb dein Geld ab. Wenn das nur 5% der Bankkunden tun würden, dann krachts...
+Das nennt man nicht stabil, sondern fragil..<f0><U+009F><U+0099><U+0088>
 
-https://t.co/z0eWtQmSjV
+#Vollgeld #Vollgeldinitiative #abst18 #CHvote #VGI https://t.co/XVlynYiBAh","http://twitter.com/Seven4wakeup/status/987280316581769216",2018-04-20 12:42:00,2018,16,2018-04-20,NA,"c(""#vollgeld "", ""#vollgeldinitiative "", ""#abst18 "", ""#chvote "", ""#vgi "")"
+"45","@stocki363","RT @Seven4wakeup: Wir können die ""Stabilität"" der Banken ziemlich einfach testen:
 
-https://t.co/7wgDV4bK6h","http://twitter.com/DeniedDarkling/status/987261319857491969",2018-04-20 11:26:00,2018,16,2018-04-20,"RT @ppsde:","c(""#casinolobby "", ""#geldspielgesetz "")","de","de"
-"71","@GuidoBalmerEJPD","@andrisilbi_ Kann man auch anders sehen - zum Beispiel so wie Christian Kalb, Spezialist für Geldspiele in Paris, Institut IRIS: Geldspielgesetz der Schweiz «fortschrittlich», «Vorbild», System mit Sperre funktioniert «sehr gut»: https://t.co/Oyj9aHiQ7F
-via @tdgch @24heuresch 
+Spazier auf deine Bank und heb dein Geld ab. Wenn das nur 5% der Bankkunden tun würden, dann krachts...
+Das nennt man nicht stabil, sondern fragil..<f0><U+009F><U+0099><U+0088>
 
-#GSGja #Vot18 https://t.co/iysJZrqq7B","http://twitter.com/GuidoBalmerEJPD/status/987264965575872512",2018-04-20 11:41:00,2018,16,2018-04-20,NA,"c(""#gsgja "", ""#vot18 "")","de","de"
-"72","@GR_4o","«Welche Signale werden ins Land gesendet, wenn der Staat zur Durchsetzung eines Gesetzes offenkundig auf ein weitgehend nutzloses Mittel setzt?» @sven_altermatt über #Netzsperren
-https://t.co/cXzSNHF9Ot","http://twitter.com/GR_4o/status/987267142864326657",2018-04-20 11:50:00,2018,16,2018-04-20,NA,"#netzsperren","de","de"
-"73","@GuidoBalmerEJPD","@andrisilbi_ Hier übrigens noch das Interview von @MajaBriner und Roger Braun von den Regionalmedien der @nzz (@tagblatt_ch @LuzernerZeitung etc.). Bundesrätin #Sommaruga zu den Folgen einer Ablehnung: «Gejubelt würde in Malta und Gibraltar».
+#Vollgeld #Vollgeldinitiative #abst18 #CHvote #VGI https://t.co/XVlynYiBAh","http://twitter.com/stocki363/status/987280736062529536",2018-04-20 12:44:00,2018,16,2018-04-20,"RT @Seven4wakeup:","c(""#vollgeld "", ""#vollgeldinitiative "", ""#abst18 "", ""#chvote "", ""#vgi "")"
+"46","@NeueWegeSchweiz","RT @Seven4wakeup: Wir können die ""Stabilität"" der Banken ziemlich einfach testen:
 
-Auch via https://t.co/49FNMiorrT
+Spazier auf deine Bank und heb dein Geld ab. Wenn das nur 5% der Bankkunden tun würden, dann krachts...
+Das nennt man nicht stabil, sondern fragil..<f0><U+009F><U+0099><U+0088>
 
-#GSGja #Vot18 https://t.co/PyAmJNFUej","http://twitter.com/GuidoBalmerEJPD/status/987267580128890880",2018-04-20 11:51:00,2018,16,2018-04-20,NA,"c(""#sommaruga "", ""#gsgja "", ""#vot18 "")","de","de"
-"74","@Sesselstuermer","RT @CarolBaltermia: Die @FDP_BS sagt klar NEIN zum #Geldspielgesetz und #Internetzensur","http://twitter.com/Sesselstuermer/status/987269213218902016",2018-04-20 11:58:00,2018,16,2018-04-20,"RT @CarolBaltermia:","c(""#geldspielgesetz "", ""#internetzensur"")","de","de"
-"75","@GuidoBalmerEJPD","Bisher nicht gesehen, aber auch noch interessant: Im Unterschied zur SVP Schweiz (Stimmfreigabe) beschliesst SVP Kanton Bern Ja-Parole zum #Geldspielgesetz (192 Ja, 22 Nein, 3 Enthaltungen)
+#Vollgeld #Vollgeldinitiative #abst18 #CHvote #VGI https://t.co/XVlynYiBAh","http://twitter.com/NeueWegeSchweiz/status/987281628060901376",2018-04-20 12:47:00,2018,16,2018-04-20,"RT @Seven4wakeup:","c(""#vollgeld "", ""#vollgeldinitiative "", ""#abst18 "", ""#chvote "", ""#vgi "")"
+"47","@fabiocanetg","Der Link im @defactoexpert Tweet scheint nicht bei allen zu funkionieren. Dieser schon:  https://t.co/Eq1MqnmgZ2 #Vollgeld","http://twitter.com/fabiocanetg/status/987283764710707201",2018-04-20 12:56:00,2018,16,2018-04-20,NA,"#vollgeld"
+"48","@Libertas_Partei","RT @AlainS1991: #Vollgeld - Gut gemeint ist das Gegenteil von gut. https://t.co/QbRPrc5Oyw","http://twitter.com/Libertas_Partei/status/987284306488897537",2018-04-20 12:58:00,2018,16,2018-04-20,"RT @AlainS1991:","#vollgeld "
+"49","@Sanwaechter","Nein zu #Vollgeld! Wir dürfen kein SNB Monopol zulassen! #EndTheSNB","http://twitter.com/Sanwaechter/status/987284937719078912",2018-04-20 13:00:00,2018,16,2018-04-20,NA,"c(""#vollgeld! "", ""#endthesnb"")"
+"50","@Seven4wakeup","@AlainS1991 Zinsen? Welche Zinsen? <f0><U+009F><U+0098><U+0086>
+Weshalb sollte ich nicht die Wahl haben, ob ich sicheres Geld will oder meiner Bank freiwillig und gegen Zinsen zur Verfügung stellen will?
+Eine Wahl zu haben ist immer besser als Zwang!
+#Vollgeld https://t.co/ktfDhDKh9q","http://twitter.com/Seven4wakeup/status/987285789242544128",2018-04-20 13:04:00,2018,16,2018-04-20,NA,"#vollgeld "
+"51","@Tobias_Hendry","RT @Seven4wakeup: Schulden sind gut, zu viele Schulden sind schlecht &amp; Schulden, die man niemals bezahlen kann sind der Tod für jede Wirtschaft &amp; für jeden Staat. 
+Wer noch nicht versteht, warum die Verschuldung nur wachsen kann, der nehme sich 3min Zeit:
+https://t.co/RHBCV8vVii
+#Vollgeld #abst18","http://twitter.com/Tobias_Hendry/status/987292638893223937",2018-04-20 13:31:00,2018,16,2018-04-20,"RT @Seven4wakeup:","c(""#vollgeld "", ""#abst18"")"
+"52","@Tobias_Hendry","RT @Seven4wakeup: Wir können die ""Stabilität"" der Banken ziemlich einfach testen:
 
-https://t.co/8uDvzwrhOB
+Spazier auf deine Bank und heb dein Geld ab. Wenn das nur 5% der Bankkunden tun würden, dann krachts...
+Das nennt man nicht stabil, sondern fragil..<f0><U+009F><U+0099><U+0088>
 
-#Abst18 #GSGja https://t.co/tUdSGq7Qcp","http://twitter.com/GuidoBalmerEJPD/status/987271043248214016",2018-04-20 12:05:00,2018,16,2018-04-20,NA,"c(""#geldspielgesetz "", ""#abst18 "", ""#gsgja "")","de","de"
-"76","@AlainS1991","Unglaublich wie naiv und unwissend unsere Bundesrätin Sommaruga ist...<f0><U+009F><U+0099><U+0088><f0><U+009F><U+0099><U+0088><f0><U+009F><U+0099><U+0088> #Geldspielgesetz #Casinokartellgesetz https://t.co/aZm3Cgm17T","http://twitter.com/AlainS1991/status/987271381971886080",2018-04-20 12:06:00,2018,16,2018-04-20,NA,"c(""#geldspielgesetz "", ""#casinokartellgesetz "")","de","de"
-"77","@jfsolothurn","RT @phil_liberal: Solothurn geht mit gutem liberalem Beispiel voran - der @kgvSolothurn lehnt das #Geldspielgesetz ab und setzt ein Zeichen gegen#netzzensur und #protektionismus. https://t.co/Zy8G43B78p","http://twitter.com/jfsolothurn/status/987271550222176257",2018-04-20 12:07:00,2018,16,2018-04-20,"RT @phil_liberal:","c(""#geldspielgesetz "", ""#netzzensur "", ""#protektionismus. "")","de","de"
-"78","@vecirex","RT @AlainS1991: Unglaublich wie naiv und unwissend unsere Bundesrätin Sommaruga ist...<f0><U+009F><U+0099><U+0088><f0><U+009F><U+0099><U+0088><f0><U+009F><U+0099><U+0088> #Geldspielgesetz #Casinokartellgesetz https://t.co/aZm3Cgm17T","http://twitter.com/vecirex/status/987272224271978497",2018-04-20 12:10:00,2018,16,2018-04-20,"RT @AlainS1991:","c(""#geldspielgesetz "", ""#casinokartellgesetz "")","de","de"
-"79","@lukasreimann","RT @sosicles: Gut gebrüllt, Löwe! @Marcel_Dobler erklärt in der @Handelszeitung , wieso das #Geldspielgesetz abzulehnen ist. #netzsperren https://t.co/4iXYspGmm2","http://twitter.com/lukasreimann/status/987272649150812160",2018-04-20 12:11:00,2018,16,2018-04-20,"RT @sosicles:","c(""#geldspielgesetz "", ""#netzsperren "")","de","de"
-"80","@ogf115","RT @jfblliberal: Die @FDP_BL fasst mit wenigen Gegenstimmen die Nein-Parole zum #GSG. Ein Erfolg für den #jungfreisinn! #GSGNein","http://twitter.com/ogf115/status/987273182984982528",2018-04-20 12:14:00,2018,16,2018-04-20,"RT @jfblliberal:","c(""#gsg. "", ""#jungfreisinn! "", ""#gsgnein"")","de","de"
-"81","@LaOsusky","Wie illegale Glücksspiel-Anbieter Gerichte bombardieren und Loser ihre Spielverluste erfolgreich einklagen können. #glücksspiel #spielsucht #GSG #casino #internetsperre https://t.co/vceYNQH1FT","http://twitter.com/LaOsusky/status/987275843104923648",2018-04-20 12:24:00,2018,16,2018-04-20,NA,"c(""#glücksspiel "", ""#spielsucht "", ""#gsg "", ""#casino "", ""#internetsperre "")","de","de"
-"82","@MandarinMichel","RT @AlainS1991: Unglaublich wie naiv und unwissend unsere Bundesrätin Sommaruga ist...<f0><U+009F><U+0099><U+0088><f0><U+009F><U+0099><U+0088><f0><U+009F><U+0099><U+0088> #Geldspielgesetz #Casinokartellgesetz https://t.co/aZm3Cgm17T","http://twitter.com/MandarinMichel/status/987276695752372224",2018-04-20 12:28:00,2018,16,2018-04-20,"RT @AlainS1991:","c(""#geldspielgesetz "", ""#casinokartellgesetz "")","de","de"
-"83","@KilianBrogli","Mit #Geldspielgesetz könne die Glaubwürdigkeit der Schweizer Rechtsordnung einen Schaden nehmen, «wenn sie sich zur Rechtsdurchsetzung weitgehend untauglicher Mittel #Netzsperren bedient». Sei digitaler als #ParlCH #Neuland und stimme Nein zum #GSG #Abst18 #GSGnein https://t.co/4Jr5sevmDP","http://twitter.com/KilianBrogli/status/987277088599179264",2018-04-20 12:29:00,2018,16,2018-04-20,NA,"c(""#geldspielgesetz "", ""#netzsperren "", ""#parlch "", ""#neuland "", ""#gsg "", ""#abst18 "", ""#gsgnein "")","de","de"
-"84","@hans_denkt","RT @andrisilbi_: Das Interview mit BR Sommaruga in der Luzerner Zeitung zeigt eindrücklich auf, wie wenig man von einer klugen Regulierung im Internet versteht. Lieber riegelt man das Netz ab und verschliesst die Augen vor den Herausforderungen. Ein Grund mehr, Nein zum #Geldspielgesetz zu sagen.","http://twitter.com/hans_denkt/status/987280548711337986",2018-04-20 12:43:00,2018,16,2018-04-20,"RT @andrisilbi_:","#geldspielgesetz ","de","de"
-"85","@PhTschopp","Der #BDP-Widerstand gegen das neue #Geldspielgesetz wächst: Nach der @aargauer_bdp und der @JBDP_CH empfiehlt nun auch die @PBD_Frib die Ablehnung der Vorlage. Ich werde mich dafür einsetzen, dass am 28. April auch die @BDPSchweiz folgt. #GSGNein @Internet_Zensur https://t.co/Eb9JsUrOY7","http://twitter.com/PhTschopp/status/987281111825960961",2018-04-20 12:45:00,2018,16,2018-04-20,NA,"c(""#bdp-widerstand "", ""#geldspielgesetz "", ""#gsgnein "")","de","de"
-"86","@fljan","RT @andrisilbi_: „Welche Signale werden ins Land gesendet, wenn der Staat zur Durchsetzung eines Gesetzes offenkundig auf ein weitgehend nutzloses Mittel setzt?“ 
+#Vollgeld #Vollgeldinitiative #abst18 #CHvote #VGI https://t.co/XVlynYiBAh","http://twitter.com/Tobias_Hendry/status/987292711391760386",2018-04-20 13:31:00,2018,16,2018-04-20,"RT @Seven4wakeup:","c(""#vollgeld "", ""#vollgeldinitiative "", ""#abst18 "", ""#chvote "", ""#vgi "")"
+"53","@defactoexpert","Zum Auftakt des Abstimmungskampfes: #Notenbankgeld, #Vollgeld und #schuldfreiesGeld. Was bedeuten diese Begriffe und weshalb sind sie in der Diskussion um die #vollgeld -Initiative wichtig? https://t.co/tRiVKtVfrL Beitrag von @fabiocanetg auf @defactoexpert","http://twitter.com/defactoexpert/status/987294687823351810",2018-04-20 13:39:00,2018,16,2018-04-20,NA,"c(""#notenbankgeld, "", ""#vollgeld "", ""#schuldfreiesgeld. "", ""#vollgeld "")"
+"54","@fabiocanetg","Alles #Vollgeld? Mein Beitrag (mit Link, der bei allen funkioniert), ab heute auch auf @defactoexpert - @Vollgeldreform @vollgeld_nein @SwissBankingSBA @IPWunibern @anneepolitique @RuediNoser @PirminBischof @MoeLindgren  @LauraCurau @SarahButikofer @Mark_Balsiger @LukasGolder https://t.co/MuyDjAHEeh","http://twitter.com/fabiocanetg/status/987296308808552449",2018-04-20 13:45:00,2018,16,2018-04-20,NA,"#vollgeld? "
+"55","@NeueWegeSchweiz","Diese Wahl müssen wir treffen das #Vollgeld-Geldsystem in den Händen der SNB und  unter demokratischer Kontrolle =(inkl. Reorganisation SNB) oder in den Händen der  #UBS und #CS wie heute schon und damit vom Ausland mehrheitlich kontrolliert.
 
-Ein Grund mehr für ein Nein zum #Geldspielgesetz #GSGnein https://t.co/Wx3c5LMULE","http://twitter.com/fljan/status/987288730804346880",2018-04-20 13:15:00,2018,16,2018-04-20,"RT @andrisilbi_:","c(""#geldspielgesetz "", ""#gsgnein "")","de","de"
-"87","@vecirex","RT @recherdan: Parteitag der @FDP_BL mit @andrisilbi_ zum #GSG: mit überwältigendem Mehr klar abgelehnt. Nein zu Protektionismus, Bevormundung und #netzsperren https://t.co/MBawQsPbXW","http://twitter.com/vecirex/status/987290323205451777",2018-04-20 13:22:00,2018,16,2018-04-20,"RT @recherdan:","c(""#gsg: "", ""#netzsperren "")","de","de"
-"88","@swissshooting","Heidi Diethelm Gerber wirbt für ein Ja zum Geldspielgesetz
+#abst18 #AugenAuf https://t.co/rSvM9pwKPr","http://twitter.com/NeueWegeSchweiz/status/987298415464894466",2018-04-20 13:54:00,2018,16,2018-04-20,NA,"c(""#vollgeld-geldsystem "", ""#ubs "", ""#cs "", ""#abst18 "", ""#augenauf "")"
+"56","@Tobias_Hendry","RT @NeueWegeSchweiz: Diese Wahl müssen wir treffen das #Vollgeld-Geldsystem in den Händen der SNB und  unter demokratischer Kontrolle =(inkl. Reorganisation SNB) oder in den Händen der  #UBS und #CS wie heute schon und damit vom Ausland mehrheitlich kontrolliert.
 
-Am 10. Juni 2018 stimmen die Schweizerinnen und Schweizer über das Geldspielgesetz ab. Für den Schweizer Sport – und damit auch für den SSV – ist das Gesetz... https://t.co/AFrykVwn0B","http://twitter.com/swissshooting/status/987291270581243904",2018-04-20 13:25:00,2018,16,2018-04-20,NA,"character(0)","de","de"
-"89","@diuuk","RT @PhTschopp: Der #BDP-Widerstand gegen das neue #Geldspielgesetz wächst: Nach der @aargauer_bdp und der @JBDP_CH empfiehlt nun auch die @PBD_Frib die Ablehnung der Vorlage. Ich werde mich dafür einsetzen, dass am 28. April auch die @BDPSchweiz folgt. #GSGNein @Internet_Zensur https://t.co/Eb9JsUrOY7","http://twitter.com/diuuk/status/987291515763511298",2018-04-20 13:26:00,2018,16,2018-04-20,"RT @PhTschopp:","c(""#bdp-widerstand "", ""#geldspielgesetz "", ""#gsgnein "")","de","de"
-"90","@ppsde","RT @KilianBrogli: Mit #Geldspielgesetz könne die Glaubwürdigkeit der Schweizer Rechtsordnung einen Schaden nehmen, «wenn sie sich zur Rechtsdurchsetzung weitgehend untauglicher Mittel #Netzsperren bedient». Sei digitaler als #ParlCH #Neuland und stimme Nein zum #GSG #Abst18 #GSGnein https://t.co/4Jr5sevmDP","http://twitter.com/ppsde/status/987291637045964800",2018-04-20 13:27:00,2018,16,2018-04-20,"RT @KilianBrogli:","c(""#geldspielgesetz "", ""#netzsperren "", ""#parlch "", ""#neuland "", ""#gsg "", ""#abst18 "", ""#gsgnein "")","de","de"
-"91","@vecirex","@vinschger @AlainS1991 Das könnte noch nötig werden!
-#Abst18 #CHvote #GSGnein","http://twitter.com/vecirex/status/987296269075996672",2018-04-20 13:45:00,2018,16,2018-04-20,NA,"c(""#abst18 "", ""#chvote "", ""#gsgnein"")","de","de"
-"92","@vecirex","@vinschger @AlainS1991 Ich denke, ja - und sie weiss auch warum; im #FMG ist das wieder Thema und das mit dem Urheberrecht ist nur deshalb raus, weil massiv Widerstand von uns organisiert wurde, allen voran von @digiges_ch &amp; @ISOCSwitzerland-Akteuren.
-#Abst18 #CHvote #GSGnein #Netzzensur #Neuland","http://twitter.com/vecirex/status/987296506196709377",2018-04-20 13:46:00,2018,16,2018-04-20,NA,"c(""#fmg "", ""#abst18 "", ""#chvote "", ""#gsgnein "", ""#netzzensur "", ""#neuland"")","de","de"
-"93","@vecirex","RT @vecirex: @vinschger @AlainS1991 Ich denke, ja - und sie weiss auch warum; im #FMG ist das wieder Thema und das mit dem Urheberrecht ist nur deshalb raus, weil massiv Widerstand von uns organisiert wurde, allen voran von @digiges_ch &amp; @ISOCSwitzerland-Akteuren.
-#Abst18 #CHvote #GSGnein #Netzzensur #Neuland","http://twitter.com/vecirex/status/987296531916173312",2018-04-20 13:46:00,2018,16,2018-04-20,"RT @vecirex:","c(""#fmg "", ""#abst18 "", ""#chvote "", ""#gsgnein "", ""#netzzensur "", ""#neuland"")","de","de"
-"94","@dhuerlimann","Die Glaubwürdigkeit der Schweizer Rechtsordnung wird beschädigt, wenn sie sich zur Rechtsdurchsetzung weitgehend untauglicher Mittel bedient. -- https://t.co/oZMImEsJpe","http://twitter.com/dhuerlimann/status/987296664783413248",2018-04-20 13:47:00,2018,16,2018-04-20,NA,"character(0)","de","de"
-"95","@stwaho","RT @GuidoBalmerEJPD: «Gejubelt würde in Malta und Gibraltar»: Bundesrätin #Sommaruga zu den Folgen einer Ablehnung des Geldspielgesetzes. Im Interview mit @MajaBriner und Roger Braun von den Regionalmedien der @nzz (@tagblatt_ch @LuzernerZeitung etc.).
+#abst18 #AugenAuf https://t.co/rSvM9pwKPr","http://twitter.com/Tobias_Hendry/status/987298898816520192",2018-04-20 13:56:00,2018,16,2018-04-20,"RT @NeueWegeSchweiz:","c(""#vollgeld-geldsystem "", ""#ubs "", ""#cs "", ""#abst18 "", ""#augenauf "")"
+"57","@Tobias_Hendry","@Sanwaechter Dann doch lieber in der demokratisch kontrollierten Hand der SNB, als in der Hand der Privatbanken. Bei Polizei und Gerichten hat auch der Staat ein Monopol. Geldschöpfung ist auch ein service public.  #vollgeld JA","http://twitter.com/Tobias_Hendry/status/987299456394715136",2018-04-20 13:58:00,2018,16,2018-04-20,NA,"#vollgeld "
+"58","@Seven4wakeup","RT @Tobias_Hendry: @Sanwaechter Dann doch lieber in der demokratisch kontrollierten Hand der SNB, als in der Hand der Privatbanken. Bei Polizei und Gerichten hat auch der Staat ein Monopol. Geldschöpfung ist auch ein service public.  #vollgeld JA","http://twitter.com/Seven4wakeup/status/987304729339449345",2018-04-20 14:19:00,2018,16,2018-04-20,"RT @Tobias_Hendry:","#vollgeld "
+"59","@StojanovicNenad","RT @defactoexpert: Zum Auftakt des Abstimmungskampfes: #Notenbankgeld, #Vollgeld und #schuldfreiesGeld. Was bedeuten diese Begriffe und weshalb sind sie in der Diskussion um die #vollgeld -Initiative wichtig? https://t.co/tRiVKtVfrL Beitrag von @fabiocanetg auf @defactoexpert","http://twitter.com/StojanovicNenad/status/987305234241409024",2018-04-20 14:21:00,2018,16,2018-04-20,"RT @defactoexpert:","c(""#notenbankgeld, "", ""#vollgeld "", ""#schuldfreiesgeld. "", ""#vollgeld "")"
+"60","@GeldCHF","RT @Vollgeldreform: Unerwarteter Support für die Vollgeld-Initiative! Die internationale Bankenaufsicht zweifelt an der Krisenfestigkeit der Schweizer Einlagensicherung. Kundengelder seien ungenügend gedeckt, kritisiert das Gremium. 
+#vollgeld #abst18 #chvote
 
-Auch via https://t.co/MYaRQqTiZj
+https://t.co/P0bwb8pbXY","http://twitter.com/GeldCHF/status/987307265551106049",2018-04-20 14:29:00,2018,16,2018-04-20,"RT @Vollgeldreform:","c(""#vollgeld "", ""#abst18 "", ""#chvote"")"
+"61","@f_degeorge","RT @SFI_CH: Learn more about the #vollgeldinitiative and the consequences for economy and monetary policy. Read our latest SFI Public Discussion Note. 
+French: https://t.co/WeMMYB4QEZ  / German: https://t.co/ENFDxIWk8A 
+Italian: https://t.co/uuWGI2Vx1A  / English: https://t.co/SqCMXBIpxG","http://twitter.com/f_degeorge/status/987307399315906561",2018-04-20 14:30:00,2018,16,2018-04-20,"RT @SFI_CH:","#vollgeldinitiative "
+"62","@AldoCarigiet","RT @SVPch: Die Schweiz würde bei einem Ja zur Vollgeld-Initiative zu einem Versuchskaninchen für international aktive Vollgeld-Aktivisten. Denn ein solches System gibt es weltweit noch nirgends. 
+#VollgeldinitiativeNein #VollgeldNein https://t.co/PUMGpKLWPB","http://twitter.com/AldoCarigiet/status/987309180406128640",2018-04-20 14:37:00,2018,16,2018-04-20,"RT @SVPch:","c(""#vollgeldinitiativenein "", ""#vollgeldnein "")"
+"63","@GabyRudolf","RT @swissinfo_de: Was würde sich ändern, wenn die Schweizer Stimmbürger am 10. Juni Ja sagen würden zur Vollgeldinitiative? Ein paar zentrale Punkte kurz erklärt. #Vollgeld #abst18
+https://t.co/QiMQtC4RKq","http://twitter.com/GabyRudolf/status/987310129833013248",2018-04-20 14:40:00,2018,16,2018-04-20,"RT @swissinfo_de:","c(""#vollgeld "", ""#abst18"")"
+"64","@stocki363","RT @Tobias_Hendry: @Sanwaechter Dann doch lieber in der demokratisch kontrollierten Hand der SNB, als in der Hand der Privatbanken. Bei Polizei und Gerichten hat auch der Staat ein Monopol. Geldschöpfung ist auch ein service public.  #vollgeld JA","http://twitter.com/stocki363/status/987332206212341760",2018-04-20 16:08:00,2018,16,2018-04-20,"RT @Tobias_Hendry:","#vollgeld "
+"65","@Into_the_Nature","@GeoEpoche https://t.co/x6LsXpvaeY
 
-#GSGja #Vot18 https://t.co/XAR2oIaArH","http://twitter.com/stwaho/status/987298443952623616",2018-04-20 13:54:00,2018,16,2018-04-20,"RT @GuidoBalmerEJPD:","c(""#sommaruga "", ""#gsgja "", ""#vot18 "")","de","de"
-"96","@NZahn42","RT @dhuerlimann: Die Glaubwürdigkeit der Schweizer Rechtsordnung wird beschädigt, wenn sie sich zur Rechtsdurchsetzung weitgehend untauglicher Mittel bedient. -- https://t.co/oZMImEsJpe","http://twitter.com/NZahn42/status/987298470611398656",2018-04-20 13:54:00,2018,16,2018-04-20,"RT @dhuerlimann:","character(0)","de","de"
-"97","@livio_jfs","#Aufholbedarf bei der Digitalisierung. Nein zum #Abschottungsgesetz #GSG. https://t.co/Z681Yydimz","http://twitter.com/livio_jfs/status/987298789856825345",2018-04-20 13:55:00,2018,16,2018-04-20,NA,"c(""#aufholbedarf "", ""#abschottungsgesetz "", ""#gsg. "")","de","de"
-"98","@beatflach","#Netzsperren sind untauglich u. senden ein fatales Signal des Staates zur Zukunft des freien Internets aus. (Illegales muss man löschen, nicht sperren; Onlinespiele sind nicht illegal, sondern sollten konzessioniert werden). Lesenswert dazu: https://t.co/hMdzSILwYP #GSGNein","http://twitter.com/beatflach/status/987300536033665024",2018-04-20 14:02:00,2018,16,2018-04-20,NA,"c(""#netzsperren "", ""#gsgnein"")","de","de"
-"99","@OhneNetzsperren","@vinschger @AlainS1991 @vecirex Jedes neue Gesetz kann weitere #Netzsperren einführen. Dies wird um Grössenordnungen einfacher, wenn wir mit dem #Geldspielgesetz den #Präzedenzfall schaffen. Das Parlament wird diese ziemlich sicher wieder ins #Urheberrecht reinnnehmen, falls das Geldspielgesetz angenommen würde","http://twitter.com/OhneNetzsperren/status/987302181140385792",2018-04-20 14:09:00,2018,16,2018-04-20,NA,"c(""#netzsperren "", ""#geldspielgesetz "", ""#präzedenzfall "", ""#urheberrecht "")","de","de"
-"100","@stwaho","ja, was man im Namen der Freiheit alles machen kann... #GSGJa 
-https://t.co/Z9c6b5YTTa https://t.co/HwnEts5Gh5","http://twitter.com/stwaho/status/987312802518982656",2018-04-20 14:51:00,2018,16,2018-04-20,NA,"#gsgja ","de","de"
-"101","@cwasi","Internetzensur nein danke! Keine chinesischen Methoden beim #Geldspielgesetz! Markt und Innovation ist besser als #Netzsperre.  @FDP_Liberalen @Jungfreisinnige #GSGnein @gsg_nein #cewe_newsroom #abst18 #CHvote
-<f0><U+009F><U+0091><U+0089> https://t.co/Guf9Ydio8O https://t.co/PfKZqtwG5N","http://twitter.com/cwasi/status/987312924782886917",2018-04-20 14:51:00,2018,16,2018-04-20,NA,"c(""#geldspielgesetz! "", ""#netzsperre. "", ""#gsgnein "", ""#cewe_newsroom "", ""#abst18 "", ""#chvote"")","de","de"
-"102","@sosicles","RT @cwasi: Internetzensur nein danke! Keine chinesischen Methoden beim #Geldspielgesetz! Markt und Innovation ist besser als #Netzsperre.  @FDP_Liberalen @Jungfreisinnige #GSGnein @gsg_nein #cewe_newsroom #abst18 #CHvote
-<f0><U+009F><U+0091><U+0089> https://t.co/Guf9Ydio8O https://t.co/PfKZqtwG5N","http://twitter.com/sosicles/status/987313716046725124",2018-04-20 14:55:00,2018,16,2018-04-20,"RT @cwasi:","c(""#geldspielgesetz! "", ""#netzsperre. "", ""#gsgnein "", ""#cewe_newsroom "", ""#abst18 "", ""#chvote"")","de","de"
-"103","@morand_louise","RT @cwasi: Internetzensur nein danke! Keine chinesischen Methoden beim #Geldspielgesetz! Markt und Innovation ist besser als #Netzsperre.  @FDP_Liberalen @Jungfreisinnige #GSGnein @gsg_nein #cewe_newsroom #abst18 #CHvote
-<f0><U+009F><U+0091><U+0089> https://t.co/Guf9Ydio8O https://t.co/PfKZqtwG5N","http://twitter.com/morand_louise/status/987317259856154625",2018-04-20 15:09:00,2018,16,2018-04-20,"RT @cwasi:","c(""#geldspielgesetz! "", ""#netzsperre. "", ""#gsgnein "", ""#cewe_newsroom "", ""#abst18 "", ""#chvote"")","de","de"
-"104","@verathom","RT @cwasi: Internetzensur nein danke! Keine chinesischen Methoden beim #Geldspielgesetz! Markt und Innovation ist besser als #Netzsperre.  @FDP_Liberalen @Jungfreisinnige #GSGnein @gsg_nein #cewe_newsroom #abst18 #CHvote
-<f0><U+009F><U+0091><U+0089> https://t.co/Guf9Ydio8O https://t.co/PfKZqtwG5N","http://twitter.com/verathom/status/987317593399812096",2018-04-20 15:10:00,2018,16,2018-04-20,"RT @cwasi:","c(""#geldspielgesetz! "", ""#netzsperre. "", ""#gsgnein "", ""#cewe_newsroom "", ""#abst18 "", ""#chvote"")","de","de"
-"105","@X_crossss","RT @cwasi: Internetzensur nein danke! Keine chinesischen Methoden beim #Geldspielgesetz! Markt und Innovation ist besser als #Netzsperre.  @FDP_Liberalen @Jungfreisinnige #GSGnein @gsg_nein #cewe_newsroom #abst18 #CHvote
-<f0><U+009F><U+0091><U+0089> https://t.co/Guf9Ydio8O https://t.co/PfKZqtwG5N","http://twitter.com/X_crossss/status/987319455716986880",2018-04-20 15:17:00,2018,16,2018-04-20,"RT @cwasi:","c(""#geldspielgesetz! "", ""#netzsperre. "", ""#gsgnein "", ""#cewe_newsroom "", ""#abst18 "", ""#chvote"")","de","de"
-"106","@enussbi","RT @GuidoBalmerEJPD: «Gejubelt würde in Malta und Gibraltar»: Bundesrätin #Sommaruga zu den Folgen einer Ablehnung des Geldspielgesetzes. Im Interview mit @MajaBriner und Roger Braun von den Regionalmedien der @nzz (@tagblatt_ch @LuzernerZeitung etc.).
+#Vollgeldinitiative 129
 
-Auch via https://t.co/MYaRQqTiZj
+Nehmt es mir nicht übel.
+Ich bin bloss ein alter Punk der gerne provoziert...","http://twitter.com/Into_the_Nature/status/987333575778471937",2018-04-20 16:14:00,2018,16,2018-04-20,NA,"#vollgeldinitiative "
+"66","@swissly1","RT @Vollgeldreform: Unerwarteter Support für die Vollgeld-Initiative! Die internationale Bankenaufsicht zweifelt an der Krisenfestigkeit der Schweizer Einlagensicherung. Kundengelder seien ungenügend gedeckt, kritisiert das Gremium. 
+#vollgeld #abst18 #chvote
 
-#GSGja #Vot18 https://t.co/XAR2oIaArH","http://twitter.com/enussbi/status/987319467192541185",2018-04-20 15:17:00,2018,16,2018-04-20,"RT @GuidoBalmerEJPD:","c(""#sommaruga "", ""#gsgja "", ""#vot18 "")","de","de"
-"107","@pirateexception","RT @KilianBrogli: Mit #Geldspielgesetz könne die Glaubwürdigkeit der Schweizer Rechtsordnung einen Schaden nehmen, «wenn sie sich zur Rechtsdurchsetzung weitgehend untauglicher Mittel #Netzsperren bedient». Sei digitaler als #ParlCH #Neuland und stimme Nein zum #GSG #Abst18 #GSGnein https://t.co/4Jr5sevmDP","http://twitter.com/pirateexception/status/987323129327439872",2018-04-20 15:32:00,2018,16,2018-04-20,"RT @KilianBrogli:","c(""#geldspielgesetz "", ""#netzsperren "", ""#parlch "", ""#neuland "", ""#gsg "", ""#abst18 "", ""#gsgnein "")","de","de"
-"108","@pirateexception","RT @PhTschopp: Der #BDP-Widerstand gegen das neue #Geldspielgesetz wächst: Nach der @aargauer_bdp und der @JBDP_CH empfiehlt nun auch die @PBD_Frib die Ablehnung der Vorlage. Ich werde mich dafür einsetzen, dass am 28. April auch die @BDPSchweiz folgt. #GSGNein @Internet_Zensur https://t.co/Eb9JsUrOY7","http://twitter.com/pirateexception/status/987323198399270912",2018-04-20 15:32:00,2018,16,2018-04-20,"RT @PhTschopp:","c(""#bdp-widerstand "", ""#geldspielgesetz "", ""#gsgnein "")","de","de"
-"109","@Michele__Barone","RT @cwasi: Internetzensur nein danke! Keine chinesischen Methoden beim #Geldspielgesetz! Markt und Innovation ist besser als #Netzsperre.  @FDP_Liberalen @Jungfreisinnige #GSGnein @gsg_nein #cewe_newsroom #abst18 #CHvote
-<f0><U+009F><U+0091><U+0089> https://t.co/Guf9Ydio8O https://t.co/PfKZqtwG5N","http://twitter.com/Michele__Barone/status/987323606857404421",2018-04-20 15:34:00,2018,16,2018-04-20,"RT @cwasi:","c(""#geldspielgesetz! "", ""#netzsperre. "", ""#gsgnein "", ""#cewe_newsroom "", ""#abst18 "", ""#chvote"")","de","de"
-"110","@OhneNetzsperren","Netzsperren sind immer das falsche Mittel, ob bei Geldspiel oder strafrechtlich verbotenen Inhalten. Das haben die deutschen vor 10 Jahren schon gemerkt. Details im Artikel der Aargauerzeitung https://t.co/m3PMpUtwwb","http://twitter.com/OhneNetzsperren/status/987325731909853184",2018-04-20 15:42:00,2018,16,2018-04-20,NA,"character(0)","de","de"
-"111","@padeluun","RT @OhneNetzsperren: Netzsperren sind immer das falsche Mittel, ob bei Geldspiel oder strafrechtlich verbotenen Inhalten. Das haben die deutschen vor 10 Jahren schon gemerkt. Details im Artikel der Aargauerzeitung https://t.co/m3PMpUtwwb","http://twitter.com/padeluun/status/987328388393308162",2018-04-20 15:53:00,2018,16,2018-04-20,"RT @OhneNetzsperren:","character(0)","de","de"
-"112","@cyb3rrunn3r","RT @OhneNetzsperren: Netzsperren sind immer das falsche Mittel, ob bei Geldspiel oder strafrechtlich verbotenen Inhalten. Das haben die deutschen vor 10 Jahren schon gemerkt. Details im Artikel der Aargauerzeitung https://t.co/m3PMpUtwwb","http://twitter.com/cyb3rrunn3r/status/987328891672055813",2018-04-20 15:55:00,2018,16,2018-04-20,"RT @OhneNetzsperren:","character(0)","de","de"
-"113","@FDP_Zuerich2","RT @andrisilbi_: „Welche Signale werden ins Land gesendet, wenn der Staat zur Durchsetzung eines Gesetzes offenkundig auf ein weitgehend nutzloses Mittel setzt?“ 
+https://t.co/P0bwb8pbXY","http://twitter.com/swissly1/status/987341603625947136",2018-04-20 16:45:00,2018,16,2018-04-20,"RT @Vollgeldreform:","c(""#vollgeld "", ""#abst18 "", ""#chvote"")"
+"67","@fabiocanetg","RT @defactoexpert: Zum Auftakt des Abstimmungskampfes: #Notenbankgeld, #Vollgeld und #schuldfreiesGeld. Was bedeuten diese Begriffe und weshalb sind sie in der Diskussion um die #vollgeld -Initiative wichtig? https://t.co/tRiVKtVfrL Beitrag von @fabiocanetg auf @defactoexpert","http://twitter.com/fabiocanetg/status/987345265781862403",2018-04-20 17:00:00,2018,16,2018-04-20,"RT @defactoexpert:","c(""#notenbankgeld, "", ""#vollgeld "", ""#schuldfreiesgeld. "", ""#vollgeld "")"
+"68","@gabisoft","RT @NeueWegeSchweiz: Diese Wahl müssen wir treffen das #Vollgeld-Geldsystem in den Händen der SNB und  unter demokratischer Kontrolle =(inkl. Reorganisation SNB) oder in den Händen der  #UBS und #CS wie heute schon und damit vom Ausland mehrheitlich kontrolliert.
 
-Ein Grund mehr für ein Nein zum #Geldspielgesetz #GSGnein https://t.co/Wx3c5LMULE","http://twitter.com/FDP_Zuerich2/status/987342191382224896",2018-04-20 16:48:00,2018,16,2018-04-20,"RT @andrisilbi_:","c(""#geldspielgesetz "", ""#gsgnein "")","de","de"
-"114","@swissly1","RT @cwasi: Internetzensur nein danke! Keine chinesischen Methoden beim #Geldspielgesetz! Markt und Innovation ist besser als #Netzsperre.  @FDP_Liberalen @Jungfreisinnige #GSGnein @gsg_nein #cewe_newsroom #abst18 #CHvote
-<f0><U+009F><U+0091><U+0089> https://t.co/Guf9Ydio8O https://t.co/PfKZqtwG5N","http://twitter.com/swissly1/status/987344748246691840",2018-04-20 16:58:00,2018,16,2018-04-20,"RT @cwasi:","c(""#geldspielgesetz! "", ""#netzsperre. "", ""#gsgnein "", ""#cewe_newsroom "", ""#abst18 "", ""#chvote"")","de","de"
-"115","@huberfe","RT @NatalieRickli: #SVP #Zürich sagt mit 128:90 Stimmen Nein zu #Internetzensur #Casinomonopol und #Geldspielgesetz… https://t.co/o75Ae8fSKd","http://twitter.com/huberfe/status/987346400328540165",2018-04-20 17:05:00,2018,16,2018-04-20,"RT @NatalieRickli:","c(""#svp "", ""#zürich "", ""#internetzensur "", ""#casinomonopol "", ""#geldspielgesetz… "")","de","de"
-"116","@JorgoA","RT @andrisilbi_: „Welche Signale werden ins Land gesendet, wenn der Staat zur Durchsetzung eines Gesetzes offenkundig auf ein weitgehend nutzloses Mittel setzt?“ 
-
-Ein Grund mehr für ein Nein zum #Geldspielgesetz #GSGnein https://t.co/Wx3c5LMULE","http://twitter.com/JorgoA/status/987347431447842817",2018-04-20 17:09:00,2018,16,2018-04-20,"RT @andrisilbi_:","c(""#geldspielgesetz "", ""#gsgnein "")","de","de"
-"117","@morvjn","RT @andrisilbi_: „Welche Signale werden ins Land gesendet, wenn der Staat zur Durchsetzung eines Gesetzes offenkundig auf ein weitgehend nutzloses Mittel setzt?“ 
-
-Ein Grund mehr für ein Nein zum #Geldspielgesetz #GSGnein https://t.co/Wx3c5LMULE","http://twitter.com/morvjn/status/987347761715662849",2018-04-20 17:10:00,2018,16,2018-04-20,"RT @andrisilbi_:","c(""#geldspielgesetz "", ""#gsgnein "")","de","de"
-"118","@JorgoA","RT @OhneNetzsperren: @vinschger @AlainS1991 @vecirex Jedes neue Gesetz kann weitere #Netzsperren einführen. Dies wird um Grössenordnungen einfacher, wenn wir mit dem #Geldspielgesetz den #Präzedenzfall schaffen. Das Parlament wird diese ziemlich sicher wieder ins #Urheberrecht reinnnehmen, falls das Geldspielgesetz angenommen würde","http://twitter.com/JorgoA/status/987349576020619265",2018-04-20 17:17:00,2018,16,2018-04-20,"RT @OhneNetzsperren:","c(""#netzsperren "", ""#geldspielgesetz "", ""#präzedenzfall "", ""#urheberrecht "")","de","de"
-"119","@JorgoA","RT @cwasi: Internetzensur nein danke! Keine chinesischen Methoden beim #Geldspielgesetz! Markt und Innovation ist besser als #Netzsperre.  @FDP_Liberalen @Jungfreisinnige #GSGnein @gsg_nein #cewe_newsroom #abst18 #CHvote
-<f0><U+009F><U+0091><U+0089> https://t.co/Guf9Ydio8O https://t.co/PfKZqtwG5N","http://twitter.com/JorgoA/status/987349990661083136",2018-04-20 17:19:00,2018,16,2018-04-20,"RT @cwasi:","c(""#geldspielgesetz! "", ""#netzsperre. "", ""#gsgnein "", ""#cewe_newsroom "", ""#abst18 "", ""#chvote"")","de","de"
-"120","@pirateexception","RT @cwasi: Internetzensur nein danke! Keine chinesischen Methoden beim #Geldspielgesetz! Markt und Innovation ist besser als #Netzsperre.  @FDP_Liberalen @Jungfreisinnige #GSGnein @gsg_nein #cewe_newsroom #abst18 #CHvote
-<f0><U+009F><U+0091><U+0089> https://t.co/Guf9Ydio8O https://t.co/PfKZqtwG5N","http://twitter.com/pirateexception/status/987350458917425155",2018-04-20 17:21:00,2018,16,2018-04-20,"RT @cwasi:","c(""#geldspielgesetz! "", ""#netzsperre. "", ""#gsgnein "", ""#cewe_newsroom "", ""#abst18 "", ""#chvote"")","de","de"
-"121","@xfabio8","RT @TJFAdrian: Heute darf ich am #JFBL18 die @jfblliberal vertreten. Eine ideale Gelegenheit den Freisinn und #GSGnein schmackhaft zu machen.","http://twitter.com/xfabio8/status/987350977895456769",2018-04-20 17:23:00,2018,16,2018-04-20,"RT @TJFAdrian:","c(""#jfbl18 "", ""#gsgnein "")","de","de"
-"122","@ThomasLaeubli","@recherdan @FDP_BL @andrisilbi_ Die #Jungfreisinnigen bezwecken einmal mehr, dass die #Digitalwirtschaft einen Profit für eine dürftige Leistung abwirft: Wie sie das #Urheberrecht im Netz missachten, zocken sie die Leute ab und wollen nichts fürs #Gemeinwohl erbringen. Darum ein beherztes JA zum #GSG! #GSGJa","http://twitter.com/ThomasLaeubli/status/987351574396723200",2018-04-20 17:25:00,2018,16,2018-04-20,NA,"c(""#jungfreisinnigen "", ""#digitalwirtschaft "", ""#urheberrecht "", ""#gemeinwohl "", ""#gsg! "", ""#gsgja"")","de","de"
-"123","@gsg_nein","https://t.co/iSzmKxorSR
-""Welche Signale werden ins Land gesendet, wenn der Staat zur Durchsetzung eines Gesetzes offenkundig auf ein weitgehend nutzloses Mittel setzt?"" #GeldspielgesetzNEIN","http://twitter.com/gsg_nein/status/987352265215414272",2018-04-20 17:28:00,2018,16,2018-04-20,NA,"#geldspielgesetznein","de","de"
-"124","@CVP_PDC","Der Parteivorstand der CVP Schweiz befürwortet das #Geldspielgesetz mit 33 Stimmen zu 4 Stimmen bei 3 Enthaltungen. Morgen werden die Delegierten an der #DVCVPCH ihre Parole fassen. https://t.co/D7lYMa88hq","http://twitter.com/CVP_PDC/status/987353084774019072",2018-04-20 17:31:00,2018,16,2018-04-20,NA,"c(""#geldspielgesetz "", ""#dvcvpch "")","de","de"
-"125","@wahlch15","RT @andrisilbi_: Das Interview mit BR Sommaruga in der Luzerner Zeitung zeigt eindrücklich auf, wie wenig man von einer klugen Regulierung im Internet versteht. Lieber riegelt man das Netz ab und verschliesst die Augen vor den Herausforderungen. Ein Grund mehr, Nein zum #Geldspielgesetz zu sagen.","http://twitter.com/wahlch15/status/987356548593831937",2018-04-20 17:45:00,2018,16,2018-04-20,"RT @andrisilbi_:","#geldspielgesetz ","de","de"
-"126","@wahlch15","RT @cwasi: Internetzensur nein danke! Keine chinesischen Methoden beim #Geldspielgesetz! Markt und Innovation ist besser als #Netzsperre.  @FDP_Liberalen @Jungfreisinnige #GSGnein @gsg_nein #cewe_newsroom #abst18 #CHvote
-<f0><U+009F><U+0091><U+0089> https://t.co/Guf9Ydio8O https://t.co/PfKZqtwG5N","http://twitter.com/wahlch15/status/987356703292383232",2018-04-20 17:45:00,2018,16,2018-04-20,"RT @cwasi:","c(""#geldspielgesetz! "", ""#netzsperre. "", ""#gsgnein "", ""#cewe_newsroom "", ""#abst18 "", ""#chvote"")","de","de"
-"127","@thomasdayer","RT @GuidoBalmerEJPD: «Gejubelt würde in Malta und Gibraltar»: Bundesrätin #Sommaruga zu den Folgen einer Ablehnung des Geldspielgesetzes. Im Interview mit @MajaBriner und Roger Braun von den Regionalmedien der @nzz (@tagblatt_ch @LuzernerZeitung etc.).
-
-Auch via https://t.co/MYaRQqTiZj
-
-#GSGja #Vot18 https://t.co/XAR2oIaArH","http://twitter.com/thomasdayer/status/987361246138785792",2018-04-20 18:04:00,2018,16,2018-04-20,"RT @GuidoBalmerEJPD:","c(""#sommaruga "", ""#gsgja "", ""#vot18 "")","de","de"
-"128","@demokratie_ch","RT @ChVuille: Heute entscheidet die Berner SVP über das #Geldspielgesetz . Gegen Adrian Amstutz (Ja) tritt Beat Flach (GLP) an – obwohl @NatalieRickli @lukasreimann oder @zac1967 verfügbar gewesen wären. Die Recherche bei @nau_live mit @MBaerlocher https://t.co/M3Z5cMgWyl","http://twitter.com/demokratie_ch/status/987363596882595840",2018-04-20 18:13:00,2018,16,2018-04-20,"RT @ChVuille:","#geldspielgesetz ","de","de"
-"129","@FDP_BL","Ja, wir sind stolz auf euch! Ihr gingt voran und habt das Referendum ergriffen! Deshalb stimmen wir jetzt überhaupt über das #Geldspielgesetz ab. #jungfreisinn @Jungfreisinnige @andrisilbi_ @FDP_Liberalen https://t.co/ExdSblux3U","http://twitter.com/FDP_BL/status/987366690009829376",2018-04-20 18:25:00,2018,16,2018-04-20,NA,"c(""#geldspielgesetz "", ""#jungfreisinn "")","de","de"
-"130","@buercher","RT @dhuerlimann: Die Glaubwürdigkeit der Schweizer Rechtsordnung wird beschädigt, wenn sie sich zur Rechtsdurchsetzung weitgehend untauglicher Mittel bedient. -- https://t.co/oZMImEsJpe","http://twitter.com/buercher/status/987366918888873986",2018-04-20 18:26:00,2018,16,2018-04-20,"RT @dhuerlimann:","character(0)","de","de"
-"131","@ErichAschi","In der SVP gibt es einen Graben zwischen Zürich und Bern #GSG https://t.co/8gXUyTz3Hu via @nzz","http://twitter.com/ErichAschi/status/987367760362602497",2018-04-20 18:29:00,2018,16,2018-04-20,NA,"#gsg ","de","de"
-"132","@tatamagdy77","RT @cwasi: Internetzensur nein danke! Keine chinesischen Methoden beim #Geldspielgesetz! Markt und Innovation ist besser als #Netzsperre.  @FDP_Liberalen @Jungfreisinnige #GSGnein @gsg_nein #cewe_newsroom #abst18 #CHvote
-<f0><U+009F><U+0091><U+0089> https://t.co/Guf9Ydio8O https://t.co/PfKZqtwG5N","http://twitter.com/tatamagdy77/status/987376650387062784",2018-04-20 19:05:00,2018,16,2018-04-20,"RT @cwasi:","c(""#geldspielgesetz! "", ""#netzsperre. "", ""#gsgnein "", ""#cewe_newsroom "", ""#abst18 "", ""#chvote"")","de","de"
-"133","@Simone_Richner","RT @cwasi: Internetzensur nein danke! Keine chinesischen Methoden beim #Geldspielgesetz! Markt und Innovation ist besser als #Netzsperre.  @FDP_Liberalen @Jungfreisinnige #GSGnein @gsg_nein #cewe_newsroom #abst18 #CHvote
-<f0><U+009F><U+0091><U+0089> https://t.co/Guf9Ydio8O https://t.co/PfKZqtwG5N","http://twitter.com/Simone_Richner/status/987377004986105856",2018-04-20 19:06:00,2018,16,2018-04-20,"RT @cwasi:","c(""#geldspielgesetz! "", ""#netzsperre. "", ""#gsgnein "", ""#cewe_newsroom "", ""#abst18 "", ""#chvote"")","de","de"
-"134","@TschankMichel","RT @cwasi: Internetzensur nein danke! Keine chinesischen Methoden beim #Geldspielgesetz! Markt und Innovation ist besser als #Netzsperre.  @FDP_Liberalen @Jungfreisinnige #GSGnein @gsg_nein #cewe_newsroom #abst18 #CHvote
-<f0><U+009F><U+0091><U+0089> https://t.co/Guf9Ydio8O https://t.co/PfKZqtwG5N","http://twitter.com/TschankMichel/status/987379278475071488",2018-04-20 19:15:00,2018,16,2018-04-20,"RT @cwasi:","c(""#geldspielgesetz! "", ""#netzsperre. "", ""#gsgnein "", ""#cewe_newsroom "", ""#abst18 "", ""#chvote"")","de","de"
-"135","@asba_j","Ein unmoralisches Angebot: Wie Ausländer sich eine Schweizer Abstimmung kaufen #Geldspielgesetz #politik  https://t.co/ybTBvb5ZWz","http://twitter.com/asba_j/status/987383366805803008",2018-04-20 19:31:00,2018,16,2018-04-20,NA,"c(""#geldspielgesetz "", ""#politik "")","de","de"
-"136","@NicolasJutzet","RT @sosicles: Gut gebrüllt, Löwe! @Marcel_Dobler erklärt in der @Handelszeitung , wieso das #Geldspielgesetz abzulehnen ist. #netzsperren https://t.co/4iXYspGmm2","http://twitter.com/NicolasJutzet/status/987387498782511104",2018-04-20 19:48:00,2018,16,2018-04-20,"RT @sosicles:","c(""#geldspielgesetz "", ""#netzsperren "")","de","de"
-"137","@martin_candinas","RT @CVP_PDC: Der Parteivorstand der CVP Schweiz befürwortet das #Geldspielgesetz mit 33 Stimmen zu 4 Stimmen bei 3 Enthaltungen. Morgen werden die Delegierten an der #DVCVPCH ihre Parole fassen. https://t.co/D7lYMa88hq","http://twitter.com/martin_candinas/status/987399167453646849",2018-04-20 20:34:00,2018,16,2018-04-20,"RT @CVP_PDC:","c(""#geldspielgesetz "", ""#dvcvpch "")","de","de"
-"138","@fabiangrepper","Auch das #Geldspielgesetz <f0><U+009F><U+00A4><U+00AC> wird am @JFAargau Parteitag einstimmig abgelehnt! <f0><U+009F><U+0092><U+00AA><f0><U+009F><U+008F><U+00BB>
+#abst18 #AugenAuf https://t.co/rSvM9pwKPr","http://twitter.com/gabisoft/status/987347719378362369",2018-04-20 17:10:00,2018,16,2018-04-20,"RT @NeueWegeSchweiz:","c(""#vollgeld-geldsystem "", ""#ubs "", ""#cs "", ""#abst18 "", ""#augenauf "")"
+"69","@CVP_PDC","Bereits Ende Januar lehnte der Parteivorstand der CVP Schweiz die #Vollgeldinitiative mit 53:0 Stimmen bei zwei Enthaltungen ab. Unsere Argumente sind hier zu finden: https://t.co/xFATccX4yc cc @vollgeld_nein https://t.co/o5xmVyzfdi","http://twitter.com/CVP_PDC/status/987353907281227777",2018-04-20 17:34:00,2018,16,2018-04-20,NA,"#vollgeldinitiative "
+"70","@ZWKZug","#vollgeld, #Steuervorlage SV17, US #TaxReform, Erfolgsmodell Zug, Investitionen in Infrastruktur schaffen neue Arbeitsplätze, neue Ämterverteilung und Köpfe bei @ZWKZug, Private Equity in Zug. Mehr dazu https://t.co/5pmPEjwAVA","http://twitter.com/ZWKZug/status/987355152704311296",2018-04-20 17:39:00,2018,16,2018-04-20,NA,"c(""#vollgeld, "", ""#steuervorlage "", ""#taxreform, "")"
+"71","@vollgeld_nein","RT @CVP_PDC: Bereits Ende Januar lehnte der Parteivorstand der CVP Schweiz die #Vollgeldinitiative mit 53:0 Stimmen bei zwei Enthaltungen ab. Unsere Argumente sind hier zu finden: https://t.co/xFATccX4yc cc @vollgeld_nein https://t.co/o5xmVyzfdi","http://twitter.com/vollgeld_nein/status/987355960355250176",2018-04-20 17:42:00,2018,16,2018-04-20,"RT @CVP_PDC:","#vollgeldinitiative "
+"72","@Vollgeldreform","@CVP_PDC @vollgeld_nein Gehen Sie davon aus, dass heute Geschäftsbanken bei der Kreditvergabe Sichteinlagen weitergeben? <f0><U+009F><U+00A4><U+0094><f0><U+009F><U+00A4><U+00A8>
+#vollgeld","http://twitter.com/Vollgeldreform/status/987360697196666880",2018-04-20 18:01:00,2018,16,2018-04-20,NA,"#vollgeld"
+"73","@Vollgeldreform","Wer Planwirtschaft und #Vollgeld gleichsetzt hat nicht begriffen was das Ziel der Vollgeld-Initiative ist! 
+Wir wollen öffentliche Geldherstellung und private Kreditvergabe! Auch mit Vollgeld vergeben die Banken die Kredite!! <f0><U+009F><U+0099><U+0084><f0><U+009F><U+0099><U+0084>#abst18 #chvote","http://twitter.com/Vollgeldreform/status/987362531491635200",2018-04-20 18:09:00,2018,16,2018-04-20,NA,"c(""#vollgeld "", ""#abst18 "", ""#chvote"")"
+"74","@Seven4wakeup","RT @Vollgeldreform: @CVP_PDC @vollgeld_nein Gehen Sie davon aus, dass heute Geschäftsbanken bei der Kreditvergabe Sichteinlagen weitergeben? <f0><U+009F><U+00A4><U+0094><f0><U+009F><U+00A4><U+00A8>
+#vollgeld","http://twitter.com/Seven4wakeup/status/987366922214834176",2018-04-20 18:26:00,2018,16,2018-04-20,"RT @Vollgeldreform:","#vollgeld"
+"75","@Tobias_Hendry","RT @Vollgeldreform: Wer Planwirtschaft und #Vollgeld gleichsetzt hat nicht begriffen was das Ziel der Vollgeld-Initiative ist! 
+Wir wollen öffentliche Geldherstellung und private Kreditvergabe! Auch mit Vollgeld vergeben die Banken die Kredite!! <f0><U+009F><U+0099><U+0084><f0><U+009F><U+0099><U+0084>#abst18 #chvote","http://twitter.com/Tobias_Hendry/status/987367503058948096",2018-04-20 18:28:00,2018,16,2018-04-20,"RT @Vollgeldreform:","c(""#vollgeld "", ""#abst18 "", ""#chvote"")"
+"76","@Vollgeldreform","@CVP_PDC @vollgeld_nein Versucht die CVP bei den Lesern den (falschen) Eindruck zu hinterlassen, die Banken würden heute bei der Kreditvergabe Spargelder weiter geben?
+#Vollgeld #abst18 #chvote","http://twitter.com/Vollgeldreform/status/987369212837617664",2018-04-20 18:35:00,2018,16,2018-04-20,NA,"c(""#vollgeld "", ""#abst18 "", ""#chvote"")"
+"77","@Tobias_Hendry","RT @Vollgeldreform: @CVP_PDC @vollgeld_nein Versucht die CVP bei den Lesern den (falschen) Eindruck zu hinterlassen, die Banken würden heute bei der Kreditvergabe Spargelder weiter geben?
+#Vollgeld #abst18 #chvote","http://twitter.com/Tobias_Hendry/status/987369438344286208",2018-04-20 18:36:00,2018,16,2018-04-20,"RT @Vollgeldreform:","c(""#vollgeld "", ""#abst18 "", ""#chvote"")"
+"78","@seifgammal","RT @Vollgeldreform: @CVP_PDC @vollgeld_nein Versucht die CVP bei den Lesern den (falschen) Eindruck zu hinterlassen, die Banken würden heute bei der Kreditvergabe Spargelder weiter geben?
+#Vollgeld #abst18 #chvote","http://twitter.com/seifgammal/status/987370448135639040",2018-04-20 18:40:00,2018,16,2018-04-20,"RT @Vollgeldreform:","c(""#vollgeld "", ""#abst18 "", ""#chvote"")"
+"79","@Seven4wakeup","RT @Vollgeldreform: @CVP_PDC @vollgeld_nein Versucht die CVP bei den Lesern den (falschen) Eindruck zu hinterlassen, die Banken würden heute bei der Kreditvergabe Spargelder weiter geben?
+#Vollgeld #abst18 #chvote","http://twitter.com/Seven4wakeup/status/987371596552826881",2018-04-20 18:45:00,2018,16,2018-04-20,"RT @Vollgeldreform:","c(""#vollgeld "", ""#abst18 "", ""#chvote"")"
+"80","@Tobias_Hendry","@Vollgeldreform @CVP_PDC @vollgeld_nein Die Falsche der CVP würde ich aber auch ablehnen. Wenn über die richtige Vollgeldinitiative so falsch informiert wurde ist diese 53:0-Ablehnung nachvollziehbar. Ich verweise auf dieses interaktive Gespräch, da kann man sich korrekt informieren: https://t.co/IAV8BGa0L5","http://twitter.com/Tobias_Hendry/status/987373022838509569",2018-04-20 18:50:00,2018,16,2018-04-20,NA,"character(0)"
+"81","@Vollgeldreform","RT @Seven4wakeup: Das Hauptargumentarium der Gegner beruht darauf, daß #Vollgeld etwas neues wäre. Sie verkennen dabei, daß es JEDES Element der #Vollgeldinitiative schoneinmal gab in der <f0><U+009F><U+0087><U+00A8><f0><U+009F><U+0087><U+00AD>.
+Ich bin froh, ging es nicht immer nach den Gegnern, sonst würden wir heute noch in Höhlen leben.
+#abst18 https://t.co/ZHIhlNlMg6","http://twitter.com/Vollgeldreform/status/987374146316271618",2018-04-20 18:55:00,2018,16,2018-04-20,"RT @Seven4wakeup:","c(""#vollgeld "", ""#vollgeldinitiative "", ""#abst18 "")"
+"82","@AndreasSprecher","RT @xavipip: @CVP_PDC @vollgeld_nein JA zur Vollgeldinitiative! https://t.co/CzjRhv6R1w","http://twitter.com/AndreasSprecher/status/987377174842880000",2018-04-20 19:07:00,2018,16,2018-04-20,"RT @xavipip:","character(0)"
+"83","@stocki363","RT @Vollgeldreform: @CVP_PDC @vollgeld_nein Gehen Sie davon aus, dass heute Geschäftsbanken bei der Kreditvergabe Sichteinlagen weitergeben? <f0><U+009F><U+00A4><U+0094><f0><U+009F><U+00A4><U+00A8>
+#vollgeld","http://twitter.com/stocki363/status/987379158845095936",2018-04-20 19:15:00,2018,16,2018-04-20,"RT @Vollgeldreform:","#vollgeld"
+"84","@Seven4wakeup","RT @Vollgeldreform: Wer Planwirtschaft und #Vollgeld gleichsetzt hat nicht begriffen was das Ziel der Vollgeld-Initiative ist! 
+Wir wollen öffentliche Geldherstellung und private Kreditvergabe! Auch mit Vollgeld vergeben die Banken die Kredite!! <f0><U+009F><U+0099><U+0084><f0><U+009F><U+0099><U+0084>#abst18 #chvote","http://twitter.com/Seven4wakeup/status/987386770567385088",2018-04-20 19:45:00,2018,16,2018-04-20,"RT @Vollgeldreform:","c(""#vollgeld "", ""#abst18 "", ""#chvote"")"
+"85","@NeueWegeSchweiz","RT @Vollgeldreform: @CVP_PDC @vollgeld_nein Versucht die CVP bei den Lesern den (falschen) Eindruck zu hinterlassen, die Banken würden heute bei der Kreditvergabe Spargelder weiter geben?
+#Vollgeld #abst18 #chvote","http://twitter.com/NeueWegeSchweiz/status/987394686116683777",2018-04-20 20:16:00,2018,16,2018-04-20,"RT @Vollgeldreform:","c(""#vollgeld "", ""#abst18 "", ""#chvote"")"
+"86","@Vollgeldreform","Grundlagen können nicht geleugnet werden. Die Banken stellen das elektronische Geld her. Da der Text auf falschen Annahmen basiert, empfehlen wir: <U+2702><U+FE0F><U+2702><U+FE0F><f0><U+009F><U+0097><U+0091><U+FE0F><f0><U+009F><U+0094><U+00A5><f0><U+009F><U+0094><U+00A5>
+#Vollgeld #abst18 #chvote
+Bitte jetzt abstimmen! &gt;&gt; https://t.co/pGgUEBzafO https://t.co/bh88dZG3KE","http://twitter.com/Vollgeldreform/status/987397878606893056",2018-04-20 20:29:00,2018,16,2018-04-20,NA,"c(""#vollgeld "", ""#abst18 "", ""#chvote"")"
+"87","@Tobias_Hendry","RT @Vollgeldreform: Grundlagen können nicht geleugnet werden. Die Banken stellen das elektronische Geld her. Da der Text auf falschen Annahmen basiert, empfehlen wir: <U+2702><U+FE0F><U+2702><U+FE0F><f0><U+009F><U+0097><U+0091><U+FE0F><f0><U+009F><U+0094><U+00A5><f0><U+009F><U+0094><U+00A5>
+#Vollgeld #abst18 #chvote
+Bitte jetzt abstimmen! &gt;&gt; https://t.co/pGgUEBzafO https://t.co/bh88dZG3KE","http://twitter.com/Tobias_Hendry/status/987398771389714433",2018-04-20 20:33:00,2018,16,2018-04-20,"RT @Vollgeldreform:","c(""#vollgeld "", ""#abst18 "", ""#chvote"")"
+"88","@martin_candinas","RT @CVP_PDC: Bereits Ende Januar lehnte der Parteivorstand der CVP Schweiz die #Vollgeldinitiative mit 53:0 Stimmen bei zwei Enthaltungen ab. Unsere Argumente sind hier zu finden: https://t.co/xFATccX4yc cc @vollgeld_nein https://t.co/o5xmVyzfdi","http://twitter.com/martin_candinas/status/987399150730989572",2018-04-20 20:34:00,2018,16,2018-04-20,"RT @CVP_PDC:","#vollgeldinitiative "
+"89","@JungeGrueneZH","Weiter gehts mit einem spannenden Podium zur #Vollgeldinitiative mit Martin Alder vom Initiativkomitee, und Basil Oberholzer, Kantonsrat @jungegruene_sg #Abst18 #Vollgeld https://t.co/961mawT3i5","http://twitter.com/JungeGrueneZH/status/987399470043328512",2018-04-20 20:35:00,2018,16,2018-04-20,NA,"c(""#vollgeldinitiative "", ""#abst18 "", ""#vollgeld "")"
+"90","@schellerfamily1","RT @Vollgeldreform: Grundlagen können nicht geleugnet werden. Die Banken stellen das elektronische Geld her. Da der Text auf falschen Annahmen basiert, empfehlen wir: <U+2702><U+FE0F><U+2702><U+FE0F><f0><U+009F><U+0097><U+0091><U+FE0F><f0><U+009F><U+0094><U+00A5><f0><U+009F><U+0094><U+00A5>
+#Vollgeld #abst18 #chvote
+Bitte jetzt abstimmen! &gt;&gt; https://t.co/pGgUEBzafO https://t.co/bh88dZG3KE","http://twitter.com/schellerfamily1/status/987399923384676352",2018-04-20 20:37:00,2018,16,2018-04-20,"RT @Vollgeldreform:","c(""#vollgeld "", ""#abst18 "", ""#chvote"")"
+"91","@NeueWegeSchweiz","RT @Vollgeldreform: Grundlagen können nicht geleugnet werden. Die Banken stellen das elektronische Geld her. Da der Text auf falschen Annahmen basiert, empfehlen wir: <U+2702><U+FE0F><U+2702><U+FE0F><f0><U+009F><U+0097><U+0091><U+FE0F><f0><U+009F><U+0094><U+00A5><f0><U+009F><U+0094><U+00A5>
+#Vollgeld #abst18 #chvote
+Bitte jetzt abstimmen! &gt;&gt; https://t.co/pGgUEBzafO https://t.co/bh88dZG3KE","http://twitter.com/NeueWegeSchweiz/status/987400514211078149",2018-04-20 20:40:00,2018,16,2018-04-20,"RT @Vollgeldreform:","c(""#vollgeld "", ""#abst18 "", ""#chvote"")"
+"92","@fabiangrepper","#Vollgeld Initiative wird am Parteitag der @JFAargau einstimmig abgelehnt! <f0><U+009F><U+0092><U+00AA><f0><U+009F><U+008F><U+00BB>
 . 
-@gsg_nein @geldspiel_ja #Geldspielgesetz #GSGnein #NeinzuNetzsperren @fdp_ag #CasinoKartellGesetz @FDP_Liberalen @Jungfreisinnige #CasinoKartell","http://twitter.com/fabiangrepper/status/987403123017830405",2018-04-20 20:50:00,2018,16,2018-04-20,NA,"c(""#geldspielgesetz "", ""#geldspielgesetz "", ""#gsgnein "", ""#neinzunetzsperren "", ""#casinokartellgesetz "", ""#casinokartell"")","de","de"
-"139","@ThomasLaeubli","@susanne_brunner @BinderMarianne Natürlich ist die Welt digitaler geworden. Gleichzeitig wollten die #Rechtsbürgerlichen die Inhalte von Urhebern im Netz nicht besser schützen. Und jetzt will man von Online-Spielen nur noch den Profit haben, ohne Kultur &amp; #Bildung zu berücksichtigen. Deshalb #GSGJa!","http://twitter.com/ThomasLaeubli/status/987404766476161024",2018-04-20 20:56:00,2018,16,2018-04-20,NA,"c(""#rechtsbürgerlichen "", ""#bildung "", ""#gsgja!"")","de","de"
-"140","@Richard_Koller","#Geldspielgesetz Es gibt KEINE Freiheit mit Internet-Zensur. Wollen wir die Bürgerinnen und Brüger für Unmündig erklären? Die ewige Rechtweisung durch unser Bundesbern und ""SS"" S. Sommaruga muss endlich engedämmt werden. #netzsperren #Casinomonopol #Freiheit @Staatshorror","http://twitter.com/Richard_Koller/status/987415903649325066",2018-04-20 21:41:00,2018,16,2018-04-20,NA,"c(""#geldspielgesetz "", ""#netzsperren "", ""#casinomonopol "", ""#freiheit "")","de","de"
-"141","@hans_denkt","RT @Richard_Koller: #Geldspielgesetz Es gibt KEINE Freiheit mit Internet-Zensur. Wollen wir die Bürgerinnen und Brüger für Unmündig erklären? Die ewige Rechtweisung durch unser Bundesbern und ""SS"" S. Sommaruga muss endlich engedämmt werden. #netzsperren #Casinomonopol #Freiheit @Staatshorror","http://twitter.com/hans_denkt/status/987415987891986434",2018-04-20 21:41:00,2018,16,2018-04-20,"RT @Richard_Koller:","c(""#geldspielgesetz "", ""#netzsperren "", ""#casinomonopol "", ""#freiheit "")","de","de"
-"142","@Tobias_Hendry","RT @Richard_Koller: #Geldspielgesetz Es gibt KEINE Freiheit mit Internet-Zensur. Wollen wir die Bürgerinnen und Brüger für Unmündig erklären? Die ewige Rechtweisung durch unser Bundesbern und ""SS"" S. Sommaruga muss endlich engedämmt werden. #netzsperren #Casinomonopol #Freiheit @Staatshorror","http://twitter.com/Tobias_Hendry/status/987416830494076928",2018-04-20 21:44:00,2018,16,2018-04-20,"RT @Richard_Koller:","c(""#geldspielgesetz "", ""#netzsperren "", ""#casinomonopol "", ""#freiheit "")","de","de"
-"143","@faegnaescht","RT @Richard_Koller: #Geldspielgesetz Es gibt KEINE Freiheit mit Internet-Zensur. Wollen wir die Bürgerinnen und Brüger für Unmündig erklären? Die ewige Rechtweisung durch unser Bundesbern und ""SS"" S. Sommaruga muss endlich engedämmt werden. #netzsperren #Casinomonopol #Freiheit @Staatshorror","http://twitter.com/faegnaescht/status/987419513506484224",2018-04-20 21:55:00,2018,16,2018-04-20,"RT @Richard_Koller:","c(""#geldspielgesetz "", ""#netzsperren "", ""#casinomonopol "", ""#freiheit "")","de","de"
-"144","@mhausding","RT @cwasi: Internetzensur nein danke! Keine chinesischen Methoden beim #Geldspielgesetz! Markt und Innovation ist besser als #Netzsperre.  @FDP_Liberalen @Jungfreisinnige #GSGnein @gsg_nein #cewe_newsroom #abst18 #CHvote
-<f0><U+009F><U+0091><U+0089> https://t.co/Guf9Ydio8O https://t.co/PfKZqtwG5N","http://twitter.com/mhausding/status/987419841341657090",2018-04-20 21:56:00,2018,16,2018-04-20,"RT @cwasi:","c(""#geldspielgesetz! "", ""#netzsperre. "", ""#gsgnein "", ""#cewe_newsroom "", ""#abst18 "", ""#chvote"")","de","de"
-"145","@glp_ag","RT @beatflach: #Netzsperren sind untauglich u. senden ein fatales Signal des Staates zur Zukunft des freien Internets aus. (Illegales muss man löschen, nicht sperren; Onlinespiele sind nicht illegal, sondern sollten konzessioniert werden). Lesenswert dazu: https://t.co/hMdzSILwYP #GSGNein","http://twitter.com/glp_ag/status/987421207980060674",2018-04-20 22:02:00,2018,16,2018-04-20,"RT @beatflach:","c(""#netzsperren "", ""#gsgnein"")","de","de"
-"146","@MikeGasche","@Richard_Koller @faegnaescht @Staatshorror Problem Online-Casinos: Ich schreibe den Algorithmus der zu Glück &amp; Verderben führt selber. In echten Casinos ist das aufgrund der Investitionen &amp; Kontrollen bedingt möglich. Nein, so einfach ist es nicht. Was möglich ist, wird auch gemacht, auch Kriminalität. #Geldspielgesetz","http://twitter.com/MikeGasche/status/987421800656265218",2018-04-20 22:04:00,2018,16,2018-04-20,NA,"#geldspielgesetz","de","de"
-"147","@Heierle","RT @Richard_Koller: #Geldspielgesetz Es gibt KEINE Freiheit mit Internet-Zensur. Wollen wir die Bürgerinnen und Brüger für Unmündig erklären? Die ewige Rechtweisung durch unser Bundesbern und ""SS"" S. Sommaruga muss endlich engedämmt werden. #netzsperren #Casinomonopol #Freiheit @Staatshorror","http://twitter.com/Heierle/status/987422656935923713",2018-04-20 22:08:00,2018,16,2018-04-20,"RT @Richard_Koller:","c(""#geldspielgesetz "", ""#netzsperren "", ""#casinomonopol "", ""#freiheit "")","de","de"
-"148","@Nightingal_news","Das Geldspielgesetz im Erklärvideo - watson
-https://t.co/lJgPZua0hu","http://twitter.com/Nightingal_news/status/987423694652956676",2018-04-20 22:12:00,2018,16,2018-04-20,NA,"character(0)","de","de"
-"149","@aldonago","RT @cwasi: Internetzensur nein danke! Keine chinesischen Methoden beim #Geldspielgesetz! Markt und Innovation ist besser als #Netzsperre.  @FDP_Liberalen @Jungfreisinnige #GSGnein @gsg_nein #cewe_newsroom #abst18 #CHvote
-<f0><U+009F><U+0091><U+0089> https://t.co/Guf9Ydio8O https://t.co/PfKZqtwG5N","http://twitter.com/aldonago/status/987430905416507399",2018-04-20 22:40:00,2018,16,2018-04-20,"RT @cwasi:","c(""#geldspielgesetz! "", ""#netzsperre. "", ""#gsgnein "", ""#cewe_newsroom "", ""#abst18 "", ""#chvote"")","de","de"
+@vollgeld_nein @Vollgeldreform
+@Jungfreisinnige","http://twitter.com/fabiangrepper/status/987401360466423808",2018-04-20 20:43:00,2018,16,2018-04-20,NA,"#vollgeld "
+"93","@Net2Ayurveda","RT @Vollgeldreform: Grundlagen können nicht geleugnet werden. Die Banken stellen das elektronische Geld her. Da der Text auf falschen Annahmen basiert, empfehlen wir: <U+2702><U+FE0F><U+2702><U+FE0F><f0><U+009F><U+0097><U+0091><U+FE0F><f0><U+009F><U+0094><U+00A5><f0><U+009F><U+0094><U+00A5>
+#Vollgeld #abst18 #chvote
+Bitte jetzt abstimmen! &gt;&gt; https://t.co/pGgUEBzafO https://t.co/bh88dZG3KE","http://twitter.com/Net2Ayurveda/status/987401561239408641",2018-04-20 20:44:00,2018,16,2018-04-20,"RT @Vollgeldreform:","c(""#vollgeld "", ""#abst18 "", ""#chvote"")"
+"94","@Seven4wakeup","RT @Vollgeldreform: Grundlagen können nicht geleugnet werden. Die Banken stellen das elektronische Geld her. Da der Text auf falschen Annahmen basiert, empfehlen wir: <U+2702><U+FE0F><U+2702><U+FE0F><f0><U+009F><U+0097><U+0091><U+FE0F><f0><U+009F><U+0094><U+00A5><f0><U+009F><U+0094><U+00A5>
+#Vollgeld #abst18 #chvote
+Bitte jetzt abstimmen! &gt;&gt; https://t.co/pGgUEBzafO https://t.co/bh88dZG3KE","http://twitter.com/Seven4wakeup/status/987403692868558852",2018-04-20 20:52:00,2018,16,2018-04-20,"RT @Vollgeldreform:","c(""#vollgeld "", ""#abst18 "", ""#chvote"")"
+"95","@AndreasSprecher","RT @Vollgeldreform: Wer Planwirtschaft und #Vollgeld gleichsetzt hat nicht begriffen was das Ziel der Vollgeld-Initiative ist! 
+Wir wollen öffentliche Geldherstellung und private Kreditvergabe! Auch mit Vollgeld vergeben die Banken die Kredite!! <f0><U+009F><U+0099><U+0084><f0><U+009F><U+0099><U+0084>#abst18 #chvote","http://twitter.com/AndreasSprecher/status/987403880303595520",2018-04-20 20:53:00,2018,16,2018-04-20,"RT @Vollgeldreform:","c(""#vollgeld "", ""#abst18 "", ""#chvote"")"
+"96","@RenatKuenzi","RT @swissinfo_de: Was würde sich ändern, wenn die Schweizer Stimmbürger am 10. Juni Ja sagen würden zur Vollgeldinitiative? Ein paar zentrale Punkte kurz erklärt. #Vollgeld #abst18
+https://t.co/QiMQtC4RKq","http://twitter.com/RenatKuenzi/status/987411994474090497",2018-04-20 21:25:00,2018,16,2018-04-20,"RT @swissinfo_de:","c(""#vollgeld "", ""#abst18"")"
+"97","@metamythos","RT @swissinfo_de: Was würde sich ändern, wenn die Schweizer Stimmbürger am 10. Juni Ja sagen würden zur Vollgeldinitiative? Ein paar zentrale Punkte kurz erklärt. #Vollgeld #abst18
+https://t.co/QiMQtC4RKq","http://twitter.com/metamythos/status/987415427293827072",2018-04-20 21:39:00,2018,16,2018-04-20,"RT @swissinfo_de:","c(""#vollgeld "", ""#abst18"")"
+"98","@JungeGrueneZH","Parolenfassung: Wir sagen JA zur @Vollgeldreform! #Vollgeldinitiative #Vollgeld #abst18 #CHvote","http://twitter.com/JungeGrueneZH/status/987420520613326848",2018-04-20 21:59:00,2018,16,2018-04-20,NA,"c(""#vollgeldinitiative "", ""#vollgeld "", ""#abst18 "", ""#chvote"")"
+"99","@vollgeld_nein","RT @fabiangrepper: #Vollgeld Initiative wird am Parteitag der @JFAargau einstimmig abgelehnt! <f0><U+009F><U+0092><U+00AA><f0><U+009F><U+008F><U+00BB>
+. 
+@vollgeld_nein @Vollgeldreform
+@Jungfreisinnige","http://twitter.com/vollgeld_nein/status/987427429802217473",2018-04-20 22:26:00,2018,16,2018-04-20,"RT @fabiangrepper:","#vollgeld "
+"100","@NeueWegeSchweiz","RT @JungeGrueneZH: Parolenfassung: Wir sagen JA zur @Vollgeldreform! #Vollgeldinitiative #Vollgeld #abst18 #CHvote","http://twitter.com/NeueWegeSchweiz/status/987428972785958912",2018-04-20 22:33:00,2018,16,2018-04-20,"RT @JungeGrueneZH:","c(""#vollgeldinitiative "", ""#vollgeld "", ""#abst18 "", ""#chvote"")"
+"101","@hermanneichhorn","Ich frage mich in den letzten Tagen des öfteren, woran all die Politiker von links und rechts dachten, als sie gegen #Vollgeld gestummen haben. Hatten sie sich wirklich gut informiert? Sind wir, die Befürworter, etwa blind oder sind die Banken-Lobbies einfach so stark etabliert?","http://twitter.com/hermanneichhorn/status/987431693643632641",2018-04-20 22:43:00,2018,16,2018-04-20,NA,"#vollgeld "
+"102","@CVPAargau","RT @CVP_PDC: Bereits Ende Januar lehnte der Parteivorstand der CVP Schweiz die #Vollgeldinitiative mit 53:0 Stimmen bei zwei Enthaltungen ab. Unsere Argumente sind hier zu finden: https://t.co/xFATccX4yc cc @vollgeld_nein https://t.co/o5xmVyzfdi","http://twitter.com/CVPAargau/status/987436208857985029",2018-04-20 23:01:00,2018,16,2018-04-20,"RT @CVP_PDC:","#vollgeldinitiative "
+"103","@pdcneuchatelois","RT @CVP_PDC: Bereits Ende Januar lehnte der Parteivorstand der CVP Schweiz die #Vollgeldinitiative mit 53:0 Stimmen bei zwei Enthaltungen ab. Unsere Argumente sind hier zu finden: https://t.co/xFATccX4yc cc @vollgeld_nein https://t.co/o5xmVyzfdi","http://twitter.com/pdcneuchatelois/status/987439861194948614",2018-04-20 23:16:00,2018,16,2018-04-20,"RT @CVP_PDC:","#vollgeldinitiative "
+"104","@stocki363","RT @Vollgeldreform: Grundlagen können nicht geleugnet werden. Die Banken stellen das elektronische Geld her. Da der Text auf falschen Annahmen basiert, empfehlen wir: <U+2702><U+FE0F><U+2702><U+FE0F><f0><U+009F><U+0097><U+0091><U+FE0F><f0><U+009F><U+0094><U+00A5><f0><U+009F><U+0094><U+00A5>
+#Vollgeld #abst18 #chvote
+Bitte jetzt abstimmen! &gt;&gt; https://t.co/pGgUEBzafO https://t.co/bh88dZG3KE","http://twitter.com/stocki363/status/987449126966190087",2018-04-20 23:53:00,2018,16,2018-04-20,"RT @Vollgeldreform:","c(""#vollgeld "", ""#abst18 "", ""#chvote"")"
+"105","@stocki363","RT @Vollgeldreform: Wer Planwirtschaft und #Vollgeld gleichsetzt hat nicht begriffen was das Ziel der Vollgeld-Initiative ist! 
+Wir wollen öffentliche Geldherstellung und private Kreditvergabe! Auch mit Vollgeld vergeben die Banken die Kredite!! <f0><U+009F><U+0099><U+0084><f0><U+009F><U+0099><U+0084>#abst18 #chvote","http://twitter.com/stocki363/status/987449400376033282",2018-04-20 23:54:00,2018,16,2018-04-20,"RT @Vollgeldreform:","c(""#vollgeld "", ""#abst18 "", ""#chvote"")"
+"106","@stocki363","RT @Vollgeldreform: @CVP_PDC @vollgeld_nein Versucht die CVP bei den Lesern den (falschen) Eindruck zu hinterlassen, die Banken würden heute bei der Kreditvergabe Spargelder weiter geben?
+#Vollgeld #abst18 #chvote","http://twitter.com/stocki363/status/987449898688827393",2018-04-20 23:56:00,2018,16,2018-04-20,"RT @Vollgeldreform:","c(""#vollgeld "", ""#abst18 "", ""#chvote"")"
+"107","@Voegizug","RT @Seven4wakeup: Wir können die ""Stabilität"" der Banken ziemlich einfach testen:
+
+Spazier auf deine Bank und heb dein Geld ab. Wenn das nur 5% der Bankkunden tun würden, dann krachts...
+Das nennt man nicht stabil, sondern fragil..<f0><U+009F><U+0099><U+0088>
+
+#Vollgeld #Vollgeldinitiative #abst18 #CHvote #VGI https://t.co/XVlynYiBAh","http://twitter.com/Voegizug/status/987490561954369536",2018-04-21 02:37:00,2018,16,2018-04-21,"RT @Seven4wakeup:","c(""#vollgeld "", ""#vollgeldinitiative "", ""#abst18 "", ""#chvote "", ""#vgi "")"
+"108","@mrhold","RT @Seven4wakeup: Wir können die ""Stabilität"" der Banken ziemlich einfach testen:
+
+Spazier auf deine Bank und heb dein Geld ab. Wenn das nur 5% der Bankkunden tun würden, dann krachts...
+Das nennt man nicht stabil, sondern fragil..<f0><U+009F><U+0099><U+0088>
+
+#Vollgeld #Vollgeldinitiative #abst18 #CHvote #VGI https://t.co/XVlynYiBAh","http://twitter.com/mrhold/status/987560662980284416",2018-04-21 07:16:00,2018,16,2018-04-21,"RT @Seven4wakeup:","c(""#vollgeld "", ""#vollgeldinitiative "", ""#abst18 "", ""#chvote "", ""#vgi "")"
+"109","@stocki363","RT @JungeGrueneZH: Parolenfassung: Wir sagen JA zur @Vollgeldreform! #Vollgeldinitiative #Vollgeld #abst18 #CHvote","http://twitter.com/stocki363/status/987562246313308162",2018-04-21 07:22:00,2018,16,2018-04-21,"RT @JungeGrueneZH:","c(""#vollgeldinitiative "", ""#vollgeld "", ""#abst18 "", ""#chvote"")"
+"110","@pearldiver99","#Vollgeld ist voll verkehrt ...","http://twitter.com/pearldiver99/status/987567206459375616",2018-04-21 07:42:00,2018,16,2018-04-21,NA,"#vollgeld "
+"111","@DrZoeGardner","Never poo-poo the value of #vgi Doodoowatch 'poo-shaming' map gains UK council interest https://t.co/iryTDcFFH4","http://twitter.com/DrZoeGardner/status/987568432588775424",2018-04-21 07:47:00,2018,16,2018-04-21,NA,"#vgi "
+"112","@whisperherz","RT @Seven4wakeup: Wir können die ""Stabilität"" der Banken ziemlich einfach testen:
+
+Spazier auf deine Bank und heb dein Geld ab. Wenn das nur 5% der Bankkunden tun würden, dann krachts...
+Das nennt man nicht stabil, sondern fragil..<f0><U+009F><U+0099><U+0088>
+
+#Vollgeld #Vollgeldinitiative #abst18 #CHvote #VGI https://t.co/XVlynYiBAh","http://twitter.com/whisperherz/status/987569495446310912",2018-04-21 07:51:00,2018,16,2018-04-21,"RT @Seven4wakeup:","c(""#vollgeld "", ""#vollgeldinitiative "", ""#abst18 "", ""#chvote "", ""#vgi "")"
+"113","@whisperherz","RT @Vollgeldreform: Wer Planwirtschaft und #Vollgeld gleichsetzt hat nicht begriffen was das Ziel der Vollgeld-Initiative ist! 
+Wir wollen öffentliche Geldherstellung und private Kreditvergabe! Auch mit Vollgeld vergeben die Banken die Kredite!! <f0><U+009F><U+0099><U+0084><f0><U+009F><U+0099><U+0084>#abst18 #chvote","http://twitter.com/whisperherz/status/987571609132306432",2018-04-21 07:59:00,2018,16,2018-04-21,"RT @Vollgeldreform:","c(""#vollgeld "", ""#abst18 "", ""#chvote"")"
+"114","@Vollgeldreform","#Vollgeld-Abstimmung: Beschwerde gegen #Nationalbank,  Konferenz der kantonalen #Finanzdirektoren und #Bundesrat eingereicht. Insgesamt unsachliche &amp; wahrheitswidrige Kommunikation im Vorfeld der Abstimmung vom 10. Juni.  - https://t.co/b8xOaiRfcr 
+#Abst18 #SNB","http://twitter.com/Vollgeldreform/status/987579172171247617",2018-04-21 08:29:00,2018,16,2018-04-21,NA,"c(""#vollgeld-abstimmung: "", ""#nationalbank, "", ""#finanzdirektoren "", ""#bundesrat "", ""#abst18 "", ""#snb"")"
+"115","@rootLogin","RT @swissinfo_de: Was würde sich ändern, wenn die Schweizer Stimmbürger am 10. Juni Ja sagen würden zur Vollgeldinitiative? Ein paar zentrale Punkte kurz erklärt. #Vollgeld #abst18
+https://t.co/QiMQtC4RKq","http://twitter.com/rootLogin/status/987580933103550464",2018-04-21 08:36:00,2018,16,2018-04-21,"RT @swissinfo_de:","c(""#vollgeld "", ""#abst18"")"
+"116","@stocki363","RT @Vollgeldreform: #Vollgeld-Abstimmung: Beschwerde gegen #Nationalbank,  Konferenz der kantonalen #Finanzdirektoren und #Bundesrat eingereicht. Insgesamt unsachliche &amp; wahrheitswidrige Kommunikation im Vorfeld der Abstimmung vom 10. Juni.  - https://t.co/b8xOaiRfcr 
+#Abst18 #SNB","http://twitter.com/stocki363/status/987581106961747968",2018-04-21 08:37:00,2018,16,2018-04-21,"RT @Vollgeldreform:","c(""#vollgeld-abstimmung: "", ""#nationalbank, "", ""#finanzdirektoren "", ""#bundesrat "", ""#abst18 "", ""#snb"")"
+"117","@NeueWegeSchweiz","RT @NeueWegeSchweiz: @BDPSchweiz @h_siegenthaler @vollgeld_nein @SNB_BNS_de Wird die BDP auch von den Grossbanken begünstigt? Betrag?
+https://t.co/8ZtbiL0qjc @Vollgeldreform 
+#transparenz #abst18 #vollgeld https://t.co/29jLdZtQmt","http://twitter.com/NeueWegeSchweiz/status/987585449769295872",2018-04-21 08:54:00,2018,16,2018-04-21,"RT @NeueWegeSchweiz:","c(""#transparenz "", ""#abst18 "", ""#vollgeld "")"
+"118","@EmanuelWaeber","#vollgeldinitiative-NEIN-weil: riskant-teuer-nutzlos!
+#initiative monnaie pleine-NON-parce que: risque-onereux-inutile!","http://twitter.com/EmanuelWaeber/status/987586292501401600",2018-04-21 08:58:00,2018,16,2018-04-21,NA,"c(""#vollgeldinitiative-nein-weil: "", ""#initiative "")"
+"119","@Vollgeldreform","Die Macher der Vollgeld-Initiative fahren scharfes Geschütz auf. Sie haben am Freitag beim Aargauer Regierungsrat eine Abstimmungsbeschwerde wegen Fehlinformation eingereicht! 
+
+#vollgeld #abst18 #chvote
+
+https://t.co/ktMNuPh9gC","http://twitter.com/Vollgeldreform/status/987591693892538368",2018-04-21 09:19:00,2018,16,2018-04-21,NA,"c(""#vollgeld "", ""#abst18 "", ""#chvote"")"
+"120","@stocki363","RT @Vollgeldreform: Die Macher der Vollgeld-Initiative fahren scharfes Geschütz auf. Sie haben am Freitag beim Aargauer Regierungsrat eine Abstimmungsbeschwerde wegen Fehlinformation eingereicht! 
+
+#vollgeld #abst18 #chvote
+
+https://t.co/ktMNuPh9gC","http://twitter.com/stocki363/status/987592074857009152",2018-04-21 09:21:00,2018,16,2018-04-21,"RT @Vollgeldreform:","c(""#vollgeld "", ""#abst18 "", ""#chvote"")"
+"121","@Handyverkaufer","Heute an der #DVCVP in Cham
+
+Zur Diskussion stehen:
+#Geldspielgesetz 
+#Vollgeld
+#Gesundheitsinitiative https://t.co/T8f3okLGby","http://twitter.com/Handyverkaufer/status/987604745123778560",2018-04-21 10:11:00,2018,16,2018-04-21,NA,"c(""#dvcvp "", ""#geldspielgesetz "", ""#vollgeld"", ""#gesundheitsinitiative "")"
+"122","@LauraCurau","RT @Handyverkaufer: Heute an der #DVCVP in Cham
+
+Zur Diskussion stehen:
+#Geldspielgesetz 
+#Vollgeld
+#Gesundheitsinitiative https://t.co/T8f3okLGby","http://twitter.com/LauraCurau/status/987605959219523585",2018-04-21 10:16:00,2018,16,2018-04-21,"RT @Handyverkaufer:","c(""#dvcvp "", ""#geldspielgesetz "", ""#vollgeld"", ""#gesundheitsinitiative "")"
+"123","@AndreasSprecher","RT @Tobias_Hendry: @Sanwaechter Dann doch lieber in der demokratisch kontrollierten Hand der SNB, als in der Hand der Privatbanken. Bei Polizei und Gerichten hat auch der Staat ein Monopol. Geldschöpfung ist auch ein service public.  #vollgeld JA","http://twitter.com/AndreasSprecher/status/987611983414513664",2018-04-21 10:40:00,2018,16,2018-04-21,"RT @Tobias_Hendry:","#vollgeld "
+"124","@Tobias_Hendry","RT @Seven4wakeup: Das ist doch mal eine Ansage! Vor den Referaten am @GDInstitute waren 52% für #Vollgeld, danach stolze 70%! Ausserdem bezeichneten alle Referenten ausser @RuediNoser und Aleksander Berentsen unser heutiges #Finanzsystem als höchst instabil und gefährlich!
+#Vollgeldinitiative #VGI https://t.co/u4FNZvmKj1","http://twitter.com/Tobias_Hendry/status/987613521193119746",2018-04-21 10:46:00,2018,16,2018-04-21,"RT @Seven4wakeup:","c(""#vollgeld, "", ""#finanzsystem "", ""#vollgeldinitiative "", ""#vgi "")"
+"125","@Net2Ayurveda","RT @Vollgeldreform: Grundlagen können nicht geleugnet werden. Die Banken stellen das elektronische Geld her. Da der Text auf falschen Annahmen basiert, empfehlen wir: <U+2702><U+FE0F><U+2702><U+FE0F><f0><U+009F><U+0097><U+0091><U+FE0F><f0><U+009F><U+0094><U+00A5><f0><U+009F><U+0094><U+00A5>
+#Vollgeld #abst18 #chvote
+Bitte jetzt abstimmen! &gt;&gt; https://t.co/pGgUEBzafO https://t.co/bh88dZG3KE","http://twitter.com/Net2Ayurveda/status/987623243094872064",2018-04-21 11:25:00,2018,16,2018-04-21,"RT @Vollgeldreform:","c(""#vollgeld "", ""#abst18 "", ""#chvote"")"
+"126","@SatireMan","RT @Seven4wakeup: Wir können die ""Stabilität"" der Banken ziemlich einfach testen:
+
+Spazier auf deine Bank und heb dein Geld ab. Wenn das nur 5% der Bankkunden tun würden, dann krachts...
+Das nennt man nicht stabil, sondern fragil..<f0><U+009F><U+0099><U+0088>
+
+#Vollgeld #Vollgeldinitiative #abst18 #CHvote #VGI https://t.co/XVlynYiBAh","http://twitter.com/SatireMan/status/987625889558081536",2018-04-21 11:35:00,2018,16,2018-04-21,"RT @Seven4wakeup:","c(""#vollgeld "", ""#vollgeldinitiative "", ""#abst18 "", ""#chvote "", ""#vgi "")"
+"127","@schellerfamily1","RT @Vollgeldreform: Die Macher der Vollgeld-Initiative fahren scharfes Geschütz auf. Sie haben am Freitag beim Aargauer Regierungsrat eine Abstimmungsbeschwerde wegen Fehlinformation eingereicht! 
+
+#vollgeld #abst18 #chvote
+
+https://t.co/ktMNuPh9gC","http://twitter.com/schellerfamily1/status/987634170095599622",2018-04-21 12:08:00,2018,16,2018-04-21,"RT @Vollgeldreform:","c(""#vollgeld "", ""#abst18 "", ""#chvote"")"
+"128","@Seven4wakeup","@CVP_PDC Gibts darauf noch eine Antwort oder verweigert ihr weiterhin Konsequent eine faire Debatte?
+#Vollgeld #Vollgeldinitiative 
+https://t.co/THKg6tLJQA","http://twitter.com/Seven4wakeup/status/987635860756713472",2018-04-21 12:15:00,2018,16,2018-04-21,NA,"c(""#vollgeld "", ""#vollgeldinitiative "")"
+"129","@srfnews","Initianten der #Vollgeld-Initiative haben ihre Ankündigung wahrgemacht und eine #Abstimmungsbeschwerde eingereicht. https://t.co/gnbtMQzWGv ^sh","http://twitter.com/srfnews/status/987637458065031169",2018-04-21 12:21:00,2018,16,2018-04-21,NA,"c(""#vollgeld-initiative "", ""#abstimmungsbeschwerde "")"
+"130","@stocki363","RT @Seven4wakeup: @CVP_PDC Gibts darauf noch eine Antwort oder verweigert ihr weiterhin Konsequent eine faire Debatte?
+#Vollgeld #Vollgeldinitiative 
+https://t.co/THKg6tLJQA","http://twitter.com/stocki363/status/987637666970730496",2018-04-21 12:22:00,2018,16,2018-04-21,"RT @Seven4wakeup:","c(""#vollgeld "", ""#vollgeldinitiative "")"
+"131","@pearldiver99","@srfnews Für ein wenig mediale Aufmerksamkeit würden die Initianden wohl auch noch über den Bundesplatz flitzen ... #Vollgeld","http://twitter.com/pearldiver99/status/987639392377430018",2018-04-21 12:29:00,2018,16,2018-04-21,NA,"#vollgeld"
+"132","@Seven4wakeup","«Wir sind der Meinung, dass unser Abstimmungsbüchlein sehr sorgfältig erstellt wurde, mit allen Experten, die zur Verfügung stehen», sagte Ueli Maurer.
+Im #Abstimmungsbüchlein steht aber kein Wort darüber, dass auch Darlehen an Banken vergeben werden können. <f0><U+009F><U+00A4><U+0094>
+
+#Vollgeld #abst18 https://t.co/04tlh8toGG","http://twitter.com/Seven4wakeup/status/987642426838876160",2018-04-21 12:41:00,2018,16,2018-04-21,NA,"c(""#abstimmungsbüchlein "", ""#vollgeld "", ""#abst18 "")"
+"133","@gabisoft","RT @srfnews: Initianten der #Vollgeld-Initiative haben ihre Ankündigung wahrgemacht und eine #Abstimmungsbeschwerde eingereicht. https://t.co/gnbtMQzWGv ^sh","http://twitter.com/gabisoft/status/987642512130134017",2018-04-21 12:41:00,2018,16,2018-04-21,"RT @srfnews:","c(""#vollgeld-initiative "", ""#abstimmungsbeschwerde "")"
+"134","@gabisoft","RT @Tobias_Hendry: @Sanwaechter Dann doch lieber in der demokratisch kontrollierten Hand der SNB, als in der Hand der Privatbanken. Bei Polizei und Gerichten hat auch der Staat ein Monopol. Geldschöpfung ist auch ein service public.  #vollgeld JA","http://twitter.com/gabisoft/status/987642770956455936",2018-04-21 12:42:00,2018,16,2018-04-21,"RT @Tobias_Hendry:","#vollgeld "
+"135","@gabisoft","RT @JungeGrueneZH: Parolenfassung: Wir sagen JA zur @Vollgeldreform! #Vollgeldinitiative #Vollgeld #abst18 #CHvote","http://twitter.com/gabisoft/status/987642872114634752",2018-04-21 12:43:00,2018,16,2018-04-21,"RT @JungeGrueneZH:","c(""#vollgeldinitiative "", ""#vollgeld "", ""#abst18 "", ""#chvote"")"
+"136","@Seven4wakeup","Da fragt man sich schon, was da passiert ist. Herrschte bei diesen Experten kollektive Blindheit? Oder war das Absicht?Besonders peinlich ist ja, dass es im gleichen Abschnitt wie die viel zitierte schuldfreie Ausgabe von Geld steht!
+#Vollgeldinitiative #CHvote #abst18 #Vollgeld","http://twitter.com/Seven4wakeup/status/987643311954460672",2018-04-21 12:44:00,2018,16,2018-04-21,NA,"c(""#vollgeldinitiative "", ""#chvote "", ""#abst18 "", ""#vollgeld"")"
+"137","@Tobias_Hendry","@CVP_PDC @gerhardpfister Die CVP verbreitet absichtlich Falschinformationen zur Vollgeldinitiative und verweigert den Dialog. https://t.co/oSjDyW6hmM","http://twitter.com/Tobias_Hendry/status/987645820576108546",2018-04-21 12:54:00,2018,16,2018-04-21,NA,"character(0)"
+"138","@schweiz","Haben Bundesrat und SNB nicht korrekt zur Vollgeld-Initiative informiert?: Die angekündigte Beschwerde zur Vollgeld-Initiative ist eingereicht worden. Darin wird die Information von Nationalbank und Bundesrat kritisiert. https://t.co/JxoF5OnJiN https://t.co/ZGdzyo34ti","http://twitter.com/schweiz/status/987646121219575809",2018-04-21 12:55:00,2018,16,2018-04-21,NA,"character(0)"
+"139","@gabisoft","RT @Seven4wakeup: @BDPSchweiz @SNB_BNS_de @vollgeld_nein In den letzten 50 Jahren wurde das Finanzsystem x mal komplett umgekrempelt, allein der Zahlungsverkehr lässt sich nicht im Traum mehr mit dem von 50 Jahren vergleichen. Allein die Aufhebung des Goldstandart z.B war ein weit größerer Eingriff als #Vollgeld!","http://twitter.com/gabisoft/status/987646189112840192",2018-04-21 12:56:00,2018,16,2018-04-21,"RT @Seven4wakeup:","#vollgeld!"
+"140","@gabisoft","RT @hermanneichhorn: Ich frage mich in den letzten Tagen des öfteren, woran all die Politiker von links und rechts dachten, als sie gegen #Vollgeld gestummen haben. Hatten sie sich wirklich gut informiert? Sind wir, die Befürworter, etwa blind oder sind die Banken-Lobbies einfach so stark etabliert?","http://twitter.com/gabisoft/status/987650625235243010",2018-04-21 13:13:00,2018,16,2018-04-21,"RT @hermanneichhorn:","#vollgeld "
+"141","@LuzernerZeitung","«Haarsträubende #Falschaussagen»: Das #Initiativkomitee hat die angekündigte #Abstimmungsbeschwerde wegen #Fehlinformation über die #Vollgeld-#Initiative eingereicht. 
+https://t.co/vBz3wPfylc","http://twitter.com/LuzernerZeitung/status/987656955740278785",2018-04-21 13:39:00,2018,16,2018-04-21,NA,"c(""#falschaussagen»: "", ""#initiativkomitee "", ""#abstimmungsbeschwerde "", ""#fehlinformation "", ""#vollgeld-#initiative "")"
+"142","@stocki363","RT @Seven4wakeup: «Wir sind der Meinung, dass unser Abstimmungsbüchlein sehr sorgfältig erstellt wurde, mit allen Experten, die zur Verfügung stehen», sagte Ueli Maurer.
+Im #Abstimmungsbüchlein steht aber kein Wort darüber, dass auch Darlehen an Banken vergeben werden können. <f0><U+009F><U+00A4><U+0094>
+
+#Vollgeld #abst18 https://t.co/04tlh8toGG","http://twitter.com/stocki363/status/987662700313567238",2018-04-21 14:01:00,2018,16,2018-04-21,"RT @Seven4wakeup:","c(""#abstimmungsbüchlein "", ""#vollgeld "", ""#abst18 "")"
+"143","@stocki363","RT @Seven4wakeup: Da fragt man sich schon, was da passiert ist. Herrschte bei diesen Experten kollektive Blindheit? Oder war das Absicht?Besonders peinlich ist ja, dass es im gleichen Abschnitt wie die viel zitierte schuldfreie Ausgabe von Geld steht!
+#Vollgeldinitiative #CHvote #abst18 #Vollgeld","http://twitter.com/stocki363/status/987662782710583299",2018-04-21 14:02:00,2018,16,2018-04-21,"RT @Seven4wakeup:","c(""#vollgeldinitiative "", ""#chvote "", ""#abst18 "", ""#vollgeld"")"
+"144","@Vollgeldreform","@Tobias_Hendry @CVP_PDC @gerhardpfister Mit dem Ausmass an Falschinformationen über #Vollgeld hat sich die #<U+03FD>VP ihr neues Logo mehr als verdient! Hoch lebe die #<U+03FD>VP !!","http://twitter.com/Vollgeldreform/status/987664712375599105",2018-04-21 14:09:00,2018,16,2018-04-21,NA,"c(""#vollgeld "", ""#<u+03fd>vp "", ""#<u+03fd>vp "")"
+"145","@flbergerDe","Grandiose kontroverse Diskussion über #Vollgeld zwischen Christian #Felber und Stephan #Schulmeister auf dem #tazlab, moderiert von Ulrike #Hermann.","http://twitter.com/flbergerDe/status/987674854328537091",2018-04-21 14:50:00,2018,16,2018-04-21,NA,"c(""#vollgeld "", ""#felber "", ""#schulmeister "", ""#tazlab, "", ""#hermann."")"
+"146","@Monnaie_Pleine","Au tour de Philippe Mastronardi, professeur de droit émérite à l'Université de Saint Gall #banquenationale #imp #vollgeld #monnaiepleine https://t.co/VO2RoULsAU","http://twitter.com/Monnaie_Pleine/status/987676334238334976",2018-04-21 14:56:00,2018,16,2018-04-21,NA,"c(""#banquenationale "", ""#imp "", ""#vollgeld "", ""#monnaiepleine "")"
+"147","@Monnaie_Pleine","""il n'y aura pas de restriction d'offre de crédit"" #philippemastronardi
+#banquenationale #imp #vollgeld #monnaiepleine #initiativemonnaiepleine #congresmonnaiepleine","http://twitter.com/Monnaie_Pleine/status/987676879124647936",2018-04-21 14:58:00,2018,16,2018-04-21,NA,"c(""#philippemastronardi"", ""#banquenationale "", ""#imp "", ""#vollgeld "", ""#monnaiepleine "", ""#initiativemonnaiepleine "", ""#congresmonnaiepleine"")"
+"148","@beaduparc","RT @Monnaie_Pleine: ""il n'y aura pas de restriction d'offre de crédit"" #philippemastronardi
+#banquenationale #imp #vollgeld #monnaiepleine #initiativemonnaiepleine #congresmonnaiepleine","http://twitter.com/beaduparc/status/987676973160857600",2018-04-21 14:58:00,2018,16,2018-04-21,"RT @Monnaie_Pleine:","c(""#philippemastronardi"", ""#banquenationale "", ""#imp "", ""#vollgeld "", ""#monnaiepleine "", ""#initiativemonnaiepleine "", ""#congresmonnaiepleine"")"
+"149","@beaduparc","""Le sytème #MonnaiePleine sauve notre argent même quand les banques ne fonctionnent plus""
+#philippemastronardi
+#banquenationale #imp #vollgeld #initiativemonnaiepleine #congresmonnaiepleine","http://twitter.com/beaduparc/status/987677246486974464",2018-04-21 14:59:00,2018,16,2018-04-21,NA,"c(""#monnaiepleine "", ""#philippemastronardi"", ""#banquenationale "", ""#imp "", ""#vollgeld "", ""#initiativemonnaiepleine "", ""#congresmonnaiepleine"")"
+"150","@Monnaie_Pleine","""Le sytème #MonnaiePleine sauve notre argent même quand les banques ne fonctionnent plus""
+#philippemastronardi
+#banquenationale #imp #vollgeld #initiativemonnaiepleine #congresmonnaiepleine","http://twitter.com/Monnaie_Pleine/status/987677363747123200",2018-04-21 15:00:00,2018,16,2018-04-21,NA,"c(""#monnaiepleine "", ""#philippemastronardi"", ""#banquenationale "", ""#imp "", ""#vollgeld "", ""#initiativemonnaiepleine "", ""#congresmonnaiepleine"")"
+"151","@beaduparc","RT @CdeMontpellier: New piece! The Swiss vote on the monetary system #vollgeld #monnaiepleine | https://t.co/TzFluQZDN9","http://twitter.com/beaduparc/status/987677492461883394",2018-04-21 15:00:00,2018,16,2018-04-21,"RT @CdeMontpellier:","c(""#vollgeld "", ""#monnaiepleine "")"
+"152","@beaduparc","""Nous garantissons les dépôts bancaires sans devoir sauver les banques""
+#philippemastronardi
+#banquenationale #imp #vollgeld #initiativemonnaiepleine #congresmonnaiepleine","http://twitter.com/beaduparc/status/987678207641112577",2018-04-21 15:03:00,2018,16,2018-04-21,NA,"c(""#philippemastronardi"", ""#banquenationale "", ""#imp "", ""#vollgeld "", ""#initiativemonnaiepleine "", ""#congresmonnaiepleine"")"
+"153","@Monnaie_Pleine","""La monnaie est un des domaines les plus mal connus de tous les milieux""#monnaiepleine
+#christiangomez #imp #vollgeld #initiativemonnaiepleine #congresmonnaiepleine","http://twitter.com/Monnaie_Pleine/status/987678812199628800",2018-04-21 15:05:00,2018,16,2018-04-21,NA,"c(""#monnaiepleine"", ""#christiangomez "", ""#imp "", ""#vollgeld "", ""#initiativemonnaiepleine "", ""#congresmonnaiepleine"")"
+"154","@beaduparc","RT @Monnaie_Pleine: ""La monnaie est un des domaines les plus mal connus de tous les milieux""#monnaiepleine
+#christiangomez #imp #vollgeld #initiativemonnaiepleine #congresmonnaiepleine","http://twitter.com/beaduparc/status/987679249887875072",2018-04-21 15:07:00,2018,16,2018-04-21,"RT @Monnaie_Pleine:","c(""#monnaiepleine"", ""#christiangomez "", ""#imp "", ""#vollgeld "", ""#initiativemonnaiepleine "", ""#congresmonnaiepleine"")"
+"155","@beaduparc","RT @Monnaie_Pleine: ""Le sytème #MonnaiePleine sauve notre argent même quand les banques ne fonctionnent plus""
+#philippemastronardi
+#banquenationale #imp #vollgeld #initiativemonnaiepleine #congresmonnaiepleine","http://twitter.com/beaduparc/status/987679288039272455",2018-04-21 15:07:00,2018,16,2018-04-21,"RT @Monnaie_Pleine:","c(""#monnaiepleine "", ""#philippemastronardi"", ""#banquenationale "", ""#imp "", ""#vollgeld "", ""#initiativemonnaiepleine "", ""#congresmonnaiepleine"")"
+"156","@Monnaie_Pleine","""Nous démystifions la propagande de peur de nos adversaires""
+#monnaiepleine
+#christiangomez #imp #vollgeld #initiativemonnaiepleine #congresmonnaiepleine https://t.co/KExJLVfShF","http://twitter.com/Monnaie_Pleine/status/987681686237470720",2018-04-21 15:17:00,2018,16,2018-04-21,NA,"c(""#monnaiepleine"", ""#christiangomez "", ""#imp "", ""#vollgeld "", ""#initiativemonnaiepleine "", ""#congresmonnaiepleine "")"
+"157","@beaduparc","RT @Monnaie_Pleine: ""Nous démystifions la propagande de peur de nos adversaires""
+#monnaiepleine
+#christiangomez #imp #vollgeld #initiativemonnaiepleine #congresmonnaiepleine https://t.co/KExJLVfShF","http://twitter.com/beaduparc/status/987681762456358912",2018-04-21 15:17:00,2018,16,2018-04-21,"RT @Monnaie_Pleine:","c(""#monnaiepleine"", ""#christiangomez "", ""#imp "", ""#vollgeld "", ""#initiativemonnaiepleine "", ""#congresmonnaiepleine "")"
+"158","@Monnaie_Pleine","""Si on veut éliminer la finance casino, on doit commencer par la #monnaiepleine ""
+#christiangomez #imp #vollgeld #initiativemonnaiepleine #congresmonnaiepleine","http://twitter.com/Monnaie_Pleine/status/987682197091045376",2018-04-21 15:19:00,2018,16,2018-04-21,NA,"c(""#monnaiepleine "", ""#christiangomez "", ""#imp "", ""#vollgeld "", ""#initiativemonnaiepleine "", ""#congresmonnaiepleine"")"
+"159","@beaduparc","RT @Monnaie_Pleine: ""Si on veut éliminer la finance casino, on doit commencer par la #monnaiepleine ""
+#christiangomez #imp #vollgeld #initiativemonnaiepleine #congresmonnaiepleine","http://twitter.com/beaduparc/status/987682291962007552",2018-04-21 15:19:00,2018,16,2018-04-21,"RT @Monnaie_Pleine:","c(""#monnaiepleine "", ""#christiangomez "", ""#imp "", ""#vollgeld "", ""#initiativemonnaiepleine "", ""#congresmonnaiepleine"")"
+"160","@Monnaie_Pleine","""Il n'y a aucun risque d'insuffisance d'épargne avec la #monnaiepleine ""
+#christiangomez #imp #vollgeld #initiativemonnaiepleine #congresmonnaiepleine https://t.co/rUCuAX5WOg","http://twitter.com/Monnaie_Pleine/status/987682535894339592",2018-04-21 15:20:00,2018,16,2018-04-21,NA,"c(""#monnaiepleine "", ""#christiangomez "", ""#imp "", ""#vollgeld "", ""#initiativemonnaiepleine "", ""#congresmonnaiepleine "")"
+"161","@beaduparc","RT @Monnaie_Pleine: ""Il n'y a aucun risque d'insuffisance d'épargne avec la #monnaiepleine ""
+#christiangomez #imp #vollgeld #initiativemonnaiepleine #congresmonnaiepleine https://t.co/rUCuAX5WOg","http://twitter.com/beaduparc/status/987682607080071168",2018-04-21 15:20:00,2018,16,2018-04-21,"RT @Monnaie_Pleine:","c(""#monnaiepleine "", ""#christiangomez "", ""#imp "", ""#vollgeld "", ""#initiativemonnaiepleine "", ""#congresmonnaiepleine "")"
+"162","@Waltika","RT @Monnaie_Pleine: ""il n'y aura pas de restriction d'offre de crédit"" #philippemastronardi
+#banquenationale #imp #vollgeld #monnaiepleine #initiativemonnaiepleine #congresmonnaiepleine","http://twitter.com/Waltika/status/987682844100169729",2018-04-21 15:21:00,2018,16,2018-04-21,"RT @Monnaie_Pleine:","c(""#philippemastronardi"", ""#banquenationale "", ""#imp "", ""#vollgeld "", ""#monnaiepleine "", ""#initiativemonnaiepleine "", ""#congresmonnaiepleine"")"
+"163","@fareedaasf","RT @Monnaie_Pleine: ""il n'y aura pas de restriction d'offre de crédit"" #philippemastronardi
+#banquenationale #imp #vollgeld #monnaiepleine #initiativemonnaiepleine #congresmonnaiepleine","http://twitter.com/fareedaasf/status/987683445043167232",2018-04-21 15:24:00,2018,16,2018-04-21,"RT @Monnaie_Pleine:","c(""#philippemastronardi"", ""#banquenationale "", ""#imp "", ""#vollgeld "", ""#monnaiepleine "", ""#initiativemonnaiepleine "", ""#congresmonnaiepleine"")"
+"164","@beaduparc","""Il n'y a aucun risque d'insuffisance d'épargne avec la #monnaiepleine ""
+#christiangomez #imp #vollgeld #initiativemonnaiepleine #congresmonnaiepleine https://t.co/QUBTU0Qi2s","http://twitter.com/beaduparc/status/987685637171052544",2018-04-21 15:33:00,2018,16,2018-04-21,NA,"c(""#monnaiepleine "", ""#christiangomez "", ""#imp "", ""#vollgeld "", ""#initiativemonnaiepleine "", ""#congresmonnaiepleine "")"
+"165","@Monnaie_Pleine","""Il n'y a aucun risque d'insuffisance d'épargne avec la #monnaiepleine ""
+#christiangomez #imp #vollgeld #initiativemonnaiepleine #congresmonnaiepleine https://t.co/M7qNaAkwCg","http://twitter.com/Monnaie_Pleine/status/987685744046166017",2018-04-21 15:33:00,2018,16,2018-04-21,NA,"c(""#monnaiepleine "", ""#christiangomez "", ""#imp "", ""#vollgeld "", ""#initiativemonnaiepleine "", ""#congresmonnaiepleine "")"
+"166","@beaduparc","RT @Monnaie_Pleine: ""Il n'y a aucun risque d'insuffisance d'épargne avec la #monnaiepleine ""
+#christiangomez #imp #vollgeld #initiativemonnaiepleine #congresmonnaiepleine https://t.co/M7qNaAkwCg","http://twitter.com/beaduparc/status/987685842679422981",2018-04-21 15:33:00,2018,16,2018-04-21,"RT @Monnaie_Pleine:","c(""#monnaiepleine "", ""#christiangomez "", ""#imp "", ""#vollgeld "", ""#initiativemonnaiepleine "", ""#congresmonnaiepleine "")"
+"167","@Nightingal_news","Zankapfel #Vollgeld-Initiative - Initianten reichen Abstimmungsbeschwerde ein - News - SRF https://t.co/PgRQagNHhE","http://twitter.com/Nightingal_news/status/987688300759699456",2018-04-21 15:43:00,2018,16,2018-04-21,NA,"#vollgeld-initiative "
+"168","@Seven4wakeup","@AlainS1991 Das waren nicht die Initianten, sondern ein Befürworter.
+Aber mal im Ernst, findes du wirklich, dass der Bundesrat die Initiative sachlich und korrekt dargelegt hat?
+Ist es nicht peinlich, wenn man z.B die Möglichkeit, Darlehen an Banken zu vergeben, einfach weglässt? 
+#Vollgeld","http://twitter.com/Seven4wakeup/status/987694902388674561",2018-04-21 16:09:00,2018,16,2018-04-21,NA,"#vollgeld"
+"169","@Monnaie_Pleine","""Ce sont vos impôts qui paient les intérêts de la dette"" Jean-Pierre Roth, ex directeur de la BNS. Sans sourciller...
+#monnaiepleine #imp #vollgeld","http://twitter.com/Monnaie_Pleine/status/987703230103769090",2018-04-21 16:42:00,2018,16,2018-04-21,NA,"c(""#monnaiepleine "", ""#imp "", ""#vollgeld"")"
+"170","@beaduparc","RT @Monnaie_Pleine: ""Ce sont vos impôts qui paient les intérêts de la dette"" Jean-Pierre Roth, ex directeur de la BNS. Sans sourciller...
+#monnaiepleine #imp #vollgeld","http://twitter.com/beaduparc/status/987703267755986946",2018-04-21 16:43:00,2018,16,2018-04-21,"RT @Monnaie_Pleine:","c(""#monnaiepleine "", ""#imp "", ""#vollgeld"")"
+"171","@MarkusEhrler","Sympathisant  #Vollgeld-Initiative reicht Beschwerde ein https://t.co/SoiQlmzdzZ @nzz Vollgeld bleibt so lange 1 Illusion, wie ihm unterliegende Markt-Segmente im Innern und gegen aussen polit-unterdrueckt nicht symbiotisch interdependent gleichgewichtsfindend frei sein duerfen.","http://twitter.com/MarkusEhrler/status/987703300618379264",2018-04-21 16:43:00,2018,16,2018-04-21,NA,"#vollgeld-initiative "
+"172","@Tobias_Hendry","RT @Seven4wakeup: «Wir sind der Meinung, dass unser Abstimmungsbüchlein sehr sorgfältig erstellt wurde, mit allen Experten, die zur Verfügung stehen», sagte Ueli Maurer.
+Im #Abstimmungsbüchlein steht aber kein Wort darüber, dass auch Darlehen an Banken vergeben werden können. <f0><U+009F><U+00A4><U+0094>
+
+#Vollgeld #abst18 https://t.co/04tlh8toGG","http://twitter.com/Tobias_Hendry/status/987703302589730816",2018-04-21 16:43:00,2018,16,2018-04-21,"RT @Seven4wakeup:","c(""#abstimmungsbüchlein "", ""#vollgeld "", ""#abst18 "")"
+"173","@Tobias_Hendry","RT @JungeGrueneZH: Parolenfassung: Wir sagen JA zur @Vollgeldreform! #Vollgeldinitiative #Vollgeld #abst18 #CHvote","http://twitter.com/Tobias_Hendry/status/987703468382212097",2018-04-21 16:43:00,2018,16,2018-04-21,"RT @JungeGrueneZH:","c(""#vollgeldinitiative "", ""#vollgeld "", ""#abst18 "", ""#chvote"")"
+"174","@Tobias_Hendry","RT @Vollgeldreform: #Vollgeld-Abstimmung: Beschwerde gegen #Nationalbank,  Konferenz der kantonalen #Finanzdirektoren und #Bundesrat eingereicht. Insgesamt unsachliche &amp; wahrheitswidrige Kommunikation im Vorfeld der Abstimmung vom 10. Juni.  - https://t.co/b8xOaiRfcr 
+#Abst18 #SNB","http://twitter.com/Tobias_Hendry/status/987703572610666496",2018-04-21 16:44:00,2018,16,2018-04-21,"RT @Vollgeldreform:","c(""#vollgeld-abstimmung: "", ""#nationalbank, "", ""#finanzdirektoren "", ""#bundesrat "", ""#abst18 "", ""#snb"")"
+"175","@AndreasSprecher","RT @Vollgeldreform: #Vollgeld-Abstimmung: Beschwerde gegen #Nationalbank,  Konferenz der kantonalen #Finanzdirektoren und #Bundesrat eingereicht. Insgesamt unsachliche &amp; wahrheitswidrige Kommunikation im Vorfeld der Abstimmung vom 10. Juni.  - https://t.co/b8xOaiRfcr 
+#Abst18 #SNB","http://twitter.com/AndreasSprecher/status/987704407793000449",2018-04-21 16:47:00,2018,16,2018-04-21,"RT @Vollgeldreform:","c(""#vollgeld-abstimmung: "", ""#nationalbank, "", ""#finanzdirektoren "", ""#bundesrat "", ""#abst18 "", ""#snb"")"
+"176","@Monnaie_Pleine","Salle comble pour le Congrès Monnaie Pleine aujourd'hui! Des débats passionnants et passionnés <f0><U+009F><U+0098><U+0080>#imp #monnaiepleine #vollgeld https://t.co/WZP47GhI5H","http://twitter.com/Monnaie_Pleine/status/987706759514087424",2018-04-21 16:56:00,2018,16,2018-04-21,NA,"c(""#imp "", ""#monnaiepleine "", ""#vollgeld "")"
+"177","@beaduparc","RT @Monnaie_Pleine: Salle comble pour le Congrès Monnaie Pleine aujourd'hui! Des débats passionnants et passionnés <f0><U+009F><U+0098><U+0080>#imp #monnaiepleine #vollgeld https://t.co/WZP47GhI5H","http://twitter.com/beaduparc/status/987706797703290881",2018-04-21 16:57:00,2018,16,2018-04-21,"RT @Monnaie_Pleine:","c(""#imp "", ""#monnaiepleine "", ""#vollgeld "")"
+"178","@JFAargau","RT @fabiangrepper: #Vollgeld Initiative wird am Parteitag der @JFAargau einstimmig abgelehnt! <f0><U+009F><U+0092><U+00AA><f0><U+009F><U+008F><U+00BB>
+. 
+@vollgeld_nein @Vollgeldreform
+@Jungfreisinnige","http://twitter.com/JFAargau/status/987706986962804736",2018-04-21 16:57:00,2018,16,2018-04-21,"RT @fabiangrepper:","#vollgeld "
+"179","@JFAargau","RT @FDP_Liberalen: Nein zum schädlichen Vollgeld-Experiment.
+Jetzt engagieren: https://t.co/XpKDO3H6SO
+#VollgeldNein https://t.co/UDdwyiPT3o","http://twitter.com/JFAargau/status/987707057259376640",2018-04-21 16:58:00,2018,16,2018-04-21,"RT @FDP_Liberalen:","#vollgeldnein "
+"180","@X_crossss","RT @AlainS1991: #Vollgeld - Gut gemeint ist das Gegenteil von gut. https://t.co/QbRPrc5Oyw","http://twitter.com/X_crossss/status/987712092395524096",2018-04-21 17:18:00,2018,16,2018-04-21,"RT @AlainS1991:","#vollgeld "
+"181","@Monnaie_Pleine","""La question est : Qui doit avoir le droit de créer la monnaie?"" Jean-Marc Heim #imp #monnaiepleine #Vollgeld","http://twitter.com/Monnaie_Pleine/status/987725924513845248",2018-04-21 18:13:00,2018,16,2018-04-21,NA,"c(""#imp "", ""#monnaiepleine "", ""#vollgeld"")"
+"182","@Seven4wakeup","Wenn man als #Bundesrat mit ""Kreditklemmen"" und ""die Nationalbank kann die Geldmenge nicht verringern"" Argumentiert, würde ich Darlehen an #Banken auch nicht erwähnen...
+Das würde ja gleich beide Argumente vom Tisch fegen! <f0><U+009F><U+00A4><U+00A6><f0><U+009F><U+008F><U+00BC><U+200D><U+2642><U+FE0F>
+
+#Vollgeld #Vollgeldinitiative #abst18 #CHvote https://t.co/s2AQpM3Vdk","http://twitter.com/Seven4wakeup/status/987732946298769408",2018-04-21 18:41:00,2018,16,2018-04-21,NA,"c(""#bundesrat "", ""#banken "", ""#vollgeld "", ""#vollgeldinitiative "", ""#abst18 "", ""#chvote "")"
+"183","@Tobias_Hendry","RT @Seven4wakeup: Wenn man als #Bundesrat mit ""Kreditklemmen"" und ""die Nationalbank kann die Geldmenge nicht verringern"" Argumentiert, würde ich Darlehen an #Banken auch nicht erwähnen...
+Das würde ja gleich beide Argumente vom Tisch fegen! <f0><U+009F><U+00A4><U+00A6><f0><U+009F><U+008F><U+00BC><U+200D><U+2642><U+FE0F>
+
+#Vollgeld #Vollgeldinitiative #abst18 #CHvote https://t.co/s2AQpM3Vdk","http://twitter.com/Tobias_Hendry/status/987736690646245376",2018-04-21 18:55:00,2018,16,2018-04-21,"RT @Seven4wakeup:","c(""#bundesrat "", ""#banken "", ""#vollgeld "", ""#vollgeldinitiative "", ""#abst18 "", ""#chvote "")"
+"184","@stocki363","RT @Seven4wakeup: Wenn man als #Bundesrat mit ""Kreditklemmen"" und ""die Nationalbank kann die Geldmenge nicht verringern"" Argumentiert, würde ich Darlehen an #Banken auch nicht erwähnen...
+Das würde ja gleich beide Argumente vom Tisch fegen! <f0><U+009F><U+00A4><U+00A6><f0><U+009F><U+008F><U+00BC><U+200D><U+2642><U+FE0F>
+
+#Vollgeld #Vollgeldinitiative #abst18 #CHvote https://t.co/s2AQpM3Vdk","http://twitter.com/stocki363/status/987741228098838528",2018-04-21 19:13:00,2018,16,2018-04-21,"RT @Seven4wakeup:","c(""#bundesrat "", ""#banken "", ""#vollgeld "", ""#vollgeldinitiative "", ""#abst18 "", ""#chvote "")"
+"185","@tadamzh","Die @jevp_ch beschliesst die Nein Parole zum #Vollgeld und Stimmfreigabe beim #Geldspielgesetz.","http://twitter.com/tadamzh/status/987750062968266753",2018-04-21 19:49:00,2018,16,2018-04-21,NA,"c(""#vollgeld "", ""#geldspielgesetz."")"
+"186","@Knackeboul","frage: wieso stellen sich mir bei der #vollgeldinitiative trotz durchaus nachvollziehbaren argumenten und vertrauenswürdigen befürwortern irgendwie die nackenhaare auf?","http://twitter.com/Knackeboul/status/987782939793608704",2018-04-21 21:59:00,2018,16,2018-04-21,NA,"#vollgeldinitiative "
+"187","@Ravi_Shiferaw","RT @Monnaie_Pleine: ""Ce sont vos impôts qui paient les intérêts de la dette"" Jean-Pierre Roth, ex directeur de la BNS. Sans sourciller...
+#monnaiepleine #imp #vollgeld","http://twitter.com/Ravi_Shiferaw/status/987802626241843200",2018-04-21 23:17:00,2018,16,2018-04-21,"RT @Monnaie_Pleine:","c(""#monnaiepleine "", ""#imp "", ""#vollgeld"")"
+"188","@RolfMll35367465","#vollgeld vollgekleckert https://t.co/gUlMGWhqUk","http://twitter.com/RolfMll35367465/status/987805149270814720",2018-04-21 23:27:00,2018,16,2018-04-21,NA,"#vollgeld "
+"189","@pearldiver99","@Seven4wakeup @srfnews Wichtige Eigenschaften der Initiative kannst Du in der Pfeife rauchen ... #Vollgeld","http://twitter.com/pearldiver99/status/987812282934624256",2018-04-21 23:56:00,2018,16,2018-04-21,NA,"#vollgeld"
+"190","@Nightingal_news","#Vollgeld – kurz erklärt - SWI https://t.co/DRYJryn3m9 https://t.co/6zATTPEzrh","http://twitter.com/Nightingal_news/status/987813614106103808",2018-04-22 00:01:00,2018,16,2018-04-22,NA,"#vollgeld "
+"191","@Seven4wakeup","@redder66 @Knackeboul Die Bankenlobby fährt eine gewaltige Angstkampagne, sie verlieren ja mit der #Vollgeldinitiative auch ihre Sonderprivilegen &amp; ihre Zwangs-Bürgerversicherung.
+Zwei Argumente möchte ich entkräftet.
+1. Alleingang sei unmöglich:
+https://t.co/3mL6UCByS3","http://twitter.com/Seven4wakeup/status/987813711569215489",2018-04-22 00:01:00,2018,16,2018-04-22,NA,"#vollgeldinitiative "
+"192","@Seven4wakeup","@redder66 @Knackeboul 2. #Vollgeld sei ein Experiment (es gab oder gibt  jedes Element der Vollgeldinitiative schon/noch): 
+https://t.co/BK9u0u2tgb","http://twitter.com/Seven4wakeup/status/987814365981224960",2018-04-22 00:04:00,2018,16,2018-04-22,NA,"#vollgeld "
+"193","@repfe","RT @tadamzh: Die @jevp_ch beschliesst die Nein Parole zum #Vollgeld und Stimmfreigabe beim #Geldspielgesetz.","http://twitter.com/repfe/status/987815704928940035",2018-04-22 00:09:00,2018,16,2018-04-22,"RT @tadamzh:","c(""#vollgeld "", ""#geldspielgesetz."")"
+"194","@mentiri_ch","RT @Vollgeldreform: Die Macher der Vollgeld-Initiative fahren scharfes Geschütz auf. Sie haben am Freitag beim Aargauer Regierungsrat eine Abstimmungsbeschwerde wegen Fehlinformation eingereicht! 
+
+#vollgeld #abst18 #chvote
+
+https://t.co/ktMNuPh9gC","http://twitter.com/mentiri_ch/status/987817434622169088",2018-04-22 00:16:00,2018,16,2018-04-22,"RT @Vollgeldreform:","c(""#vollgeld "", ""#abst18 "", ""#chvote"")"
+"195","@wahlch15","RT @tadamzh: Die @jevp_ch beschliesst die Nein Parole zum #Vollgeld und Stimmfreigabe beim #Geldspielgesetz.","http://twitter.com/wahlch15/status/987825719769169920",2018-04-22 00:49:00,2018,16,2018-04-22,"RT @tadamzh:","c(""#vollgeld "", ""#geldspielgesetz."")"
+"196","@Tobias_Hendry","@salegen Solange die Banken das Geld für ihre Kredite selber herstellen können, besitzen sie die Macht über uns. Sie sind daran interessiert, dass wir uns weiter verschulden und dass ihr Buchgeld ""arbeiten"" kann mit Zinsen. Wer dies nicht will, sagt am 10. Juni JA zur #Vollgeldinitiative.","http://twitter.com/Tobias_Hendry/status/987838339100364802",2018-04-22 01:39:00,2018,16,2018-04-22,NA,"#vollgeldinitiative."
+"197","@Seven4wakeup","RT @Tobias_Hendry: @salegen Solange die Banken das Geld für ihre Kredite selber herstellen können, besitzen sie die Macht über uns. Sie sind daran interessiert, dass wir uns weiter verschulden und dass ihr Buchgeld ""arbeiten"" kann mit Zinsen. Wer dies nicht will, sagt am 10. Juni JA zur #Vollgeldinitiative.","http://twitter.com/Seven4wakeup/status/987844544904548353",2018-04-22 02:04:00,2018,16,2018-04-22,"RT @Tobias_Hendry:","#vollgeldinitiative."
+"198","@Seven4wakeup","@RuediNoser ist nicht nur gegen die #Vollgeldinitiative, sondern er will auch, dass Banken ihre Bussen von den Steuern abziehen können...
+Tja, da weiss man wenigsten, für wen er kämpft..
+#Vollgeld #abst18 #CHvote https://t.co/YNGxWkn4Z4","http://twitter.com/Seven4wakeup/status/987845344326311936",2018-04-22 02:07:00,2018,16,2018-04-22,NA,"c(""#vollgeldinitiative, "", ""#vollgeld "", ""#abst18 "", ""#chvote "")"
+"199","@Tobias_Hendry","RT @Tobias_Hendry: @salegen Solange die Banken das Geld für ihre Kredite selber herstellen können, besitzen sie die Macht über uns. Sie sind daran interessiert, dass wir uns weiter verschulden und dass ihr Buchgeld ""arbeiten"" kann mit Zinsen. Wer dies nicht will, sagt am 10. Juni JA zur #Vollgeldinitiative.","http://twitter.com/Tobias_Hendry/status/987848866669178880",2018-04-22 02:21:00,2018,16,2018-04-22,"RT @Tobias_Hendry:","#vollgeldinitiative."
+"200","@Tobias_Hendry","Sollen private Banken Geld aus dem Nichts schöpfen können und diese auch per Kredit gewinnbringend anbieten? #Vollgeld NEIN
+
+Oder soll nur die demokratisch legitimierte Institution dies machen dürfen. Banken sollen aber weiterhin für Kredite zuständig sein. #Vollgeld JA.","http://twitter.com/Tobias_Hendry/status/987854016783798275",2018-04-22 02:42:00,2018,16,2018-04-22,NA,"c(""#vollgeld "", ""#vollgeld "")"
+"201","@stocki363","RT @Tobias_Hendry: Sollen private Banken Geld aus dem Nichts schöpfen können und diese auch per Kredit gewinnbringend anbieten? #Vollgeld NEIN
+
+Oder soll nur die demokratisch legitimierte Institution dies machen dürfen. Banken sollen aber weiterhin für Kredite zuständig sein. #Vollgeld JA.","http://twitter.com/stocki363/status/987926152462430208",2018-04-22 07:28:00,2018,16,2018-04-22,"RT @Tobias_Hendry:","c(""#vollgeld "", ""#vollgeld "")"
+"202","@stocki363","RT @Tobias_Hendry: @salegen Solange die Banken das Geld für ihre Kredite selber herstellen können, besitzen sie die Macht über uns. Sie sind daran interessiert, dass wir uns weiter verschulden und dass ihr Buchgeld ""arbeiten"" kann mit Zinsen. Wer dies nicht will, sagt am 10. Juni JA zur #Vollgeldinitiative.","http://twitter.com/stocki363/status/987926318145826817",2018-04-22 07:29:00,2018,16,2018-04-22,"RT @Tobias_Hendry:","#vollgeldinitiative."
+"203","@AndreasSprecher","#CHvote #MonnaiePlein #abst18 #Vollgeld  https://t.co/PzLhbHCRGO","http://twitter.com/AndreasSprecher/status/987967398190993408",2018-04-22 10:12:00,2018,16,2018-04-22,NA,"c(""#chvote "", ""#monnaieplein "", ""#abst18 "", ""#vollgeld "")"
+"204","@BillyTusker","RT @BillyTusker: I'm giving a seminar next week @OfficialUoM @HCRInstitute 
+""Volunteered geographic information (#VGI) and community #disaster #resilience: The good, the bad, &amp; the uncertain""
+16:30 23 Apr, G.19, Mansfield Cooper Bdg. https://t.co/EfbQSHCdrj
+@UoM_MCGIS @Sarah_J_Lindley #geography https://t.co/Hl3gRYmu1e","http://twitter.com/BillyTusker/status/987974158012375040",2018-04-22 10:39:00,2018,16,2018-04-22,"RT @BillyTusker:","c(""#vgi) "", ""#disaster "", ""#resilience: "", ""#geography "")"
+"205","@Tobias_Hendry","Sollen private Banken Geld aus dem Nichts schöpfen können und diese auch per Kredit gewinnbringend anbieten? #Verschuldung
+
+Oder soll nur die demokratisch legitimierte Institution (die SNB) dies machen. Banken sollen aber weiterhin für Kredite zuständig sein. #Vollgeld
+
+#abst18","http://twitter.com/Tobias_Hendry/status/987978733440167937",2018-04-22 10:57:00,2018,16,2018-04-22,NA,"c(""#verschuldung"", ""#vollgeld"", ""#abst18"")"
+"206","@TA_Politik","Fehlinformation im Abstimmungsbüchlein?https://t.co/SOdYgDASxq","http://twitter.com/TA_Politik/status/987979322345644034",2018-04-22 11:00:00,2018,16,2018-04-22,NA,"character(0)"
+"207","@Tobias_Hendry","RT @Seven4wakeup: @RuediNoser ist nicht nur gegen die #Vollgeldinitiative, sondern er will auch, dass Banken ihre Bussen von den Steuern abziehen können...
+Tja, da weiss man wenigsten, für wen er kämpft..
+#Vollgeld #abst18 #CHvote https://t.co/YNGxWkn4Z4","http://twitter.com/Tobias_Hendry/status/987984584439664640",2018-04-22 11:20:00,2018,16,2018-04-22,"RT @Seven4wakeup:","c(""#vollgeldinitiative, "", ""#vollgeld "", ""#abst18 "", ""#chvote "")"
+"208","@Vollgeldreform","FINANZMAG: Dass die Gefahren und mögliche Konsequenzen privater Geldschöpfung unterschätzt werden, zeigen die Umfragewerte vergangene Woche: Nur 37% der Schweizer befürworten die Idee des Vollgeldes! 
+#vollgeld #abst18 #chvote
+
+https://t.co/2PArsDYjgt","http://twitter.com/Vollgeldreform/status/987985783972868096",2018-04-22 11:25:00,2018,16,2018-04-22,NA,"c(""#vollgeld "", ""#abst18 "", ""#chvote"")"
+"209","@Tobias_Hendry","RT @Vollgeldreform: FINANZMAG: Dass die Gefahren und mögliche Konsequenzen privater Geldschöpfung unterschätzt werden, zeigen die Umfragewerte vergangene Woche: Nur 37% der Schweizer befürworten die Idee des Vollgeldes! 
+#vollgeld #abst18 #chvote
+
+https://t.co/2PArsDYjgt","http://twitter.com/Tobias_Hendry/status/987987352328032256",2018-04-22 11:31:00,2018,16,2018-04-22,"RT @Vollgeldreform:","c(""#vollgeld "", ""#abst18 "", ""#chvote"")"
+"210","@tagesanzeiger","RT @TA_Politik: Fehlinformation im Abstimmungsbüchlein?https://t.co/SOdYgDASxq","http://twitter.com/tagesanzeiger/status/987988732883161088",2018-04-22 11:37:00,2018,16,2018-04-22,"RT @TA_Politik:","character(0)"
+"211","@gabisoft","Um 1600: ""Es ist wichtig zu mahnen, dass Bankiers eine Todsünde begehen, wenn sie ... so viel von dem Geld einsetzen, ..., dass sie später nicht in der Lage sind, zur rechten Zeit die Mengen auszuhändigen, ..."" Heute haben Banken 8-10% reserve!!! #Vollgeld https://t.co/h77kZj7FWx","http://twitter.com/gabisoft/status/987993009756278784",2018-04-22 11:54:00,2018,16,2018-04-22,NA,"#vollgeld "
+"212","@Tobias_Hendry","RT @gabisoft: Um 1600: ""Es ist wichtig zu mahnen, dass Bankiers eine Todsünde begehen, wenn sie ... so viel von dem Geld einsetzen, ..., dass sie später nicht in der Lage sind, zur rechten Zeit die Mengen auszuhändigen, ..."" Heute haben Banken 8-10% reserve!!! #Vollgeld https://t.co/h77kZj7FWx","http://twitter.com/Tobias_Hendry/status/987993098440663041",2018-04-22 11:54:00,2018,16,2018-04-22,"RT @gabisoft:","#vollgeld "
+"213","@schellerfamily1","RT @Vollgeldreform: FINANZMAG: Dass die Gefahren und mögliche Konsequenzen privater Geldschöpfung unterschätzt werden, zeigen die Umfragewerte vergangene Woche: Nur 37% der Schweizer befürworten die Idee des Vollgeldes! 
+#vollgeld #abst18 #chvote
+
+https://t.co/2PArsDYjgt","http://twitter.com/schellerfamily1/status/987998882377453568",2018-04-22 12:17:00,2018,16,2018-04-22,"RT @Vollgeldreform:","c(""#vollgeld "", ""#abst18 "", ""#chvote"")"
+"214","@Ravi_Shiferaw","RT @beaduparc: ""Le sytème #MonnaiePleine sauve notre argent même quand les banques ne fonctionnent plus""
+#philippemastronardi
+#banquenationale #imp #vollgeld #initiativemonnaiepleine #congresmonnaiepleine","http://twitter.com/Ravi_Shiferaw/status/988001537682223106",2018-04-22 12:28:00,2018,16,2018-04-22,"RT @beaduparc:","c(""#monnaiepleine "", ""#philippemastronardi"", ""#banquenationale "", ""#imp "", ""#vollgeld "", ""#initiativemonnaiepleine "", ""#congresmonnaiepleine"")"
+"215","@stocki363","RT @Vollgeldreform: FINANZMAG: Dass die Gefahren und mögliche Konsequenzen privater Geldschöpfung unterschätzt werden, zeigen die Umfragewerte vergangene Woche: Nur 37% der Schweizer befürworten die Idee des Vollgeldes! 
+#vollgeld #abst18 #chvote
+
+https://t.co/2PArsDYjgt","http://twitter.com/stocki363/status/988008094176301056",2018-04-22 12:54:00,2018,16,2018-04-22,"RT @Vollgeldreform:","c(""#vollgeld "", ""#abst18 "", ""#chvote"")"
+"216","@stocki363","RT @Seven4wakeup: @SamKnocks Zur Klarstellung: ich meine mit meinem Tweet das heutige Finanzsystem. #Vollgeld befreit uns aus den ewigen Schulden und verhindert den unausweichlichen Schuldenkollaps..","http://twitter.com/stocki363/status/988008431633227776",2018-04-22 12:55:00,2018,16,2018-04-22,"RT @Seven4wakeup:","#vollgeld "
+"217","@gabisoft","Unser derzeitiges Geldsystem ist einfach nur Kaputt: ""..., die Geldmenge durch Kreditausweitung ... zu erhöhen und das Preisniveau der Konsumgüter und Dienstleistungen konstant zu halten..."" führte in den Kolaps von 1929. 2018 und nicht weiter. #Vollgeld https://t.co/RjQPQMvYdO","http://twitter.com/gabisoft/status/988011429662986240",2018-04-22 13:07:00,2018,16,2018-04-22,NA,"#vollgeld "
+"218","@Seven4wakeup","Die Geldschöpfung der Banken fügt Ihnen und den Menschen in Ihrer Umgebung erheblichen Schaden zu.
+
+Für weitere Informationen konsultieren Sie bitte diese drei Seiten:
+https://t.co/4DGsLWSQpI
+https://t.co/TcjDToZTM9
+https://t.co/cEO2jIKTBe
+
+#Vollgeld #abst18 #CHvote #VGI","http://twitter.com/Seven4wakeup/status/988028615014191104",2018-04-22 14:15:00,2018,16,2018-04-22,NA,"c(""#vollgeld "", ""#abst18 "", ""#chvote "", ""#vgi"")"
+"219","@hermanneichhorn","@PComunication @salegen @Voegizug Gewinne privat, Verluste sozial...
+Mit #Vollgeld soll eine Internalisierung der negativen externen Effekte auf natürliche Art entstehen: Dann können Banken nur noch mit Geld, das sie auch wirklich haben und nicht an ihre Kunden schulden, Risiken (z.B. Aktienglücksspiel) eingehen.","http://twitter.com/hermanneichhorn/status/988038637546811392",2018-04-22 14:55:00,2018,16,2018-04-22,NA,"#vollgeld "
+"220","@swissgoldvote","Do Swiss voters trust private banks and the Swiss National Bank? Both the #Vollgeld campaign and opponents of the initiative are likely to be focusing on trust surveys carried out in recent years #vollgeldinitiative #sovereignmoney #monnaiepleine #monetaintera #abst18 #chvote https://t.co/5WZiUjaKSs","http://twitter.com/swissgoldvote/status/988040363523833856",2018-04-22 15:02:00,2018,16,2018-04-22,NA,"c(""#vollgeld "", ""#vollgeldinitiative "", ""#sovereignmoney "", ""#monnaiepleine "", ""#monetaintera "", ""#abst18 "", ""#chvote "")"
+"221","@swissgoldvote","ING analyst says ""Without a doubt, this (#Vollgeld) initiative has the merit of asking interesting questions on the modern monetary system and bringing light to systems that are not well known to the general public"" Full note: https://t.co/r3UaOVl6fu (PDF) #abst18 #chvote #10june https://t.co/B1fqA6Tmuw","http://twitter.com/swissgoldvote/status/988051932500692993",2018-04-22 15:48:00,2018,16,2018-04-22,NA,"c(""#vollgeld) "", ""#abst18 "", ""#chvote "", ""#10june "")"
+"222","@NeueWegeSchweiz","RT @Seven4wakeup: Die Geldschöpfung der Banken fügt Ihnen und den Menschen in Ihrer Umgebung erheblichen Schaden zu.
+
+Für weitere Informationen konsultieren Sie bitte diese drei Seiten:
+https://t.co/4DGsLWSQpI
+https://t.co/TcjDToZTM9
+https://t.co/cEO2jIKTBe
+
+#Vollgeld #abst18 #CHvote #VGI","http://twitter.com/NeueWegeSchweiz/status/988075656658513920",2018-04-22 17:22:00,2018,16,2018-04-22,"RT @Seven4wakeup:","c(""#vollgeld "", ""#abst18 "", ""#chvote "", ""#vgi"")"
+"223","@stocki363","@NeueWegeSchweiz Hier scheint der ""deep state"" zu wirken.Konzentriertes,politisch aktives Geld zerstört eine Demokratie #bankenlobby
+Allerdings braucht es dazu eine willfährige Polit-""Elite"":schwaches Lobby-Parlament,lausiger BR.
+siehe #Waffenrecht #Vollgeld #VVG #TTIP
+CH hat e. Scheindemokratie!","http://twitter.com/stocki363/status/988075801928138752",2018-04-22 17:23:00,2018,16,2018-04-22,NA,"c(""#bankenlobby"", ""#waffenrecht "", ""#vollgeld "", ""#vvg "", ""#ttip"")"
+"224","@KarstenJetztBGE","RT @Seven4wakeup: Die Geldschöpfung der Banken fügt Ihnen und den Menschen in Ihrer Umgebung erheblichen Schaden zu.
+
+Für weitere Informationen konsultieren Sie bitte diese drei Seiten:
+https://t.co/4DGsLWSQpI
+https://t.co/TcjDToZTM9
+https://t.co/cEO2jIKTBe
+
+#Vollgeld #abst18 #CHvote #VGI","http://twitter.com/KarstenJetztBGE/status/988076272143228928",2018-04-22 17:25:00,2018,16,2018-04-22,"RT @Seven4wakeup:","c(""#vollgeld "", ""#abst18 "", ""#chvote "", ""#vgi"")"
+"225","@stocki363","RT @Seven4wakeup: Die Geldschöpfung der Banken fügt Ihnen und den Menschen in Ihrer Umgebung erheblichen Schaden zu.
+
+Für weitere Informationen konsultieren Sie bitte diese drei Seiten:
+https://t.co/4DGsLWSQpI
+https://t.co/TcjDToZTM9
+https://t.co/cEO2jIKTBe
+
+#Vollgeld #abst18 #CHvote #VGI","http://twitter.com/stocki363/status/988076281064456192",2018-04-22 17:25:00,2018,16,2018-04-22,"RT @Seven4wakeup:","c(""#vollgeld "", ""#abst18 "", ""#chvote "", ""#vgi"")"
+"226","@Tobias_Hendry","RT @Seven4wakeup: Die Geldschöpfung der Banken fügt Ihnen und den Menschen in Ihrer Umgebung erheblichen Schaden zu.
+
+Für weitere Informationen konsultieren Sie bitte diese drei Seiten:
+https://t.co/4DGsLWSQpI
+https://t.co/TcjDToZTM9
+https://t.co/cEO2jIKTBe
+
+#Vollgeld #abst18 #CHvote #VGI","http://twitter.com/Tobias_Hendry/status/988076640612896770",2018-04-22 17:26:00,2018,16,2018-04-22,"RT @Seven4wakeup:","c(""#vollgeld "", ""#abst18 "", ""#chvote "", ""#vgi"")"
+"227","@Veritatix","RT @Seven4wakeup: Die Geldschöpfung der Banken fügt Ihnen und den Menschen in Ihrer Umgebung erheblichen Schaden zu.
+
+Für weitere Informationen konsultieren Sie bitte diese drei Seiten:
+https://t.co/4DGsLWSQpI
+https://t.co/TcjDToZTM9
+https://t.co/cEO2jIKTBe
+
+#Vollgeld #abst18 #CHvote #VGI","http://twitter.com/Veritatix/status/988080347387715587",2018-04-22 17:41:00,2018,16,2018-04-22,"RT @Seven4wakeup:","c(""#vollgeld "", ""#abst18 "", ""#chvote "", ""#vgi"")"
+"228","@AndreasSprecher","RT @Seven4wakeup: Die Geldschöpfung der Banken fügt Ihnen und den Menschen in Ihrer Umgebung erheblichen Schaden zu.
+
+Für weitere Informationen konsultieren Sie bitte diese drei Seiten:
+https://t.co/4DGsLWSQpI
+https://t.co/TcjDToZTM9
+https://t.co/cEO2jIKTBe
+
+#Vollgeld #abst18 #CHvote #VGI","http://twitter.com/AndreasSprecher/status/988117679524536321",2018-04-22 20:09:00,2018,16,2018-04-22,"RT @Seven4wakeup:","c(""#vollgeld "", ""#abst18 "", ""#chvote "", ""#vgi"")"
