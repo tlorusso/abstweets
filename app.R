@@ -1,36 +1,32 @@
 #
-# This is a Shiny web application. You can run the application by clicking
-# the 'Run App' button above.
+# Politan.ch
+# 
 #
-# Find out more about building applications with Shiny here:
+# Twitter - Abstimmungskampfmonitor
 #
-#    http://shiny.rstudio.com/
+# Shiny-App   
 #
 
-# library(timetk)
-# library(dygraphs)
 library(pacman)
-# library(politantheme)
 
 pacman::p_load(tidyverse,echarts4r,shinythemes,DT,shiny)
 
+
+#Daten für Abstimmungen von 8.Juni
 vg_gsg <- readRDS("vg_gsg.rds") 
-
-# %>% 
-#               filter(!is.na(dmy)) 
-# %>% für dygraphs
-#                #extended timeseries 
-#               tk_xts(date_var=dmy)
-
+#GSG
 rt_gsg <- readRDS("retweets_gsg.rds")
 
 activity_gsg <- readRDS("activity_gsg.rds")
-
-
+#VGI
 rt_vg <- readRDS("retweets_vg.rds")
 
 activity_vg <- readRDS("activity_vg.rds")
 
+#Daten für Ref. zu Überwachung von Versicherten
+rt_sd <- readRDS("retweets_sd.rds")
+
+activity_sd <- readRDS("activity_sd.rds")
 
 # Define UI for application 
 ui <- fluidPage(theme = shinytheme("journal"),
@@ -93,35 +89,6 @@ ui <- fluidPage(theme = shinytheme("journal"),
 
 # Define server logic required to draw plot
 server <- function(input, output) {
-   
-  #ggplot2 version
-  # print(str(swr_data))
-  # plot
-  
-  # output$tweetplot <- renderPlot({
-  #   
-  #  vg_gsg %>% 
-  #     ggplot(aes(dmy,anzahl,color=vorlage,group=vorlage))+
-  #     geom_line()+
-  #     politantheme::theme_politan()+
-  #     labs(caption="politan.ch")
-  #   
-  # })
-  
-# # dygraphs-plot
-# output$tweetplot <- renderDygraph({
-#   
-#   dygraph(vg_gsg) %>%
-#     dySeries("vg", label = "Vollgeld",color = "black") %>%
-#     dySeries("vl", label = "Geldspielgesetz",color = "grey") %>% 
-#     dyOptions(drawPoints = TRUE, pointSize = 2) %>% 
-#     dyCSS("politan.css") %>% 
-#     dyAxis("x", label = "politan.ch")
-#   #für event-linien
-#   #%>% dyEvent("1950-6-30", "Korea", labelLoc = "bottom") %>%
-#     
-#   })
-  
   
 output$tweetplot <-  renderEcharts4r({
 

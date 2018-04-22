@@ -5,7 +5,7 @@ output: html_document
 
 Diese App zeigt die Anzahl Tweets mit den häufigsten Hashtags zu den eidgenössischen Vorlagen des anstehenden Abstimmungssonntags.
 
-**Vollgeldinitiative:**<br> #vollgeld, #vollgeldja, #vollgeldnein
+**Vollgeldinitiative:**<br> #vollgeld, #vollgeldja, #vollgeldnein, #vollgeldinitative
 
 **Referendum Geldspielgesetz:** #geldspielgesetz, #gsgnein, #gsg, #neinzumgsg, #refgsg, #casinokartellgesetz
 
