@@ -28,6 +28,8 @@ rt_sd <- readRDS("retweets_sd.rds")
 
 activity_sd <- readRDS("activity_sd.rds")
 
+tweets_sd<- readRDS("tweets_sd.rds")
+
 # Define UI for application 
 ui <- fluidPage(theme = shinytheme("journal"),
                 tags$head(includeScript("js/google-analytics.js")),
@@ -60,7 +62,8 @@ ui <- fluidPage(theme = shinytheme("journal"),
                            mainPanel(h4("Tweets"),
                                      echarts4rOutput("tweetplot")))),
                   #Tab - Panel zu Geldspielgesetz       
-                           tabPanel("Geldspielgesetz", titlePanel("Retweets & Aktivität"),
+                           tabPanel("Vorlagen vom 8.Juni 2018", titlePanel("Retweets & Aktivität"),
+                                    selectInput("df", "Select dataframe", choices = c('Geldspielgesetz'='activity_gsg','Vollgeld'='activity_vg'), selected = 'Vollgeld'),
                                     fluidRow(
                                       h4("Tweets"),
                                       DT::dataTableOutput("actgsg")),
@@ -69,18 +72,19 @@ ui <- fluidPage(theme = shinytheme("journal"),
                                       DT::dataTableOutput("rtgsg"))
                            ),
                   
-                  tabPanel("Vollgeldinitiative", titlePanel("Retweets & Aktivität"),
+                  tabPanel("#Versicherungsspione", titlePanel("Retweets & Aktivität"),
                            fluidRow(
+                             echarts4rOutput("tweetplot_sd"),
                              h4("Tweets"),
-                             DT::dataTableOutput("actvg")),
+                             DT::dataTableOutput("actsd")),
                            h4("Retweets pro User"),
                            fluidRow(
-                             DT::dataTableOutput("rtvg"))
+                             DT::dataTableOutput("rtsd"))
                           ),
                   
                   #Tab-panel datendownload etc.
                            tabPanel(p(icon("Info"), "Infos & Datendownload")
-                                    # ,includeMarkdown("about.Rmd")
+                                     # ,includeMarkdown("about.Rmd")
                                     )
                 ),a("Follow @politan_ch", href="http://twitter.com/politan_ch", class="twitter-follow-button", target="_blank"),
                 tags$head(tags$script(src="http://platform.twitter.com/widgets.js", type="text/javascript"))
@@ -105,10 +109,29 @@ vg_gsg %>%
   
   })
 
+
+output$tweetplot_sd <-  renderEcharts4r({
+  
+  tweets_sd %>% 
+    e_charts(dmy) %>% 
+    e_line(vg,name="Referendum ASTG") %>% 
+    e_tooltip(trigger = "axis") %>% 
+    e_toolbox(right="3%") %>% 
+    e_toolbox_feature(feature = "saveAsImage",title="Bild speichern") %>% 
+    e_toolbox_feature(feature = "dataView",title="Daten", lang="") %>% 
+    e_title("", "politan.ch", sublink = "http://politan.ch/")
+  
+})
+
+
 #tabellen für gsg
+
+df <- reactive({
+  x <- get(input$df)
+})
   
   output$actgsg = renderDT(
-    activity_gsg %>% 
+    df() %>% 
       mutate(screen_name=paste0("<a href='twitter.com/",screen_name,"' target='_blank'>",
                          screen_name,"</a>")) %>% 
       arrange(desc(n)),
@@ -143,7 +166,27 @@ vg_gsg %>%
     options = list(lengthChange = FALSE),
     escape = FALSE)
   
+
+  #tabellen für ATSG ("Überwachung Versicherte")
   
+  output$actsd= renderDT(
+    activity_sd %>% 
+      mutate(screen_name=paste0("<a href='twitter.com/",screen_name,"' target='_blank'>",
+                                screen_name,"</a>")) %>% 
+      arrange(desc(n)),
+    options = list(lengthChange = FALSE),
+    escape = FALSE)
+  
+  
+  output$rtsd = renderDT(
+    rt_sd %>% 
+      mutate(rt_user=paste0("<a href='twitter.com/",rt_user,"' target='_blank'>",
+                            rt_user,"</a>")) %>% 
+      arrange(desc(n)),
+    options = list(lengthChange = FALSE),
+    escape = FALSE)
+  
+    
 }
 
 # Run the application 
