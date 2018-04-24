@@ -54,16 +54,16 @@ ui <- fluidPage(theme = shinytheme("journal"),
                 tabsetPanel(
                          tabPanel("Plot", sidebarLayout(
                           sidebarPanel(
-                             h4("Am Puls des Abstimmungskampfes auf Twitter"),
+                            h4("Am Puls des Abstimmungskampfes auf Twitter"),
                            #   selectizeInput('e7', label= 'Choose District',choices = districts, 
                            #                  multiple = TRUE, selected = "Total Canton of Zurich", options= list(maxItems = 13)),
                            #   hr(),
-                           includeMarkdown("about.Rmd")),
+                           includeMarkdown("intro.Rmd")),
                            mainPanel(h4("Tweets"),
                                      echarts4rOutput("tweetplot")))),
                   #Tab - Panel zu Geldspielgesetz       
                            tabPanel("Vorlagen vom 8.Juni 2018", titlePanel("Retweets & Aktivität"),
-                                    selectInput("df", "Select dataframe", choices = c('Geldspielgesetz'='activity_gsg','Vollgeld'='activity_vg'), selected = 'Vollgeld'),
+                                    selectInput("df", "Vorlage wählen", choices = c('Geldspielgesetz'='activity_gsg','Vollgeld'='activity_vg'), selected = 'Geldspielgesetz'),
                                     fluidRow(
                                       h4("Tweets"),
                                       DT::dataTableOutput("actgsg")),
@@ -83,8 +83,9 @@ ui <- fluidPage(theme = shinytheme("journal"),
                           ),
                   
                   #Tab-panel datendownload etc.
-                           tabPanel(p(icon("Info"), "Infos & Datendownload")
-                                     # ,includeMarkdown("about.Rmd")
+                           tabPanel(p(icon("Info"), "Infos & Datendownload"),
+                                    h4("Am Puls des Abstimmungskampfes auf Twitter"),
+                                     includeMarkdown("about.Rmd")
                                     )
                 ),a("Follow @politan_ch", href="http://twitter.com/politan_ch", class="twitter-follow-button", target="_blank"),
                 tags$head(tags$script(src="http://platform.twitter.com/widgets.js", type="text/javascript"))
@@ -105,7 +106,8 @@ vg_gsg %>%
   e_toolbox(right="3%") %>% 
   e_toolbox_feature(feature = "saveAsImage",title="Bild speichern") %>% 
   e_toolbox_feature(feature = "dataView",title="Daten", lang="") %>% 
-  e_title("", "politan.ch", sublink = "http://politan.ch/")
+  e_title("", "politan.ch", sublink = "http://politan.ch/") %>% 
+  e_legend(orient=c("vertical"),top="-0%",padding="20")
   
   })
 

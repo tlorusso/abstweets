@@ -1,0 +1,7 @@
+---
+title: "intro"
+output: html_document
+---
+
+Diese App zeigt die Anzahl Tweets mit den häufigsten Hashtags zu den eidgenössischen Vorlagen des anstehenden Abstimmungssonntags. Informationen zur Datengrundlage und Downloadmöglichkeit gibts unter Info&Download.
+
