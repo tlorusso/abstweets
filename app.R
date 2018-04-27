@@ -7,6 +7,7 @@
 # Shiny-App   
 #
 
+
 library(pacman)
 
 pacman::p_load(tidyverse,echarts4r,shinythemes,DT,shiny)
@@ -31,7 +32,7 @@ activity_sd <- readRDS("activity_sd.rds")
 tweets_sd<- readRDS("tweets_sd.rds")
 
 # Define UI for application 
-ui <- fluidPage(theme = shinytheme("journal"),
+ui <- fluidPage(#theme = shinytheme("journal"),
                 tags$head(includeScript("js/google-analytics.js")),
                 tags$header(list(tags$style("img {display:inline-block;background-repeat:no-repeat;position:relative;left:10px;z-index:3;}"),
                                  tags$a(href="http://www.politan.ch", tags$img(src="logo_bw.png", height="70%"), target="_blank")),
