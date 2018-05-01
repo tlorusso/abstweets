@@ -28,6 +28,8 @@ rt_sd <- readRDS("retweets_sd.rds")
 
 activity_sd <- readRDS("activity_sd.rds")
 
+#wofür brauchst du diese?
+#resp. wo machst du diesen datensatz?
 tweets_sd<- readRDS("tweets_sd.rds")
 
 # Define UI for application 
