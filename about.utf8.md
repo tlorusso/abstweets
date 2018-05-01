@@ -17,6 +17,7 @@ Aktuell bildet die App das Gezwitscher zu den folgenden Hashtags ab:
 
 **Referendum ASTG:** #versicherungsspione, #versicherungsspitzel, #sozialdetektive
 
+
 #### Infos zur Methodik
 
 Die Tweets werden automatisiert über diese Hashtags oder Schlagworte identifiziert. Dieses Vorgehen hat Vor- und Nachteile : einerseits können wir so sicherstellen, dass die gesammelten Tweets mit sehr hoher Wahrscheinlichkeit mit den Abstimmungen im Bezug stehen. Dieses Vorgehen erlaubt es uns über die Zeit möglichst vergleichbare und auf ähnliche Weise erhobene Daten zu den vielen Abstimmungen zu sammeln. Doch andrerseits werden Tweets ohne Hashtag nicht erfasst. Ein Teil der Kommunikation zu den Abstimmungen fällt so durchs Netz. 

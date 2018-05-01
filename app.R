@@ -63,13 +63,13 @@ ui <- fluidPage(theme = shinytheme("journal"),
                                      echarts4rOutput("tweetplot")))),
                   #Tab - Panel zu Geldspielgesetz       
                            tabPanel("Vorlagen vom 8.Juni 2018", titlePanel("Retweets & Aktivität"),
-                                    selectInput("df", "Vorlage wählen", choices = c('Geldspielgesetz'='activity_gsg','Vollgeld'='activity_vg'), selected = 'Geldspielgesetz'),
+                                    selectInput("df", "Vorlage wählen", choices = c('Geldspielgesetz'='gsg','Vollgeld'='vg'), selected = 'Geldspielgesetz'),
                                     fluidRow(
                                       h4("Tweets"),
-                                      DT::dataTableOutput("actgsg")),
+                                      DT::dataTableOutput("act")),
                                     h4("Retweets pro User"),
                                     fluidRow(
-                                      DT::dataTableOutput("rtgsg"))
+                                      DT::dataTableOutput("rt"))
                            ),
                   
                   tabPanel("#Versicherungsspione", titlePanel("Retweets & Aktivität"),
@@ -126,14 +126,19 @@ output$tweetplot_sd <-  renderEcharts4r({
 })
 
 
-#tabellen für gsg
+#reaktive inputs um tabellen dynamnisch abzufüllen
 
-df <- reactive({
-  x <- get(input$df)
+actdf <- reactive({
+  x <- get(paste0('activity_',input$df))
 })
   
-  output$actgsg = renderDT(
-    df() %>% 
+rtdf <- reactive({
+  x <- get(paste0('rt_',input$df))
+})
+
+
+  output$act = renderDT(
+    actdf() %>% 
       mutate(screen_name=paste0("<a href='twitter.com/",screen_name,"' target='_blank'>",
                          screen_name,"</a>")) %>% 
       arrange(desc(n)),
@@ -141,8 +146,8 @@ df <- reactive({
     escape = FALSE)
 
 
-  output$rtgsg = renderDT(
-    rt_gsg %>% 
+  output$rt = renderDT(
+   rtdf() %>% 
       mutate(rt_user=paste0("<a href='twitter.com/",rt_user,"' target='_blank'>",
                                 rt_user,"</a>")) %>% 
       arrange(desc(n)),
