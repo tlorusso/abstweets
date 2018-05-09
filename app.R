@@ -94,8 +94,8 @@ ui <- fluidPage(theme = shinytheme("journal"),
                                     h4("Am Puls des Abstimmungskampfes auf Twitter"),
                                      includeMarkdown("about.Rmd"),
                                     selectInput("dataset", "Vorlage auswählen:",
-                                                choices = c("Geldspielgesetz" = "cyl",
-                                                            "Vollgeld" = "am",
+                                                choices = c("Geldspielgesetz" = "gsg",
+                                                            "Vollgeld" = "vg",
                                                             "ASTG" = "sd")),
                                     downloadButton("downloadData", "Download"),br(),br()
                                     )
@@ -207,18 +207,7 @@ rtdf <- reactive({
   
   
 # Downloadable csv of selected dataset ----
-  # 
-  # datasetInput <- reactive({
-  #   switch(input$dataset,
-  #          "Gedspielgesetz" = gsg_raw,
-  #          "Vollgeldinitiative" = vg_raw,
-  #          "ASTG" = astg_raw)
-  # })
-  # 
-  # 
-  
-#fix this part -> 
-  
+
 output$downloadData <- downloadHandler(
    
    filename <- function() {
@@ -226,7 +215,7 @@ output$downloadData <- downloadHandler(
     },
     
     content <- function(file) {
-      file.copy(paste0("rawdata_",input$dataset,".csv"), file)
+      file.copy(paste0("rawdata_", input$dataset, ".csv"), file)
     }
   )
   
