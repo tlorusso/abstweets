@@ -7,10 +7,11 @@
 # Shiny-App   
 #
 
-library(pacman)
-
-pacman::p_load(tidyverse,echarts4r,shinythemes,DT,shiny)
-
+library(tidyverse)
+library(echarts4r)
+library(shiny)
+library(DT)
+library(shinythemes)
 
 #Daten für Abstimmungen von 8.Juni
 vg_gsg <- readRDS("vg_gsg.rds") 
@@ -28,9 +29,13 @@ rt_sd <- readRDS("retweets_sd.rds")
 
 activity_sd <- readRDS("activity_sd.rds")
 
-#wofür brauchst du diese?
-#resp. wo machst du diesen datensatz?
 tweets_sd<- readRDS("tweets_sd.rds")
+
+#rohdaten für download
+
+gsg_raw <- read.csv("rawdata_gsg.csv")
+vg_raw <- read.csv("rawdata_vg.csv")
+astg_raw <- read.csv("rawdata_sd.csv")
 
 # Define UI for application 
 ui <- fluidPage(theme = shinytheme("journal"),
@@ -87,7 +92,12 @@ ui <- fluidPage(theme = shinytheme("journal"),
                   #Tab-panel datendownload etc.
                            tabPanel(p(icon("Info"), "Infos & Datendownload"),
                                     h4("Am Puls des Abstimmungskampfes auf Twitter"),
-                                     includeMarkdown("about.Rmd")
+                                     includeMarkdown("about.Rmd"),
+                                    selectInput("dataset", "Vorlage auswählen:",
+                                                choices = c("Geldspielgesetz" = "cyl",
+                                                            "Vollgeld" = "am",
+                                                            "ASTG" = "sd")),
+                                    downloadButton("downloadData", "Download"),br(),br()
                                     )
                 ),a("Follow @politan_ch", href="http://twitter.com/politan_ch", class="twitter-follow-button", target="_blank"),
                 tags$head(tags$script(src="http://platform.twitter.com/widgets.js", type="text/javascript"))
@@ -194,6 +204,31 @@ rtdf <- reactive({
       arrange(desc(n)),
     options = list(lengthChange = FALSE),
     escape = FALSE)
+  
+  
+# Downloadable csv of selected dataset ----
+  # 
+  # datasetInput <- reactive({
+  #   switch(input$dataset,
+  #          "Gedspielgesetz" = gsg_raw,
+  #          "Vollgeldinitiative" = vg_raw,
+  #          "ASTG" = astg_raw)
+  # })
+  # 
+  # 
+  
+#fix this part -> 
+  
+output$downloadData <- downloadHandler(
+   
+   filename <- function() {
+      paste0("rawdata_", input$dataset, ".csv")
+    },
+    
+    content <- function(file) {
+      file.copy(paste0("rawdata_",input$dataset,".csv"), file)
+    }
+  )
   
     
 }
