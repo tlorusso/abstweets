@@ -156,7 +156,7 @@ rtdf <- reactive({
 
   output$act = renderDT(
     actdf() %>% 
-      mutate(screen_name=paste0("<a href='twitter.com/",screen_name,"' target='_blank'>",
+      mutate(screen_name=paste0("<a href='http://www.twitter.com/",screen_name,"' target='_blank'>",
                          screen_name,"</a>")) %>% 
       arrange(desc(n)),
     options = list(lengthChange = FALSE),
@@ -165,7 +165,7 @@ rtdf <- reactive({
 
   output$rt = renderDT(
    rtdf() %>% 
-      mutate(rt_user=paste0("<a href='twitter.com/",rt_user,"' target='_blank'>",
+      mutate(rt_user=paste0("<a href='http://www.twitter.com/",rt_user,"' target='_blank'>",
                                 rt_user,"</a>")) %>% 
       arrange(desc(n)),
     options = list(lengthChange = FALSE),
@@ -175,7 +175,7 @@ rtdf <- reactive({
   
   output$actvg = renderDT(
     activity_vg %>% 
-      mutate(screen_name=paste0("<a href='twitter.com/",screen_name,"' target='_blank'>",
+      mutate(screen_name=paste0("<a href='http://www.twitter.com/",screen_name,"' target='_blank'>",
                                 screen_name,"</a>")) %>% 
       arrange(desc(n)),
     options = list(lengthChange = FALSE),
@@ -184,7 +184,7 @@ rtdf <- reactive({
   
   output$rtvg = renderDT(
     rt_vg %>% 
-      mutate(rt_user=paste0("<a href='twitter.com/",rt_user,"' target='_blank'>",
+      mutate(rt_user=paste0("<a href='http://www.twitter.com/",rt_user,"' target='_blank'>",
                             rt_user,"</a>")) %>% 
       arrange(desc(n)),
     options = list(lengthChange = FALSE),
@@ -195,7 +195,7 @@ rtdf <- reactive({
   
   output$actsd= renderDT(
     activity_sd %>% 
-      mutate(screen_name=paste0("<a href='twitter.com/",screen_name,"' target='_blank'>",
+      mutate(screen_name=paste0("<a href='http://www.twitter.com/",screen_name,"' target='_blank'>",
                                 screen_name,"</a>")) %>% 
       arrange(desc(n)),
     options = list(lengthChange = FALSE),
@@ -204,7 +204,7 @@ rtdf <- reactive({
   
   output$rtsd = renderDT(
     rt_sd %>% 
-      mutate(rt_user=paste0("<a href='twitter.com/",rt_user,"' target='_blank'>",
+      mutate(rt_user=paste0("<a href='http://www.twitter.com/",rt_user,"' target='_blank'>",
                             rt_user,"</a>")) %>% 
       arrange(desc(n)),
     options = list(lengthChange = FALSE),
