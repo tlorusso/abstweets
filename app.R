@@ -33,6 +33,8 @@ tweets_sd<- readRDS("tweets_sd.rds")
 
 #rohdaten für download
 
+# devtools::install_github("DivadNojnarg/shinydashboardPlus")
+
 gsg_raw <- read.csv("rawdata_gsg.csv")
 vg_raw <- read.csv("rawdata_vg.csv")
 astg_raw <- read.csv("rawdata_sd.csv")
@@ -43,6 +45,9 @@ ui <- fluidPage(theme = shinytheme("journal"),
                 tags$header(list(tags$style("img {display:inline-block;background-repeat:no-repeat;position:relative;left:10px;z-index:3;}"),
                                  tags$a(href="http://www.politan.ch", tags$img(src="logo_bw.png", height="70%"), target="_blank")),
                             tags$style("header {background-color: #333333;padding-top:10px;border-bottom:1px solid #474747;height:50px}")),
+                            
+                            #does not work yet - button customizing
+                            # tags$style(".nav-tabs li.active a::focus {border-radius: 4px 4px 4px 4px ;border-bottom-color: #ffffff;}")),
                 
                 tags$script(HTML("var header = $('.navbar > .container');
                                    header.append('<div style=\"float:right\"><a href=\"https://twitter.com/share\" class=\"twitter-follow-button\" aling=\"middle\" data-url=\"www.politan.ch:3838/vorumfragen\" data-text=\"Visit www.politan.ch:3838/vorumfragen\" data-size=\"large\">Tweet</a></div>');
@@ -59,7 +64,7 @@ ui <- fluidPage(theme = shinytheme("journal"),
                 titlePanel("  Twitter-Monitor "),
                 mainPanel(
                 tabsetPanel(
-                         tabPanel("Plot", sidebarLayout(
+                         tabPanel("Übersicht", sidebarLayout(
                           sidebarPanel(
                             h4("Am Puls des Abstimmungskampfes auf Twitter"),
                            #   selectizeInput('e7', label= 'Choose District',choices = districts, 
@@ -90,7 +95,7 @@ ui <- fluidPage(theme = shinytheme("journal"),
                           ),
                   
                   #Tab-panel datendownload etc.
-                           tabPanel(p(icon("Info"), "Infos & Datendownload"),
+                           tabPanel(icon = icon("info"),"Infos & Datendownload",
                                     h4("Am Puls des Abstimmungskampfes auf Twitter"),
                                      includeMarkdown("about.Rmd"),
                                     selectInput("dataset", "Vorlage auswählen:",
