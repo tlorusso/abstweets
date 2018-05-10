@@ -156,6 +156,7 @@ rtdf <- reactive({
 
   output$act = renderDT(
     actdf() %>% 
+      mutate(screen_name=paste0("<a href='http://www.twitter.com/",screen_name,"' target='_blank'>",
                          screen_name,"</a>")) %>% 
       arrange(desc(n)),
     options = list(lengthChange = FALSE),
@@ -164,56 +165,18 @@ rtdf <- reactive({
 
   output$rt = renderDT(
    rtdf() %>% 
+      mutate(rt_user=paste0("<a href='http://www.twitter.com/",rt_user,"' target='_blank'>",
                                 rt_user,"</a>")) %>% 
       arrange(desc(n)),
     options = list(lengthChange = FALSE),
    escape = FALSE)
-  
-  #tabellen für vgi
-<<<<<<< HEAD
-  # 
-  # output$actvg = renderDT(
-  #   activity_vg %>%
-  #     mutate(screen_name=paste0("<a href='twitter.com/",screen_name,"' target='_blank'>",
-  #                               screen_name,"</a>")) %>%
-  #     arrange(desc(n)),
-  #   options = list(lengthChange = FALSE),
-  #   escape = FALSE)
-  # 
-  # 
-  # output$rtvg = renderDT(
-  #   rt_vg %>%
-  #     mutate(rt_user=paste0("<a href='twitter.com/",rt_user,"' target='_blank'>",
-  #                           rt_user,"</a>")) %>%
-  #     arrange(desc(n)),
-  #   options = list(lengthChange = FALSE),
-  #   escape = FALSE)
 
-=======
-  
-  output$actvg = renderDT(
-    activity_vg %>% 
-      mutate(screen_name=paste0("<a href='http://www.twitter.com/",screen_name,"' target='_blank'>",
-                                screen_name,"</a>")) %>% 
-      arrange(desc(n)),
-    options = list(lengthChange = FALSE),
-    escape = FALSE)
-  
-  
-  output$rtvg = renderDT(
-    rt_vg %>% 
-      mutate(rt_user=paste0("<a href='http://www.twitter.com/",rt_user,"' target='_blank'>",
-                            rt_user,"</a>")) %>% 
-      arrange(desc(n)),
-    options = list(lengthChange = FALSE),
-    escape = FALSE)
-  
->>>>>>> 8609f4ad99881ca2666df07f3f32957d3f497b5c
 
   #tabellen für ATSG ("Überwachung Versicherte")
   
   output$actsd= renderDT(
     activity_sd %>% 
+      mutate(screen_name=paste0("<a href='http://www.twitter.com/",screen_name,"' target='_blank'>",
                                 screen_name,"</a>")) %>% 
       arrange(desc(n)),
     options = list(lengthChange = FALSE),
@@ -222,6 +185,7 @@ rtdf <- reactive({
   
   output$rtsd = renderDT(
     rt_sd %>% 
+      mutate(rt_user=paste0("<a href='http://www.twitter.com/",rt_user,"' target='_blank'>",
                             rt_user,"</a>")) %>% 
       arrange(desc(n)),
     options = list(lengthChange = FALSE),
