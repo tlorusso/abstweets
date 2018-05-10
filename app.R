@@ -172,24 +172,24 @@ rtdf <- reactive({
    escape = FALSE)
   
   #tabellen für vgi
-  
-  output$actvg = renderDT(
-    activity_vg %>% 
-      mutate(screen_name=paste0("<a href='twitter.com/",screen_name,"' target='_blank'>",
-                                screen_name,"</a>")) %>% 
-      arrange(desc(n)),
-    options = list(lengthChange = FALSE),
-    escape = FALSE)
-  
-  
-  output$rtvg = renderDT(
-    rt_vg %>% 
-      mutate(rt_user=paste0("<a href='twitter.com/",rt_user,"' target='_blank'>",
-                            rt_user,"</a>")) %>% 
-      arrange(desc(n)),
-    options = list(lengthChange = FALSE),
-    escape = FALSE)
-  
+  # 
+  # output$actvg = renderDT(
+  #   activity_vg %>%
+  #     mutate(screen_name=paste0("<a href='twitter.com/",screen_name,"' target='_blank'>",
+  #                               screen_name,"</a>")) %>%
+  #     arrange(desc(n)),
+  #   options = list(lengthChange = FALSE),
+  #   escape = FALSE)
+  # 
+  # 
+  # output$rtvg = renderDT(
+  #   rt_vg %>%
+  #     mutate(rt_user=paste0("<a href='twitter.com/",rt_user,"' target='_blank'>",
+  #                           rt_user,"</a>")) %>%
+  #     arrange(desc(n)),
+  #   options = list(lengthChange = FALSE),
+  #   escape = FALSE)
+
 
   #tabellen für ATSG ("Überwachung Versicherte")
   
